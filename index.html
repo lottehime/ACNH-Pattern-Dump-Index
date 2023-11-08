@@ -1,0 +1,66 @@
+<html> 
+<head> 
+<title>AC:NH Pattern Dump Index</title> 
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"> 
+<style> 
+.grid-container { 
+  display: grid; 
+  grid-template-columns: auto auto; 
+  gap: 10px; 
+  padding: 10px; 
+} 
+.grid-container  { 
+  background-color: rgba(255, 255, 255, 0.8); 
+  border: 1px solid black; 
+  text-align: center; 
+  font-size: 30px; 
+} 
+.imgfloat { 
+  z-index: 1; 
+  position: absolute; 
+  top: 10px; 
+  left: 10px; 
+} 
+#footer { 
+  position: fixed; 
+  bottom: 0; 
+  left: 0; 
+  right: 0; 
+  background-color: rgba(255,255,255,0.7); 
+  width: 100%; 
+  height: 4rem; 
+} 
+body { 
+   background-color: #2196F3; 
+   background-image: url("images/bg.png"); 
+   background-position: right bottom; 
+   background-repeat: no-repeat; 
+} 
+</style> 
+<script> 
+window.onload = displayImage; 
+var imagesArray = ["1.png", "2.png", "3.png", "4.png", "5.png", "6.png"]; 
+function displayImage(){ 
+    var num = Math.floor(Math.random() * 6); 
+    document.getElementById("villager").src = 'images/'+ imagesArray[num]; 
+} 
+</script> 
+</head> 
+<body style="background-color:#ffd4ee"> 
+<h1 style="text-align: center; font-family: roboto"><img src="images/favicon.png" width="24" height="24"/>AC:NH Pattern Dump Index</h1> 
+<h2 style="text-align: center; font-family: roboto">Normal & PRO Patterns</h2> 
+<img src="" width="96" height="96" id="villager" alt="VillagerImg" class="imgfloat" title="A cutie!"> 
+<div class="grid-container"> 
+<div> 
+<a href="patterns.html" style="text-align: center; font-family: roboto"><img src="images/pat.png" width="96" height="96"><br>Normal Patterns</a> 
+</div> 
+<div> 
+<a href="pro.html" style="text-align: center; font-family: roboto"><img src="images/pro.png" width="96" height="96"><br>PRO Patterns</a> 
+</div> 
+</div> 
+<br><br><br> 
+</body> 
+<footer id="footer"> 
+<p style="font-family: roboto">Page/script by Josh (Lotte) 👨‍💻<a href="https://github.com/lottehime">@lottehime</a> & 🐦<a href="https://twitter.com/lotte_hime">@lotte_hime</a><br>Level any complaints to: /dev/null 💀</p> 
+</footer> 
+</html> 

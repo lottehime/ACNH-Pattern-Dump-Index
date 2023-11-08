@@ -1,0 +1,3 @@
+Name: Starinfo SimplePanel
+Creator: Ghosty
+Tags: simple-panel, star, 

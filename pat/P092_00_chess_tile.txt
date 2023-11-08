@@ -1,0 +1,3 @@
+Name: chess tile
+Creator: kuroneko
+Tags: black, chess, marble, white, wonderland, 

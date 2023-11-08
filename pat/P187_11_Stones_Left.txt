@@ -1,0 +1,3 @@
+Name: Stones Left
+Creator: Giuliastro
+Tags: floor, left, stones, 

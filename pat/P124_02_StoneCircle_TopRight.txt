@@ -1,0 +1,3 @@
+Name: StoneCircle TopRight
+Creator: Oracle
+Tags: circle, path, stone, 

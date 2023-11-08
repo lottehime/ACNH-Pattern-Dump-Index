@@ -1,0 +1,3 @@
+Name: Streetlamp
+Creator: TMS
+Tags: circle, stone, 
