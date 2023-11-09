@@ -12,9 +12,9 @@
   <p align="center">
     An <b><i>open source</i></b> directory of Animal Crossing New Horizons design pattern files that isn't locked behind someones frontend and can be contributed to and accessed by <strong>anyone at any time</strong> (and can be self stored and hosted locally on your machine)!
     <br><br />
-    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Report A Bug 🐞</a>
+    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Report A Bug</a> 🐞
     ·
-    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Request A Feature 🏝️</a>
+    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Request A Feature</a> 🏝️
   </p>
 </div>
 
@@ -31,6 +31,14 @@
 [license-shield]: https://img.shields.io/github/license/lottehime/ACNH-Pattern-Dump-Index.svg?style=for-the-badge
 [license-url]: https://github.com/lottehime/ACNH-Pattern-Dump-Index/blob/master/LICENSE.txt
 
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://lottehime.github.io/ACNH-Pattern-Dump-Index/">
+  <img src="https://custom-icon-badges.demolab.com/badge/-CHECK_IT_OUT_ONLINE-68ba9f?style=for-the-badge&logo=globe&logoColor=white" height="60"/>
+  </a>
+  <br>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -88,7 +96,7 @@ Simply download the ``.nhpd`` by clicking the pattern image, then load into your
 ### Website
 It's made up of 3 parts: ``index.html``, ``pattern.html`` and ``pro.html``.  
 Load up the index and browse away.
-It's also available online here: LINK_INCOMING_SOON
+It's also available online here: [ACNH Pattern Dump Index (GitHub Pages)](https://lottehime.github.io/ACNH-Pattern-Dump-Index/)
 
 Use the Villger faces as a button to go back to index from the other pages.  
 Pagination is done through hiding divs, so each load of the ``pattern.html`` and ``pro.html`` pages causes the load animation while it loads up the thousands of patterns. It's a little slow because it's a janky way to do it, but it means no DBs etc.
@@ -131,6 +139,7 @@ WIP. See roadmap below.
 <!-- ROADMAP -->
 ## Roadmap
 
+- [x] Host on GitHub Pages.
 - [ ] Add tool for creating needed image and text files from ``.nhd`` and ``.nhpd`` files.
 - [ ] Add tool for producing QR codes from the files (needs some reversing).
 - [ ] Integrate QR codes into the website script side (probably QR as ``.png``, show QR.png either below pattern image or as mouseover).
