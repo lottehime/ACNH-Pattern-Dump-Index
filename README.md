@@ -101,21 +101,24 @@ Place your normal patterns in ``_src/pat`` and your PRO patterns in ``_src/pro``
 Then run ``makehtml.bat`` as is, or modified to your liking.
 
 The file formats are as follows:
-Normal Design Pattern Files:
+
+<strong>Normal Design Pattern Files:</strong>  
+Each design patterns 3 files need to have the same name (minus extensions).
 * ``.nhd``: Normal Design Pattern Data, ``0x2A8`` (680 bytes) in size. Untrimmed.
 * ``.png``: 32x32px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
 * ``.txt``: 3 line file.
-  * Line 1 starts with: "Name: " + design pattern name
-  * Line 2 starts with: "Creator: " + creator name
-  * Line 3 starts with: "Tags: " + tags separated by commas
+  * Line 1 starts with: "Name: " + design pattern name.
+  * Line 2 starts with: "Creator: " + creator name.
+  * Line 3 starts with: "Tags: " + tags separated by commas.
 
-PRO Design Pattern Files:
+<strong>PRO Design Pattern Files:</strong>  
+Each design patterns 3 files need to have the same name (minus extensions).
 * ``.nhpd``: PRO Design Pattern Data, ``0x8A8`` (2216 bytes) in size. Untrimmed.
 * ``.png``: 64x64px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
 * ``.txt``: 3 line file.
-  * Line 1 starts with: "Name: " + design pattern name
-  * Line 2 starts with: "Creator: " + creator name
-  * Line 3 starts with: "Tags: " + tags separated by commas
+  * Line 1 starts with: "Name: " + design pattern name.
+  * Line 2 starts with: "Creator: " + creator name.
+  * Line 3 starts with: "Tags: " + tags separated by commas.
 
 ### Tools
 WIP. See roadmap below.
