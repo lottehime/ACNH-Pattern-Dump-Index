@@ -66,6 +66,9 @@ Is it the most efficient site ever? ❌
 Does it do it's job? ✔️  
 Is it available to everyone to edit and easily contributed to? ✔️
 
+It's a batch file that creates a html file with self contained js and css that presents the files and their info.  
+Like a Turducken, but for a ACNH design file catalog website builder... a <i><strong>bathyperjavheetesign</strong></i>?
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
