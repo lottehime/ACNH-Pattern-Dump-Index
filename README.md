@@ -98,7 +98,7 @@ It's made up of 3 parts: ``index.html``, ``pattern.html`` and ``pro.html``.
 Load up the index and browse away.
 It's also available online here: [ACNH Pattern Dump Index (GitHub Pages)](https://lottehime.github.io/ACNH-Pattern-Dump-Index/)
 
-Use the Villger faces as a button to go back to index from the other pages.  
+Use the Villager faces as a button to go back to index from the other pages.  
 Pagination is done through hiding divs, so each load of the ``pattern.html`` and ``pro.html`` pages causes the load animation while it loads up the thousands of patterns. It's a little slow because it's a janky way to do it, but it means no DBs etc.
 
 ### Windows Batch File Page Creator/Updater
