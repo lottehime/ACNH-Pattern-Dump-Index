@@ -106,8 +106,9 @@ echo ^<body style="background-color:#ffd4ee"^> >> !index!.html
 
 echo ^<h1 style="text-align: center; font-family: roboto"^>^<img src="images/favicon.png" width="24" height="24"/^>AC^:NH Pattern Dump Index^</h1^> >> !index!.html
 echo ^<h2 style="text-align: center; font-family: roboto"^>Normal ^& PRO Patterns^</h2^> >> !index!.html
+echo ^<img src="images/loading.gif" style="display: none"^> >> !index!.html
 
-echo ^<img src="" width="96" height="96" id="villager" alt="VillagerImg" class="imgfloat" title="A cutie^!"^> >> !index!.html
+echo ^<img src="images/1.png" width="96" height="96" id="villager" alt="VillagerImg" class="imgfloat" title="A cutie^!"^> >> !index!.html
 
 echo ^<div class="grid-container"^> >> !index!.html
 
@@ -235,7 +236,7 @@ echo ^<div id="contents"^> >> !pattern!.html
 echo ^<h1 style="text-align: center; font-family: roboto"^>^<img src="images/favicon.png" width="24" height="24"/^>AC^:NH Pattern Dump Index^</h1^> >> !pattern!.html
 echo ^<h2 style="text-align: center; font-family: roboto"^>Normal Patterns^</h2^> >> !pattern!.html
 
-echo ^<img src="" width="96" height="96" id="villager" alt="VillagerImg" class="imgfloat" onclick="goBack()" title="Click to go back to the main page."^> >> !pattern!.html
+echo ^<img src="images/1.png" width="96" height="96" id="villager" alt="VillagerImg" class="imgfloat" onclick="goBack()" title="Click to go back to the main page."^> >> !pattern!.html
 
 echo ^<div class="grid-container"^> >> !pattern!.html
 
@@ -408,7 +409,7 @@ echo ^<div id="contents"^> >> !pro!.html
 echo ^<h1 style="text-align: center; font-family: roboto"^>^<img src="images/favicon.png" width="24" height="24"/^>AC^:NH Pattern Dump Index^</h1^> >> !pro!.html
 echo ^<h2 style="text-align: center; font-family: roboto"^>PRO Patterns^</h2^> >> !pro!.html
 
-echo ^<img src="" width="96" height="96" id="villager" alt="VillagerImg" class="imgfloat" onclick="goBack()" title="Click to go back to the main page."^> >> !pro!.html
+echo ^<img src="images/1.png" width="96" height="96" id="villager" alt="VillagerImg" class="imgfloat" onclick="goBack()" title="Click to go back to the main page."^> >> !pro!.html
 
 echo ^<div class="grid-container"^> >> !pro!.html
 
