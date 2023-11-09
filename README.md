@@ -131,6 +131,7 @@ WIP. See roadmap below.
 <!-- ROADMAP -->
 ## Roadmap
 
+- [x] Host on GitHub Pages.
 - [ ] Add tool for creating needed image and text files from ``.nhd`` and ``.nhpd`` files.
 - [ ] Add tool for producing QR codes from the files (needs some reversing).
 - [ ] Integrate QR codes into the website script side (probably QR as ``.png``, show QR.png either below pattern image or as mouseover).
