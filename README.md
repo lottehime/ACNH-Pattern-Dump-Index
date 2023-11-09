@@ -33,6 +33,13 @@
 
 </div>
 
+<div align="center">
+  <br>
+  <a href="https://lottehime.github.io/ACNH-Pattern-Dump-Index/">
+  <img src="https://custom-icon-badges.demolab.com/badge/-CHECK_IT_OUT_ONLINE-68ba9f?style=for-the-badge&logo=globe&logoColor=white" height="60"/>
+  </a>
+</div>
+
 <!-- TABLE OF CONTENTS -->
 ### Table of Contents:
 <details>
