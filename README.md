@@ -181,8 +181,10 @@ _To build your own:_
 <a href="#">
 <img src="https://img.shields.io/static/v1?message=javascript&logo=javascript&label=&color=F7DF1E&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
 
+<!--
 <a href="#">
 <img src="https://img.shields.io/static/v1?message=C Sharp&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
+-->
 
 <a href="#">
 <img src="https://custom-icon-badges.demolab.com/badge/-animal_crossing-68ba9f?style=for-the-badge&logoSource=feather&logo=compass&logoColor=white" height="35"/></a>
