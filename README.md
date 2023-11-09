@@ -77,11 +77,13 @@ Like a Turducken, but for a ACNH design file catalog website builder. A... <i><s
 
 ### Normal Pattern Dump
 The directory ``pat`` contains a living dump of normal pattern files in ``.nhd`` format along with a ``.png`` of the pattern and a ``.txt`` with it's details.  
-They're browsable from your OS on their own (obviously) due to this.
+They're browsable from your OS on their own (obviously) due to this.  
+Simply download the ``.nhd`` by clicking the pattern image, then load into your save with NHSE.
 
 ### PRO Pattern Dump
 The directory ``pro`` contains a living dump of normal pattern files in ``.nhpd`` format along with a ``.png`` of the pattern and a ``.txt`` with it's details.  
-They're browsable from your OS on their own (obviously) due to this.
+They're browsable from your OS on their own (obviously) due to this.  
+Simply download the ``.nhpd`` by clicking the pattern image, then load into your save with NHSE.
 
 ### Website
 It's made up of 3 parts: ``index.html``, ``pattern.html`` and ``pro.html``.  
@@ -104,7 +106,7 @@ The file formats are as follows:
 
 <strong>Normal Design Pattern Files:</strong>  
 Each design patterns 3 files need to have the same name (minus extensions).
-* ``.nhd``: Normal Design Pattern Data, ``0x2A8`` (680 bytes) in size. Untrimmed.
+* ``.nhd``: Normal Design Pattern Data, ``0x2A8`` (680 bytes) in size. Untrimmed. NHSE compatible.
 * ``.png``: 32x32px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
 * ``.txt``: 3 line file.
   * Line 1 starts with: "Name: " + design pattern name.
@@ -113,7 +115,7 @@ Each design patterns 3 files need to have the same name (minus extensions).
 
 <strong>PRO Design Pattern Files:</strong>  
 Each design patterns 3 files need to have the same name (minus extensions).
-* ``.nhpd``: PRO Design Pattern Data, ``0x8A8`` (2216 bytes) in size. Untrimmed.
+* ``.nhpd``: PRO Design Pattern Data, ``0x8A8`` (2216 bytes) in size. Untrimmed. NHSE compatible.
 * ``.png``: 64x64px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
 * ``.txt``: 3 line file.
   * Line 1 starts with: "Name: " + design pattern name.
