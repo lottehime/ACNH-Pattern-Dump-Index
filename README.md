@@ -100,6 +100,23 @@ To build your own customised version, refer to the ``_src`` folder.
 Place your normal patterns in ``_src/pat`` and your PRO patterns in ``_src/pro``.  
 Then run ``makehtml.bat`` as is, or modified to your liking.
 
+The file formats are as follows:
+Normal Design Pattern Files:
+* ``.nhd``: Normal Design Pattern Data, ``0x2A8`` (680 bytes) in size. Untrimmed.
+* ``.png``: 32x32px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
+* ``.txt``: 3 line file.
+  * Line 1 starts with: "Name: " + design pattern name
+  * Line 2 starts with: "Creator: " + creator name
+  * Line 3 starts with: "Tags: " + tags separated by commas
+
+PRO Design Pattern Files:
+* ``.nhpd``: PRO Design Pattern Data, ``0x8A8`` (2216 bytes) in size. Untrimmed.
+* ``.png``: 64x64px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
+* ``.txt``: 3 line file.
+  * Line 1 starts with: "Name: " + design pattern name
+  * Line 2 starts with: "Creator: " + creator name
+  * Line 3 starts with: "Tags: " + tags separated by commas
+
 ### Tools
 WIP. See roadmap below.
 
@@ -191,6 +208,12 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
+If you would like to submit patterns to the dumps, please do so via a pull request and place them in the ``queue`` folders ``pat`` or ``pro`` subfolder.  
+They should be in the form of ``.nhd`` or ``.nhpd`` and have a ``.png`` and ``.txt`` file included that follows the format laid out in the above sections. The file names should be identical (except for the extensions, obviously).  
+I am also happy to receive them via the issue tracker.
+
+I will periodically moderate them and run an update to the site here. <strong>Please don't submit dumb offensive stuff, OK? Behave yourself.</strong>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
