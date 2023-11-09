@@ -12,9 +12,9 @@
   <p align="center">
     An <b><i>open source</i></b> directory of Animal Crossing New Horizons design pattern files that isn't locked behind someones frontend and can be contributed to and accessed by <strong>anyone at any time</strong> (and can be self stored and hosted locally on your machine)!
     <br><br />
-    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Report A Bug 🐞</a>
+    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Report A Bug</a> 🐞
     ·
-    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Request A Feature 🏝️</a>
+    <a href="https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues">Request A Feature</a> 🏝️
   </p>
 </div>
 
