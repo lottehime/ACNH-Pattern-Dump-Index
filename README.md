@@ -86,7 +86,7 @@ Load up the index and browse away.
 It's also available online here: LINK_INCOMING_SOON
 
 Use the Villger faces as a button to go back to index from the other pages.  
-Pagination is done through hiding divs, so each load of the ``pattern.html`` and ``pro.html`` pages causes the load animation while it loads up the thousands of patterns.
+Pagination is done through hiding divs, so each load of the ``pattern.html`` and ``pro.html`` pages causes the load animation while it loads up the thousands of patterns. It's a little slow because it's a janky way to do it, but it means no DBs etc.
 
 ### Windows Batch File Page Creator/Updater
 The batch file ``live_makehtml.bat`` can be run to generate a new version of the index and pattern pages.  
@@ -138,6 +138,7 @@ _To build your own:_
 4. Modify the contents of ``pat`` and ``pro`` in the root directory (those containing the current dump).
 5. Then run ``_src/makehtml.bat`` if modifying from the ``_src`` folder, or ``live_makehtml.bat`` if operating in the root.
 6. Wait for it to build the ``.html`` files.
+7. Host as desired.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
