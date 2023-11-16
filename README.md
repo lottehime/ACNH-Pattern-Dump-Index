@@ -146,10 +146,11 @@ WIP. See roadmap below.
 ## Roadmap
 
 - [x] Host on GitHub Pages.
+- [X] Integrate QR codes into the website script side (probably QR as ``.png``, show QR.png either below pattern image or as mouseover).
 - [ ] (WIP) Add tool for creating needed image and text files from ``.nhd`` and ``.nhpd`` files.
 - [ ] (WIP) Add tool for producing QR codes from the files (needs some reversing).
-- [X] Integrate QR codes into the website script side (probably QR as ``.png``, show QR.png either below pattern image or as mouseover).
 - [ ] Cleanup the batch file and combine some iterating for efficieny of file size and build time.
+- [ ] Better, faster, responsive site to replace the basic one.
 
 See the [open issues](https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues) for any additional community proposed features (and known issues).
 
