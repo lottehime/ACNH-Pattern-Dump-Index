@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cupboard
+Creator: meyling
+Tags: cupboard, walldecor, 

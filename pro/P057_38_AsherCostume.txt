@@ -1,0 +1,4 @@
+Type:Coat
+Name: AsherCostume
+Creator: Bliss
+Tags: asher, cosplay, destiny, 

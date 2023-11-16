@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: triforcecap
+Creator: Moogie
+Tags: cap, hat, triforce, unisex, zelda, 

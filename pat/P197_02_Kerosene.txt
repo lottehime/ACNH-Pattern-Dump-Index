@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Kerosene
+Creator: Amek
+Tags: cover, kerosene, music, redvox, 

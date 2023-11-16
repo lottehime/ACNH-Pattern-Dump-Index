@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: HalloweenPumpkin
+Creator: Mlissa
+Tags: citrouille, halloween, pumpkin, 

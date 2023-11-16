@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: RedBlackHat
+Creator: Moogie
+Tags: black, hat, red, 

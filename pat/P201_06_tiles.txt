@@ -1,3 +1,0 @@
-Name: tiles
-Creator: meyling
-Tags: path, tiles, 

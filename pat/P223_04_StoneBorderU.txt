@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StoneBorderU
+Creator: Renmo
+Tags: border, grey, stone, transparent, 

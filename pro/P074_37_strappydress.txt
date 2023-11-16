@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: strappydress
+Creator: Boshi
+Tags: 720093294782, black, 

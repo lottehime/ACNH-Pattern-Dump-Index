@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: SkeletonDress
+Creator: Moss
+Tags: black, bones, skeleton, 

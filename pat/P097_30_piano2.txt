@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: piano2
+Creator: NumDum
+Tags: cute, kidcore, pastel, piano, 

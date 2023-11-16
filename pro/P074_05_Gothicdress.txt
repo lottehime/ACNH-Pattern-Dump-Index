@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: Gothicdress
+Creator: Sins
+Tags: dress, gothic, 

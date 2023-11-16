@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stainedglass
+Creator: PigSheriff
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: OldDoor
+Creator: Ant1m1nd
+Tags: door, exterior, old, panel, wood, 

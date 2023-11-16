@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DrawnThreadRug
+Creator: M
+Tags: 

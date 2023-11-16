@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: RainbowHat
+Creator: StarryNight
+Tags: colorful, cute, hat, pretty, rainbow, 

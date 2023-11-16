@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: Dresswvest
+Creator: Lie
+Tags: dress, gingham, plaid, 

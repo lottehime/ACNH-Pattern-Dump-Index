@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ArcheryTarget
+Creator: LemonCat
+Tags: archery, bullseye, lemoncat, target, 

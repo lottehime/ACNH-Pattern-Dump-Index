@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stonecircleBR
+Creator: mmanic
+Tags: circle, stone, 

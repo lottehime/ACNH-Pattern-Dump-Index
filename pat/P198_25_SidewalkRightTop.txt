@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SidewalkRightTop
+Creator: Boshi
+Tags: 581508049726, brick, sidewalk, 

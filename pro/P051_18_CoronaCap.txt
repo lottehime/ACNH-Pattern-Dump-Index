@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: CoronaCap
+Creator: Leppernfriends
+Tags: cap, corona, hat, latino, mexican, 

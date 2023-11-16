@@ -1,3 +1,0 @@
-Name: neutral tiles
-Creator: meyling
-Tags: path, tiles, 

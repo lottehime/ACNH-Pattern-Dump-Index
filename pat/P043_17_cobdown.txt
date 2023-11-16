@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cobdown
+Creator: valentin
+Tags: beige, cobblestone, path, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: crosswalkpattern
+Creator: Samie323
+Tags: 

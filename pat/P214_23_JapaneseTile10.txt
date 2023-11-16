@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: JapaneseTile10
+Creator: Miray
+Tags: 108829519808, japanese, tiles, 

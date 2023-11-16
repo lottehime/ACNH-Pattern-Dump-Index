@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: harleyquinnhat
+Creator: Moogie
+Tags: harley, hat, quinn, 

@@ -84,14 +84,14 @@ Like a Turducken, but for a ACNH design file catalog website builder. A... <i><s
 ## Features:
 
 ### Normal Pattern Dump
-The directory ``pat`` contains a living dump of normal pattern files in ``.nhd`` format along with a ``.png`` of the pattern and a ``.txt`` with it's details.  
+The directory ``pat`` contains a living dump of normal pattern files in ``.nhd`` format along with a ``.png`` of the pattern a ``.txt`` with its details, a ``.png`` QR Code for the pattern (or a placeholder) and a ``.acnl`` file for any interoperable patterns.  
 They're browsable from your OS on their own (obviously) due to this.  
-Simply download the ``.nhd`` by clicking the pattern image, then load into your save with NHSE.
+Simply download the ``.nhd`` by clicking the pattern image, then load into your save with NHSE - or if you're running OFW you can scan the QR into NookLink for those that are supported.
 
 ### PRO Pattern Dump
-The directory ``pro`` contains a living dump of normal pattern files in ``.nhpd`` format along with a ``.png`` of the pattern and a ``.txt`` with it's details.  
+The directory ``pro`` contains a living dump of normal pattern files in ``.nhpd`` format along with a ``.png`` of the pattern a ``.txt`` with its details, a ``.png`` QR Code for the pattern (or a placeholder) and a ``.acnl`` file for any interoperable patterns. 
 They're browsable from your OS on their own (obviously) due to this.  
-Simply download the ``.nhpd`` by clicking the pattern image, then load into your save with NHSE.
+Simply download the ``.nhpd`` by clicking the pattern image, then load into your save with NHSE - or if you're running OFW you can scan the QR into NookLink for those that are supported.
 
 ### Website
 It's made up of 3 parts: ``index.html``, ``pattern.html`` and ``pro.html``.  
@@ -113,22 +113,28 @@ Then run ``makehtml.bat`` as is, or modified to your liking.
 The file formats are as follows:
 
 <strong>Normal Design Pattern Files:</strong>  
-Each design patterns 3 files need to have the same name (minus extensions).
+Each design patterns 4 files need to have the same name (minus extensions).
 * ``.nhd``: Normal Design Pattern Data, ``0x2A8`` (680 bytes) in size. Untrimmed. NHSE compatible.
 * ``.png``: 32x32px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
-* ``.txt``: 3 line file.
-  * Line 1 starts with: "Name: " + design pattern name.
-  * Line 2 starts with: "Creator: " + creator name.
-  * Line 3 starts with: "Tags: " + tags separated by commas.
+* ``.png``: QR Code PNG of the for the pattern, or a placeholder "no qr" image. 
+* ``.txt``: 4 line file.
+  * Line 1 starts with: "Type: " + design pattern type.
+  * Line 2 starts with: "Name: " + design pattern name.
+  * Line 3 starts with: "Creator: " + creator name.
+  * Line 4 starts with: "Tags: " + tags separated by commas.
+Optionally, for ACNL interoperable pattern types a ``.acnl`` file with the same name can be included as well.
 
 <strong>PRO Design Pattern Files:</strong>  
 Each design patterns 3 files need to have the same name (minus extensions).
 * ``.nhpd``: PRO Design Pattern Data, ``0x8A8`` (2216 bytes) in size. Untrimmed. NHSE compatible.
 * ``.png``: 64x64px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
-* ``.txt``: 3 line file.
-  * Line 1 starts with: "Name: " + design pattern name.
-  * Line 2 starts with: "Creator: " + creator name.
-  * Line 3 starts with: "Tags: " + tags separated by commas.
+* ``.png``: QR Code PNG of the for the pattern, or a placeholder "no qr" image. 
+* ``.txt``: 4 line file.
+  * Line 1 starts with: "Type: " + design pattern type.
+  * Line 2 starts with: "Name: " + design pattern name.
+  * Line 3 starts with: "Creator: " + creator name.
+  * Line 4 starts with: "Tags: " + tags separated by commas.
+  Optionally, for ACNL interoperable pattern types a ``.acnl`` file with the same name can be included as well.
 
 ### Tools
 WIP. See roadmap below.
@@ -140,9 +146,9 @@ WIP. See roadmap below.
 ## Roadmap
 
 - [x] Host on GitHub Pages.
-- [ ] Add tool for creating needed image and text files from ``.nhd`` and ``.nhpd`` files.
-- [ ] Add tool for producing QR codes from the files (needs some reversing).
-- [ ] Integrate QR codes into the website script side (probably QR as ``.png``, show QR.png either below pattern image or as mouseover).
+- [ ] (WIP) Add tool for creating needed image and text files from ``.nhd`` and ``.nhpd`` files.
+- [ ] (WIP) Add tool for producing QR codes from the files (needs some reversing).
+- [X] Integrate QR codes into the website script side (probably QR as ``.png``, show QR.png either below pattern image or as mouseover).
 - [ ] Cleanup the batch file and combine some iterating for efficieny of file size and build time.
 
 See the [open issues](https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues) for any additional community proposed features (and known issues).
@@ -226,7 +232,7 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 If you would like to submit patterns to the dumps, please do so via a pull request and place them in the ``queue`` folders ``pat`` or ``pro`` subfolder.  
-They should be in the form of ``.nhd`` or ``.nhpd`` and have a ``.png`` and ``.txt`` file included that follows the format laid out in the above sections. The file names should be identical (except for the extensions, obviously).  
+They should be in the form of ``.nhd`` or ``.nhpd`` and have a ``.png`` and ``.txt`` file included that follows the format laid out in the above sections as well as their QR Code (or placeholder) ``.png``. The file names should be identical (except for the extensions, obviously).  
 I am also happy to receive them via the issue tracker.
 
 I will periodically moderate them and run an update to the site here. <strong>Please don't submit dumb offensive stuff, OK? Behave yourself.</strong>

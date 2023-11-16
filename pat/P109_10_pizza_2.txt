@@ -1,3 +1,0 @@
-Name: pizza 2
-Creator: flay
-Tags: 

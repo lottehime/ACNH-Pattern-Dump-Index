@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Amaret3
+Creator: Boshi
+Tags: 548981719577, path, 

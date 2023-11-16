@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: shells
+Creator: Greenie
+Tags: 

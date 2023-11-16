@@ -1,0 +1,4 @@
+Type:Robe
+Name: pierrot2
+Creator: M
+Tags: 

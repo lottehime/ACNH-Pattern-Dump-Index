@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: NarutoHoodie
+Creator: Wasivis
+Tags: anime, hoodie, naruto, 

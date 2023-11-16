@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: winterpathmidrt
+Creator: ling
+Tags: 

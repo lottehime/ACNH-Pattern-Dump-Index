@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PineappleSign
+Creator: Boshi
+Tags: 299868118314, fruit, pineapple, sign, stall, 

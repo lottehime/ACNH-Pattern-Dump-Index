@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: Autumn
+Creator: Star
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: OrangePhone
+Creator: Boshi
+Tags: case, fruit, orange, phone, 

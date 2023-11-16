@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cafe50downright
+Creator: Nostril
+Tags: 

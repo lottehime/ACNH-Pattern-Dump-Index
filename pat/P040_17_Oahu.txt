@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Oahu
+Creator: newS
+Tags: hawaii, logo, oahu, oahu, 

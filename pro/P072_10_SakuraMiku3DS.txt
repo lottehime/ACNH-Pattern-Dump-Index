@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: SakuraMiku3DS
+Creator: Greenie
+Tags: 

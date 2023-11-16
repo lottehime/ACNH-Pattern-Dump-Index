@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: fringeLeft
+Creator: M
+Tags: 

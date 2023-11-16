@@ -1,0 +1,4 @@
+Type:Pullover
+Name: StrawberrySweater
+Creator: steff
+Tags: pink, strawberry, 

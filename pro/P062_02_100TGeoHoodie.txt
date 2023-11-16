@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: 100TGeoHoodie
+Creator: Boshi
+Tags: t34spvc16vbc, 

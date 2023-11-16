@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PB32
+Creator: angel
+Tags: blanket, picnic, set, 

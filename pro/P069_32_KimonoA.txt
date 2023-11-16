@@ -1,0 +1,4 @@
+Type:Robe
+Name: KimonoA
+Creator: ZiquinhoGamer
+Tags: 

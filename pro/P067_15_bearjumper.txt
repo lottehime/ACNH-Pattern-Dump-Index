@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: bearjumper
+Creator: mikue
+Tags: bear, cute, dress, 

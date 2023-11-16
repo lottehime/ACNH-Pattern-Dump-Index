@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StoneInnerDRUL
+Creator: Boshi
+Tags: 701183139106, 

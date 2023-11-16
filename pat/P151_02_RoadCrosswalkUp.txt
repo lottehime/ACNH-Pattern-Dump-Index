@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RoadCrosswalkUp
+Creator: Aaron
+Tags: road, 

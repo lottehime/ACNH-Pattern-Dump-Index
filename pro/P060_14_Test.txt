@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: Test
+Creator: GoldenDesigns
+Tags: dont, just, test, this, use, 

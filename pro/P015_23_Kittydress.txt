@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: Kittydress
+Creator: Catucchi
+Tags: blue, dress, kitty, pastel, 

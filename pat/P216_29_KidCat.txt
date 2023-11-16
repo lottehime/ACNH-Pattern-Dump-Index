@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: KidCat
+Creator: Miray
+Tags: 627141402287, cat, kid, kidcat, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: basiccity
+Creator: tropikitch
+Tags: basiccity, city, road, sewer, 

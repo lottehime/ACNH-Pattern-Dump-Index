@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: pinkstone1
+Creator: ling
+Tags: 

@@ -1,0 +1,4 @@
+Type:TShirt
+Name: AceTee
+Creator: GalaxyCats
+Tags: ace, flag, pride, simple, tee, 

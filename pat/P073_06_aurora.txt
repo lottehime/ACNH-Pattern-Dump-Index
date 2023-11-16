@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: aurora
+Creator: nyx
+Tags: album, aurora, music, singer, warrior, 

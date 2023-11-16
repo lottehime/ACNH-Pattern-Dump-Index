@@ -1,0 +1,4 @@
+Type:Standee
+Name: garden3
+Creator: Kai
+Tags: 

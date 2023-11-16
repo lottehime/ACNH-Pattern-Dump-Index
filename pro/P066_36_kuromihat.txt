@@ -1,0 +1,4 @@
+Type:HornHat3DS
+Name: kuromihat
+Creator: mikue
+Tags: cute, hat, sanrio, 

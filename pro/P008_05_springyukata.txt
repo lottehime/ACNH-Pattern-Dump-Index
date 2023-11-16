@@ -1,0 +1,4 @@
+Type:Robe
+Name: springyukata
+Creator: M
+Tags: 

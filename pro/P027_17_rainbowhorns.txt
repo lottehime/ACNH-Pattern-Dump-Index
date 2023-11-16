@@ -1,0 +1,4 @@
+Type:HornHat3DS
+Name: rainbowhorns
+Creator: angel
+Tags: 3ds, gcn, horns, 

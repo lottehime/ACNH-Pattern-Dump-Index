@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: CorvoDishonored
+Creator: MarcoZARP
+Tags: coat, corvo, dishonored, dunwall, 

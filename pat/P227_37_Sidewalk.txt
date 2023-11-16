@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Sidewalk
+Creator: DiscordServer
+Tags: japanese, roads, sidewalk, 

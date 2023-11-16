@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DirtPathAutumn2
+Creator: pickle
+Tags: 

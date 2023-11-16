@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: fruitawni
+Creator: meyling
+Tags: fruit, stall, 

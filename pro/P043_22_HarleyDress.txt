@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: HarleyDress
+Creator: Moogie
+Tags: dress, girl, harleyquinn, joker, twotone, 

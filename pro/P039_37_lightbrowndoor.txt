@@ -1,0 +1,4 @@
+Type:Standee
+Name: lightbrowndoor
+Creator: julia
+Tags: brown, door, standee, 

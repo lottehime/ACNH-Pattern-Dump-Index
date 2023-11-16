@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: PinkStripes
+Creator: Kyuchi
+Tags: cute, 

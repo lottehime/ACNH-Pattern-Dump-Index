@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: NooksCrannySign
+Creator: Moogie
+Tags: nook, nookscranny, sign, 

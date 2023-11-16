@@ -1,0 +1,4 @@
+Type:TShirt
+Name: StrawberryTee
+Creator: steff
+Tags: 

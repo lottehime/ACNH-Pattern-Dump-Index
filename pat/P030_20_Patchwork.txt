@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Patchwork
+Creator: Catucchi
+Tags: cute, kidcore, patchwork, 

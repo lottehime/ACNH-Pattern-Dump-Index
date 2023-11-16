@@ -1,0 +1,4 @@
+Type:Coat
+Name: starry
+Creator: Celestial
+Tags: coat, setstarry, starry, 

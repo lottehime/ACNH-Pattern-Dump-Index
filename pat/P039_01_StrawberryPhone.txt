@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StrawberryPhone
+Creator: Vivi
+Tags: nookphone, phone, phonecase, strawberries, strawberry, 

@@ -1,0 +1,4 @@
+Type:Coat
+Name: Woolcoat
+Creator: Greenie
+Tags: 

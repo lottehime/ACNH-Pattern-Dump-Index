@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TriAsphaltHLine
+Creator: Kyek
+Tags: path, road, street, urban, 

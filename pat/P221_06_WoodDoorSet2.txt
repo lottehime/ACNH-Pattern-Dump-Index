@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: WoodDoorSet2
+Creator: Boshi
+Tags: 194436070570, door, wood, 

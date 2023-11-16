@@ -1,0 +1,4 @@
+Type:LongSleeveShirt
+Name: MartyMcFlyjacket
+Creator: Gamaliel
+Tags: 80s, back2future, future, martymcfly, mcfly, 

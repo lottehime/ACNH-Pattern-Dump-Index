@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Fairytail
+Creator: Scarlet
+Tags: 

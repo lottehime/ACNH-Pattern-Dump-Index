@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BotCurb1Sakura
+Creator: M
+Tags: 

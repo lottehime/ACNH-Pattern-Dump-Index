@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bricksnowsidewalk
+Creator: kuroneko
+Tags: brick, sidewalk, snow, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: LowerLeftCorner
+Creator: Fasil
+Tags: 664792304716, 

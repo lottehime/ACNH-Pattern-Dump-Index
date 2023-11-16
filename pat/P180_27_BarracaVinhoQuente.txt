@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BarracaVinhoQuente
+Creator: Anamaria
+Tags: 

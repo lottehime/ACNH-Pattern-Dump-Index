@@ -1,0 +1,4 @@
+Type:Coat
+Name: 1
+Creator: Katz
+Tags: blazer, female, japanese, school, uniform, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Apple
+Creator: BMT
+Tags: apple, fruit, 

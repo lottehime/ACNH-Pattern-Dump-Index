@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: GraySidewalkTop
+Creator: Fasil
+Tags: 108829519808, 

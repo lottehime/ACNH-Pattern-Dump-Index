@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MochiFaunaFlag
+Creator: Madison
+Tags: 

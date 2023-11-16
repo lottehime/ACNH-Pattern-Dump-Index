@@ -1,0 +1,4 @@
+Type:Robe
+Name: Kimono1T
+Creator: Thomas
+Tags: 

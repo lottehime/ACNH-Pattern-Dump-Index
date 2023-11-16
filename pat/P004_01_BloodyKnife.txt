@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BloodyKnife
+Creator: BearlyKJ
+Tags: blood, creepy, halloween, 

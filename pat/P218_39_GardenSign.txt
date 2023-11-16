@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: GardenSign
+Creator: Boshi
+Tags: 867418950346, garden, sign, 

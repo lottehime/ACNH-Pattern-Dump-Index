@@ -1,0 +1,4 @@
+Type:TShirt
+Name: PowerUP
+Creator: Amek
+Tags: mario, mushroom, powerup, tshirt, 

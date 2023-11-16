@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Kawaakari
+Creator: Winnie
+Tags: kawaakari, 

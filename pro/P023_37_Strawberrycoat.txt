@@ -1,0 +1,4 @@
+Type:Coat
+Name: Strawberrycoat
+Creator: rei
+Tags: 

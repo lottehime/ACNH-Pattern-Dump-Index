@@ -1,0 +1,4 @@
+Type:Robe
+Name: DellaLunaRobe
+Creator: Boshi
+Tags: 895643048788, galaxy, purple, robe, 

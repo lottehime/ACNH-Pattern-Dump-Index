@@ -1,0 +1,4 @@
+Type:LongSleeveShirt
+Name: beetlejuiceshirt
+Creator: Andy
+Tags: beetle, juice, shirt, 

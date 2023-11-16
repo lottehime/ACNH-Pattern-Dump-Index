@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DirtHorizMiddle
+Creator: crispy
+Tags: dirt, dirtpatch, dirtpath, farm, 

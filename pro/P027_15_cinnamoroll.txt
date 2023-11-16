@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: cinnamoroll
+Creator: angel
+Tags: blue, cute, japan, kawaii, sanrio, 

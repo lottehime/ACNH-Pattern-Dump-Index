@@ -1,0 +1,4 @@
+Type:Robe
+Name: RyomenSukunayukata
+Creator: BrokenTed
+Tags: 

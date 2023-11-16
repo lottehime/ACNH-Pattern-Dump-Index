@@ -1,3 +1,0 @@
-Name: ArcadeFloor
-Creator: Miray
-Tags: arcade, 

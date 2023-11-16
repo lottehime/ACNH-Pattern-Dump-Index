@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: simplepicnicL
+Creator: navy
+Tags: blanket, picnic, 

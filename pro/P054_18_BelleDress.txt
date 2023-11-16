@@ -1,0 +1,4 @@
+Type:ShortSleeveDress3DS
+Name: BelleDress
+Creator: Star
+Tags: belle, disney, 

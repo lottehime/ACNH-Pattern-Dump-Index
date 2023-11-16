@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: softdirtpetals2
+Creator: dingleberry
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: AnkhaSign
+Creator: Deu
+Tags: villager, 

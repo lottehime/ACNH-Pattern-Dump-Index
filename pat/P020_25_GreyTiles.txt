@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: GreyTiles
+Creator: lyria
+Tags: concrete, path, tiles, 

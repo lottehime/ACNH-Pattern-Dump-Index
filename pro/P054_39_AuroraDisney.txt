@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: AuroraDisney
+Creator: Star
+Tags: disney, princess, 

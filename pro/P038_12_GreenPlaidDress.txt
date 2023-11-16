@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: GreenPlaidDress
+Creator: maryviolin
+Tags: dress, green, plaid, 

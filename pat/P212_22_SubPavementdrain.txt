@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SubPavementdrain
+Creator: MA091282488007
+Tags: clean, path, suburb, 

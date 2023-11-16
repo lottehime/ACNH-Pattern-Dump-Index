@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Boardwalksteps
+Creator: Joey
+Tags: path, planks, wood, 

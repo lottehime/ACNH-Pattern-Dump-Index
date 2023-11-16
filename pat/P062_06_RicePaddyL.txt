@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RicePaddyL
+Creator: Strike
+Tags: l, field, paddy, path, rice, 

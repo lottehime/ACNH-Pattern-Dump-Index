@@ -1,0 +1,4 @@
+Type:Coat
+Name: cathoodie
+Creator: annie
+Tags: cat, kitty, 

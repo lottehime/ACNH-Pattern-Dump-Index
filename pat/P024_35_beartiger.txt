@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: beartiger
+Creator: ling
+Tags: 

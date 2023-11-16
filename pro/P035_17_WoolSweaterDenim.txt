@@ -1,0 +1,4 @@
+Type:LongSleeveShirt
+Name: WoolSweaterDenim
+Creator: froggylad
+Tags: 

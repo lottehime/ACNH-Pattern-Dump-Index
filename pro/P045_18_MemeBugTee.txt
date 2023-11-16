@@ -1,0 +1,4 @@
+Type:TShirt
+Name: MemeBugTee
+Creator: Courtney
+Tags: bugs, meme, tarantula, 

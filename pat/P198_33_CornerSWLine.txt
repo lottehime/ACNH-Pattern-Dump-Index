@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CornerSWLine
+Creator: Boshi
+Tags: 581508049726, border, stone, 

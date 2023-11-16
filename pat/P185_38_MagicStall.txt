@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MagicStall
+Creator: Willuks
+Tags: design, magic, purple, stall, 

@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: MuffyCosplay
+Creator: Shulia
+Tags: cosplay, muffy, 

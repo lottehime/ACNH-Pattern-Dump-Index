@@ -1,0 +1,4 @@
+Type:Coat
+Name: shroomoutfit
+Creator: Honey
+Tags: 

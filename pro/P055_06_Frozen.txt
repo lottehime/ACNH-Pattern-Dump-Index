@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: Frozen
+Creator: Star
+Tags: frozen, ice, snow, 

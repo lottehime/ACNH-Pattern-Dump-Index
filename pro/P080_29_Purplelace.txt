@@ -1,0 +1,4 @@
+Type:Coat
+Name: Purplelace
+Creator: Greenie
+Tags: 

@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: SuperMarioBros
+Creator: EdicionGamerYT
+Tags: 

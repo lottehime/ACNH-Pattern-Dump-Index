@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Mirror
+Creator: Boshi
+Tags: 702868634390, 

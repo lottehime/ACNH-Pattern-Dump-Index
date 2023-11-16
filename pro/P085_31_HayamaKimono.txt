@@ -1,0 +1,4 @@
+Type:Robe
+Name: HayamaKimono
+Creator: 
+Tags: kimono, 

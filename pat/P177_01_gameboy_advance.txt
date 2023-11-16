@@ -1,3 +1,0 @@
-Name: gameboy advance
-Creator: scott
-Tags: 

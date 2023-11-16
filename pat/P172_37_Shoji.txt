@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Shoji
+Creator: Boshi
+Tags: 828434678990, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StoneInnerUR
+Creator: Boshi
+Tags: 701183139106, 

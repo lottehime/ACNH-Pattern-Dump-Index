@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: opalmoonstonesm
+Creator: Boshi
+Tags: 871549200702, 

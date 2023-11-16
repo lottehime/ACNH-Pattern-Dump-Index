@@ -1,0 +1,4 @@
+Type:Robe
+Name: Starskimono
+Creator: Greenie
+Tags: galaxy, kimono, robe, star, 

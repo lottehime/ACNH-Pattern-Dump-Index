@@ -1,0 +1,4 @@
+Type:TShirt
+Name: Roald
+Creator: Hellen
+Tags: buddy, roald, 

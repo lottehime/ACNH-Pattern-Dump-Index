@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Jellyfish
+Creator: El
+Tags: blue, fantasy, jellyfish, 

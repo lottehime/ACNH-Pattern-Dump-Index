@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: LGBTPOCFist
+Creator: Boshi
+Tags: 529695649820, 

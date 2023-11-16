@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: EarthTribe
+Creator: serialfriend
+Tags: atla, flag, sign, 

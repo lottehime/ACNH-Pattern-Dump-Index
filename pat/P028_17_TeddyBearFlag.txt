@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TeddyBearFlag
+Creator: ling
+Tags: 

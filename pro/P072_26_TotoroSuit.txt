@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: TotoroSuit
+Creator: Rangelito
+Tags: animal, cute, suit, totoro, 

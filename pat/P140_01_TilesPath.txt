@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TilesPath
+Creator: Koid
+Tags: 

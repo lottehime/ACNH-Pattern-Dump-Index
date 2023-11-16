@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: path2
+Creator: Hari
+Tags: 

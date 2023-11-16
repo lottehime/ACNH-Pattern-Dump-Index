@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: eyes
+Creator: Boshi
+Tags: 501106004800, eyes, magic, purple, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ConstructionSign
+Creator: LemonCat
+Tags: construction, lemoncat, sign, transparent, work, 

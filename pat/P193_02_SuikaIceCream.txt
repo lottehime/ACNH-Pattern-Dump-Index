@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SuikaIceCream
+Creator: Shyll
+Tags: icecream, suika, watermelon, 

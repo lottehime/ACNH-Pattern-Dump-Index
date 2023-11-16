@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SubPavementshdw
+Creator: Win
+Tags: 

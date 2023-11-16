@@ -1,0 +1,4 @@
+Type:TShirt
+Name: Bubbline
+Creator: Klav
+Tags: advtime, bubblegum, bubbline, marceline, pride, 

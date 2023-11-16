@@ -1,3 +1,0 @@
-Name: Dump Sign
-Creator: Jasmine
-Tags: ac, dump, sign, 

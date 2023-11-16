@@ -1,0 +1,4 @@
+Type:Robe
+Name: Green
+Creator: Boshi
+Tags: 544803516534, 

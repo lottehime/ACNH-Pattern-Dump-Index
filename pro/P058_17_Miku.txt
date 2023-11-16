@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: Miku
+Creator: Nicouwu
+Tags: anime, miku, vocaloid, 

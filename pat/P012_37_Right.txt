@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Right
+Creator: M
+Tags: 

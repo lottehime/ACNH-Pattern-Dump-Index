@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: straberry
+Creator: Sakura
+Tags: fruit, 

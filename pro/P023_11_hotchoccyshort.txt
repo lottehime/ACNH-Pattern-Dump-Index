@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: hotchoccyshort
+Creator: Labelle
+Tags: 

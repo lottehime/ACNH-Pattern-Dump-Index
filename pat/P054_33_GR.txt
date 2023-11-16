@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: GR
+Creator: main
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: herringbonegrey
+Creator: meyling
+Tags: herringbone, path, wood, 

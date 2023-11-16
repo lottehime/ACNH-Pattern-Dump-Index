@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: WoodenPathUp
+Creator: Boshi
+Tags: 446696380426, 

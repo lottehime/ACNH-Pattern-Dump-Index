@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Stella
+Creator: L3O
+Tags: 

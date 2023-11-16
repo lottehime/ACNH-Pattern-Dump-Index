@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Backgroundwinxp
+Creator: NOnoS
+Tags: background, computer, windows, 

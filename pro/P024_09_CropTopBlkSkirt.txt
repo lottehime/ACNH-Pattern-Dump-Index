@@ -1,0 +1,4 @@
+Type:Coat
+Name: CropTopBlkSkirt
+Creator: rei
+Tags: 

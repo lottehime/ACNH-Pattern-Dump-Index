@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: PokeSueter
+Creator: EdicionGamerYT
+Tags: 

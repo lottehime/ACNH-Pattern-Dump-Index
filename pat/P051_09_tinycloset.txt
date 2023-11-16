@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: tinycloset
+Creator: clarinha
+Tags: 

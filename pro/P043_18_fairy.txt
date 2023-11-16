@@ -1,3 +1,0 @@
-Name: fairy
-Creator: pickle
-Tags: 

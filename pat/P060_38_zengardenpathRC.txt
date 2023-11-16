@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: zengardenpathRC
+Creator: mmanic
+Tags: garden, path, zen, 

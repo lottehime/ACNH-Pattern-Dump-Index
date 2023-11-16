@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Waldstrae04
+Creator: ren04at
+Tags: stone, way, 

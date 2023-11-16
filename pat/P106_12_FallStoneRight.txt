@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: FallStoneRight
+Creator: froggyylad
+Tags: path, stone, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: pinkwhitelace
+Creator: Greenie
+Tags: lace, pink, stall, 

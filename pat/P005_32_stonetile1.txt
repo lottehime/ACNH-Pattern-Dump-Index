@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stonetile1
+Creator: Kai
+Tags: 

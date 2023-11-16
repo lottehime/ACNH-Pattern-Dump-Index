@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Steppingstones4
+Creator: Strike
+Tags: 

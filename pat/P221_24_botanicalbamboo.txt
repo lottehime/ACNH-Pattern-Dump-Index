@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: botanicalbamboo
+Creator: Boshi
+Tags: 515002428566, bamboo, botanical, 

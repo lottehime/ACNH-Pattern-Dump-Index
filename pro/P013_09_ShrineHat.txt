@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: ShrineHat
+Creator: Moogie
+Tags: botw, hat, loz, shrine, zelda, 

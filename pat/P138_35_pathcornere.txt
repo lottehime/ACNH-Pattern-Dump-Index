@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: pathcornere
+Creator: flyingfish
+Tags: 

@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: sakura
+Creator: Bigbagel
+Tags: konoha, naruto, sakura, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: 1
+Creator: Caique
+Tags: path, road, sidewalk, street, 

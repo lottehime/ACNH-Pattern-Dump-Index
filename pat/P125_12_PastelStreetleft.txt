@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PastelStreetleft
+Creator: HyokoSam
+Tags: candy, icecream, pastel, pink, street, 

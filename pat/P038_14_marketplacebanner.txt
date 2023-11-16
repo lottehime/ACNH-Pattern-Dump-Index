@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: marketplacebanner
+Creator: sacha
+Tags: banner, city, market, official, town, 

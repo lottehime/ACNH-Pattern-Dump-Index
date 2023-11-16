@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RicePaddyTM
+Creator: Strike
+Tags: tm, field, paddy, path, rice, 

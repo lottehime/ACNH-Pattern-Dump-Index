@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: LacyDress
+Creator: miruku
+Tags: blue, elegant, gothic, regal, ribbons, 

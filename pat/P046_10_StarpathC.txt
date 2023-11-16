@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StarpathC
+Creator: Berdine
+Tags: 

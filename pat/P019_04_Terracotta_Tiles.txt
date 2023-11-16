@@ -1,3 +1,0 @@
-Name: Terracotta Tiles
-Creator: lyria
-Tags: path, terracotta, tiles, 

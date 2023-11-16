@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: Pride
+Creator: M
+Tags: 

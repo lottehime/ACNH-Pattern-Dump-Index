@@ -1,0 +1,4 @@
+Type:TShirt
+Name: acliclastshirt
+Creator: Boshi
+Tags: 510563830912, 

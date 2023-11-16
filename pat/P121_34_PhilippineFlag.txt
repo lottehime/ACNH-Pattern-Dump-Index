@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PhilippineFlag
+Creator: fafadudut
+Tags: asia, designflag, flag, ph, philippines, 

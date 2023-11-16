@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Takoyaki
+Creator: Lisbelle
+Tags: flag, lily, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Pasto4
+Creator: EdicionGamerYT
+Tags: 

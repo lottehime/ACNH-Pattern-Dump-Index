@@ -1,3 +1,0 @@
-Name: Pull BinHarry
-Creator: Flay
-Tags: dut-info, flo, 

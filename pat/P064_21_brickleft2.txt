@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: brickleft2
+Creator: angel
+Tags: brick, path, set, 

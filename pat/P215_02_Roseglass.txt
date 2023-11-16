@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Roseglass
+Creator: Greenie
+Tags: glass, mosaic, rose, 

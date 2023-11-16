@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Corner2SELine
+Creator: Boshi
+Tags: 581508049726, border, stone, 

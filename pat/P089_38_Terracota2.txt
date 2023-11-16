@@ -1,3 +1,0 @@
-Name: Terracota2
-Creator: Scarlet
-Tags: 

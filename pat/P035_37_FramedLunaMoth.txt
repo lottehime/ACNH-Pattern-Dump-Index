@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: FramedLunaMoth
+Creator: Lavender
+Tags: bugs, insect, moth, picture, wallhanging, 

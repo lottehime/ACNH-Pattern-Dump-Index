@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: VahMedoh
+Creator: Fasil
+Tags: 053901681793, 

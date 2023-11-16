@@ -1,0 +1,4 @@
+Type:Coat
+Name: TF2Soldier
+Creator: Muver
+Tags: tf2, 

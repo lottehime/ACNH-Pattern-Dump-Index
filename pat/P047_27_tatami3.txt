@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: tatami3
+Creator: Berdine
+Tags: 

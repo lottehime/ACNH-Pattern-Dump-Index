@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Terracotta
+Creator: leaf
+Tags: 

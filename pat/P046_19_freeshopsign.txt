@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: freeshopsign
+Creator: Berdine
+Tags: 

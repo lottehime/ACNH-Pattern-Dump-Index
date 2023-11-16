@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: chocolatestall
+Creator: meyling
+Tags: stall, 

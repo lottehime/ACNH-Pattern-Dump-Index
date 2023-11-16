@@ -1,3 +1,0 @@
-Name: PlanetExpressLogo
-Creator: LemonCat
-Tags: express, lemoncat, logo, planet, 

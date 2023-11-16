@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Yellowsripedbee
+Creator: Skandu
+Tags: stall, 

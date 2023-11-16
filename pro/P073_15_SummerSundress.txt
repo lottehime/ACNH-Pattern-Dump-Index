@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: SummerSundress
+Creator: Boshi
+Tags: 669416933499, 

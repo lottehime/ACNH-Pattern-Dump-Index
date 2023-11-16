@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SariRoadCrossingV
+Creator: Oracle
+Tags: crossing, road, sariboshi, street, 

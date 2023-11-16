@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: JapanesePavement
+Creator: EveK
+Tags: japanese, pavement, 

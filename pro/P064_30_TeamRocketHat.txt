@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: TeamRocketHat
+Creator: Alex
+Tags: pokemon, videogames, 

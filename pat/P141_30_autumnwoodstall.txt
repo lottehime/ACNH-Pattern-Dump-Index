@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: autumnwoodstall
+Creator: MA927874435692
+Tags: autumn, fall, leaves, stall, wooden, 

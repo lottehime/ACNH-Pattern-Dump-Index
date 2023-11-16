@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PieceofDirt
+Creator: JuninChan
+Tags: dirt, mud, path, 

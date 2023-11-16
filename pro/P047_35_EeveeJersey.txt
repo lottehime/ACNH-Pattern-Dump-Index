@@ -1,0 +1,4 @@
+Type:TShirt
+Name: EeveeJersey
+Creator: DoctorPokemon
+Tags: cinnabar, eevee, jersey, pokemon, shirt, 

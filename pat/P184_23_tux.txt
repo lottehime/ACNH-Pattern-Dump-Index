@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: tux
+Creator: Arturius
+Tags: linux, pinguin, tux, 

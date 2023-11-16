@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stonepavement17
+Creator: MA662491474107
+Tags: 

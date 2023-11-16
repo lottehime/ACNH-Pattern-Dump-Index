@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: hi
+Creator: kim
+Tags: red, swiffer, swifty, taylor, 

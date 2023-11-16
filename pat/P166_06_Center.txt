@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Center
+Creator: Ribbajack
+Tags: path, stars, 

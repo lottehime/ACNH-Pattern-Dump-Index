@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: UltraBall
+Creator: Akay
+Tags: cap, hat, pokeball, pokemon, ultraball, 

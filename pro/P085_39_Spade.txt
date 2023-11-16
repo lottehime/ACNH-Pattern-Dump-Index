@@ -1,0 +1,4 @@
+Type:ShortSleeveDress3DS
+Name: Spade
+Creator: Greenie
+Tags: black, card, red, 

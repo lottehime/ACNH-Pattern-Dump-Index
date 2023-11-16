@@ -1,0 +1,4 @@
+Type:Flag
+Name: pochitoflag
+Creator: jacklebre
+Tags: brazilboy, chaisawman, demon, pochito, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: wood3
+Creator: 1
+Tags: 

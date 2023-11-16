@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: CherishBall
+Creator: Akay
+Tags: pokeball, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: window
+Creator: reishiki
+Tags: 

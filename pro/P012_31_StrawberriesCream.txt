@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: StrawberriesCream
+Creator: cat
+Tags: 

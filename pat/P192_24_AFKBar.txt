@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: AFKBar
+Creator: LemonCat
+Tags: afk, lemoncat, sign, transparent, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bamboo
+Creator: meyling
+Tags: bamboo, path, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TriAsphaltVCross
+Creator: Kyek
+Tags: path, road, street, urban, 

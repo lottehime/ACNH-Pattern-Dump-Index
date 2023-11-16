@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: fruitstall
+Creator: meyling
+Tags: fruit, stall, 

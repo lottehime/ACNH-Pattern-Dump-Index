@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: spanishtile3
+Creator: Greenie
+Tags: tile, 

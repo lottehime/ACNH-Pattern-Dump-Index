@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MuseumTile1
+Creator: Boshi
+Tags: 528907924383, museum, path, stone, 

@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: Gryffindor
+Creator: Star
+Tags: hogwarts, hp, 

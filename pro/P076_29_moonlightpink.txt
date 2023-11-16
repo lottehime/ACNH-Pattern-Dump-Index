@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: moonlightpink
+Creator: Rikku
+Tags: cute, dress, robe, witch, 

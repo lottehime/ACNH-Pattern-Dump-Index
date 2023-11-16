@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Woodsidestair2
+Creator: Lucas
+Tags: deck, side, stair, wood, 

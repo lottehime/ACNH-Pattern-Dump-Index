@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: floralprint
+Creator: meyling
+Tags: fabric, floral, flowers, 

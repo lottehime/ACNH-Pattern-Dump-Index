@@ -1,0 +1,4 @@
+Type:LongSleeveShirt3DS
+Name: HalloweenSweater
+Creator: MCLamb
+Tags: black, fall, halloween, orange, spooky, 

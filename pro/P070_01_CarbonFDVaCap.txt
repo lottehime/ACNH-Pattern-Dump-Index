@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: CarbonFDVaCap
+Creator: Boshi
+Tags: 418326509410, overwatch, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: fruitssign
+Creator: meyling
+Tags: sign, 

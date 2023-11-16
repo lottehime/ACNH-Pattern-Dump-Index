@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: moonstone
+Creator: Boshi
+Tags: 834282251306, moon, path, rock, stone, 

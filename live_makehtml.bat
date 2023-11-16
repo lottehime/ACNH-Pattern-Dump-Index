@@ -37,8 +37,8 @@ timeout 1 >nul
 
 echo.
 echo Getting file totals . . .
-for %%a in ("!patdir!\*.png") do ( set /a cntpat += 1 )
-for %%b in ("!prodir!\*.png") do ( set /a cntpro += 1 )
+for %%a in ("!patdir!\*.nhd") do ( set /a cntpat += 1 )
+for %%b in ("!prodir!\*.nhpd") do ( set /a cntpro += 1 )
 echo Normal Patterns^: !cntpat!
 echo PRO Patterns^: !cntpro!
 timeout 1 >nul
@@ -187,6 +187,23 @@ echo     z-index^:9999^; >> !pattern!.html
 echo     background^:url("images/loading.gif") no-repeat center center rgba^(0^,0^,0^,0.9^)^; >> !pattern!.html
 echo     background-size^: 320px 255px^; >> !pattern!.html
 echo ^} >> !pattern!.html
+echo span.product a img ^{ >> !pattern!.html
+echo     display^: none^; >> !pattern!.html
+echo     position^: fixed^; >> !pattern!.html
+echo     right^: 8px^; >> !pattern!.html
+echo     top^: 8px^; >> !pattern!.html
+echo ^} >> !pattern!.html
+echo span.product a ^{ >> !pattern!.html
+echo     display^: inline-block^; >> !pattern!.html
+echo     position^: relative^; >> !pattern!.html
+echo ^} >> !pattern!.html
+echo span.product a img^{ >> !pattern!.html
+echo     display^: none^; >> !pattern!.html
+echo ^} >> !pattern!.html
+echo span.product a^:hover img^{ >> !pattern!.html
+echo     display^: inherit^; >> !pattern!.html
+echo     z-index^:9999^; >> !pattern!.html
+echo ^} >> !pattern!.html
 echo ^</style^> >> !pattern!.html
 
 echo ^<script^> >> !pattern!.html
@@ -224,6 +241,10 @@ echo ^</script^> >> !pattern!.html
 
 echo ^</head^> >> !pattern!.html
 
+echo ^<footer id="footer"^> >> !pattern!.html
+echo ^<p style="font-family: roboto"^>Page/script by Josh ^(Lotte^) 👨‍💻^<a href="https://github.com/lottehime"^>@lottehime^</a^> ^& 🐦^<a href="https://twitter.com/lotte_hime"^>@lotte_hime^</a^>^<br^>Level any complaints to: /dev/null 💀^</p^> >> !pattern!.html
+echo ^</footer^> >> !pattern!.html
+
 echo ^<body style="background-color:#ffd4ee"^> >> !pattern!.html
 
 echo ^<div id="load"^> >> !pattern!.html
@@ -240,7 +261,7 @@ echo ^<img src="images/1.png" width="96" height="96" id="villager" alt="Villager
 
 echo ^<div class="grid-container"^> >> !pattern!.html
 
-for %%i in ("!patdir!\*.png") do (
+for %%i in ("!patdir!\*.nhd") do (
 	set /a count += 1
 	set /a countother +=1
 
@@ -251,11 +272,13 @@ for %%i in ("!patdir!\*.png") do (
 
 	set "str=%%i"
     set str=!str:~0,-4!
-    set "nhdstr=!str!.nhd"
+    set "pngstr=!str!.png"
     set "txtstr=!str!.txt"
+    set "qrstr=!str!.QR.png"
 
 	echo ^<div style="display:none" class="content!cntpage!"^> >> !pattern!.html
-	echo ^<a href="!nhdstr!"^>^<img src="%%i" width="64" height="64" /^>^</a^> >> !pattern!.html
+	echo ^<a href="%%i"^>^<img src="!pngstr!" width="64" height="64" /^>^</a^> >> !pattern!.html
+	echo ^<br^>^<span class="product"^>^<a href="#"^>^<img src="!qrstr!" alt="" onload="this.width/=2;this.onload=null;"/^>QR Code^</a^>^</span^> >> !pattern!.html
 	set "strl=%%i"
     set strl=!strl:~4,-4!
 	echo ^<p style="font-family: roboto; font-size: 8;"^>!strl!^</p^> >> !pattern!.html
@@ -282,10 +305,6 @@ echo ^<br^>^<br^>^<br^>^<br^> >> !pattern!.html
 echo ^</div^> >> !pattern!.html
 
 echo ^</body^> >> !pattern!.html
-
-echo ^<footer id="footer"^> >> !pattern!.html
-echo ^<p style="font-family: roboto"^>Page/script by Josh ^(Lotte^) 👨‍💻^<a href="https://github.com/lottehime"^>@lottehime^</a^> ^& 🐦^<a href="https://twitter.com/lotte_hime"^>@lotte_hime^</a^>^<br^>Level any complaints to: /dev/null 💀^</p^> >> !pattern!.html
-echo ^</footer^> >> !pattern!.html
 
 echo ^<script^> >> !pattern!.html
 echo document.onreadystatechange ^= function ^(^) ^{ >> !pattern!.html
@@ -360,6 +379,23 @@ echo     z-index^:9999^; >> !pro!.html
 echo     background^:url("images/loading.gif") no-repeat center center rgba^(0^,0^,0^,0.9^)^; >> !pro!.html
 echo     background-size^: 320px 255px^; >> !pro!.html
 echo ^} >> !pro!.html
+echo span.product a img ^{ >> !pro!.html
+echo     display^: none^; >> !pro!.html
+echo     position^: fixed^; >> !pro!.html
+echo     right^: 8px^; >> !pro!.html
+echo     top^: 8px^; >> !pro!.html
+echo ^} >> !pro!.html
+echo span.product a ^{ >> !pro!.html
+echo     display^: inline-block^; >> !pro!.html
+echo     position^: relative^; >> !pro!.html
+echo ^} >> !pro!.html
+echo span.product a img^{ >> !pro!.html
+echo     display^: none^; >> !pro!.html
+echo ^} >> !pro!.html
+echo span.product a^:hover img^{ >> !pro!.html
+echo     display^: inherit^; >> !pro!.html
+echo     z-index^:9999^; >> !pro!.html
+echo ^} >> !pro!.html
 echo ^</style^> >> !pro!.html
 
 echo ^<script^> >> !pro!.html
@@ -397,6 +433,10 @@ echo ^</script^> >> !pro!.html
 
 echo ^</head^> >> !pro!.html
 
+echo ^<footer id="footer"^> >> !pro!.html
+echo ^<p style="font-family: roboto"^>Page/script by Josh ^(Lotte^) 👨‍💻^<a href="https://github.com/lottehime"^>@lottehime^</a^> ^& 🐦^<a href="https://twitter.com/lotte_hime"^>@lotte_hime^</a^>^<br^>Level any complaints to: /dev/null 💀^</p^> >> !pro!.html
+echo ^</footer^> >> !pro!.html
+
 echo ^<body style="background-color:#ffd4ee"^> >> !pro!.html
 
 echo ^<div id="load"^> >> !pro!.html
@@ -416,7 +456,7 @@ echo ^<div class="grid-container"^> >> !pro!.html
 set /a count = 0
 set /a countother = -1
 set /a cntpage = 1
-for %%p in ("!prodir!\*.png") do (
+for %%p in ("!prodir!\*.nhpd") do (
 	set /a count += 1
 	set /a countother +=1
 
@@ -426,12 +466,14 @@ for %%p in ("!prodir!\*.png") do (
 	)
 
 	set "str=%%p"
-    set str=!str:~0,-4!
-    set "nhdstr=!str!.nhpd"
+    set str=!str:~0,-5!
+    set "pngstr=!str!.png"
     set "txtstr=!str!.txt"
+    set "qrstr=!str!.QR.png"
 
 	echo ^<div style="display:none" class="content!cntpage!"^> >> !pro!.html
-	echo ^<a href="!nhdstr!"^>^<img src="%%p" width="96" height="96" /^>^</a^> >> !pro!.html
+	echo ^<a href="%%p"^>^<img src="!pngstr!" width="96" height="96" /^>^</a^> >> !pro!.html
+	echo ^<br^>^<span class="product"^>^<a href="#"^>^<img src="!qrstr!" alt="" onload="this.width/=2;this.onload=null;"/^>QR Code^</a^>^</span^> >> !pro!.html
 	set "strl=%%p"
     set strl=!strl:~4,-4!
 	echo ^<p style="font-family: roboto; font-size: 8;"^>!strl!^</p^> >> !pro!.html
@@ -458,10 +500,6 @@ echo ^<br^>^<br^>^<br^>^<br^> >> !pro!.html
 echo ^</div^> >> !pro!.html
 
 echo ^</body^> >> !pro!.html
-
-echo ^<footer id="footer"^> >> !pro!.html
-echo ^<p style="font-family: roboto"^>Page/script by Josh ^(Lotte^) 👨‍💻^<a href="https://github.com/lottehime"^>@lottehime^</a^> ^& 🐦^<a href="https://twitter.com/lotte_hime"^>@lotte_hime^</a^>^<br^>Level any complaints to: /dev/null 💀^</p^> >> !pro!.html
-echo ^</footer^> >> !pro!.html
 
 echo ^<script^> >> !pro!.html
 echo document.onreadystatechange ^= function ^(^) ^{ >> !pro!.html

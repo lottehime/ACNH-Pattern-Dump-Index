@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: barber4
+Creator: flay
+Tags: 

@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: MinnieSuspenders
+Creator: Walnut
+Tags: disney, dress, mickeymouse, minniemouse, suspenders, 

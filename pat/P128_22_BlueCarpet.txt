@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BlueCarpet
+Creator: Adaline
+Tags: blue, carpet, pattern, 

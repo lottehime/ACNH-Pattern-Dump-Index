@@ -1,0 +1,4 @@
+Type:Coat
+Name: BlackLaceLolita
+Creator: M
+Tags: 

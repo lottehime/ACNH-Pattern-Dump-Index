@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SchoolWindow
+Creator: EveK
+Tags: japanese, school, window, 

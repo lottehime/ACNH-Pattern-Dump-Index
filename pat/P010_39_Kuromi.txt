@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Kuromi
+Creator: M
+Tags: 

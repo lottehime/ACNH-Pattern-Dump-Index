@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SmallerStones
+Creator: DiscordServer
+Tags: path, stone, 

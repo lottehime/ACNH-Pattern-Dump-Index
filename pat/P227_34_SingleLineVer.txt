@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SingleLineVer
+Creator: DiscordServer
+Tags: japanese, roads, stripe, 

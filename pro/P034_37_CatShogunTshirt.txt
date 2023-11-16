@@ -1,0 +1,4 @@
+Type:TShirt
+Name: CatShogunTshirt
+Creator: AliceShiro
+Tags: cat, japan, red, samurai, tshirt, 

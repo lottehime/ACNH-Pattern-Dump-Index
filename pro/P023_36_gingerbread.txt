@@ -1,0 +1,4 @@
+Type:Coat
+Name: gingerbread
+Creator: rei
+Tags: 

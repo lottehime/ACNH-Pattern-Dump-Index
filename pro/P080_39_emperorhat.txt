@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: emperorhat
+Creator: Boshi
+Tags: 265262705449, blue, bug, hat, 

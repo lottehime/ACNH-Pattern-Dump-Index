@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: galaxyspill
+Creator: Greenie
+Tags: 

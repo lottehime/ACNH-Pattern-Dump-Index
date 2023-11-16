@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ArcadeFloor
+Creator: Miray
+Tags: arcade, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: publicpool
+Creator: Moogie
+Tags: pool, sign, 

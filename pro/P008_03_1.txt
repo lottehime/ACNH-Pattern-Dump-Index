@@ -1,3 +1,4 @@
+Type:Hoodie
 Name: 1
 Creator: M
 Tags: 

@@ -1,3 +1,0 @@
-Name: bl-dirtpath
-Creator: Alan
-Tags: 

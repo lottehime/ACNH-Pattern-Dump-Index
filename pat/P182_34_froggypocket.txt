@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: froggypocket
+Creator: Breloomed
+Tags: coat, dress, frog, overalls, purple, 

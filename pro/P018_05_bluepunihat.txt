@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: bluepunihat
+Creator: xiao5
+Tags: atelier, gamecharact, sophie, 

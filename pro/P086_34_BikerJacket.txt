@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: BikerJacket
+Creator: Amek
+Tags: biker, bikerjacket, jacket, 

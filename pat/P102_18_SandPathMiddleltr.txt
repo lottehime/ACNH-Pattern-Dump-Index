@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SandPathMiddleltr
+Creator: wi
+Tags: 

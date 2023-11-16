@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Bubbleteastall
+Creator: sacha
+Tags: boba, bubbletea, drink, stall, stalls, 

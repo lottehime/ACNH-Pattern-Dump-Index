@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: fadebrows
+Creator: steff
+Tags: brows, eyebrows, face, facepaint, 

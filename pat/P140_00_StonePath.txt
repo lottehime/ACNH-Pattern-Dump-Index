@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StonePath
+Creator: Koid
+Tags: 

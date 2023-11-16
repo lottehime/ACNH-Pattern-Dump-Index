@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: pokegirlcap
+Creator: Moogie
+Tags: cap, girl, hat, pink, pokemon, 

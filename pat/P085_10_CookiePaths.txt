@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CookiePaths
+Creator: TheNessaGamer
+Tags: cookiepath, plant, thenessagame, 

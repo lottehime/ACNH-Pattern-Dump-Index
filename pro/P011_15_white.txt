@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: white
+Creator: M
+Tags: 

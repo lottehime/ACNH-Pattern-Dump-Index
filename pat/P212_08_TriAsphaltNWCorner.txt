@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TriAsphaltNWCorner
+Creator: Kyek
+Tags: path, road, street, urban, 

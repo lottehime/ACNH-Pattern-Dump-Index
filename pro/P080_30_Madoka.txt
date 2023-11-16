@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: Madoka
+Creator: Greenie
+Tags: anime, magicalgirl, pink, 

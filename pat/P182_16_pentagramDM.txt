@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: pentagramDM
+Creator: Boshi
+Tags: 919685620560, path, 

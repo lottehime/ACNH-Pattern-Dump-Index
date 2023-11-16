@@ -1,0 +1,4 @@
+Type:Coat
+Name: Link
+Creator: Greenie
+Tags: game, green, loz, zelda, 

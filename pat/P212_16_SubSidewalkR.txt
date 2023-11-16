@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SubSidewalkR
+Creator: CrispyPeanut
+Tags: clean, path, suburb, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cliff3R
+Creator: mmanic
+Tags: cliff, path, transition, 

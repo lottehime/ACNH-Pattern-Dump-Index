@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: starstone
+Creator: Berdine
+Tags: 

@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: blooddress
+Creator: reishiki
+Tags: 789555589106, 

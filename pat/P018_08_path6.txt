@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: path6
+Creator: M
+Tags: 

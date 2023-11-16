@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BrickInnerURLR
+Creator: Boshi
+Tags: 701183139106, border, brick, terracotta, 

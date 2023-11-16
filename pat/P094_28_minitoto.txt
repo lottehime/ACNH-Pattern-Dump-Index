@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: minitoto
+Creator: froggylad
+Tags: 

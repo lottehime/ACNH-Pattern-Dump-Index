@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: sprigatito
+Creator: Andy
+Tags: pokemon, sprigatito, 

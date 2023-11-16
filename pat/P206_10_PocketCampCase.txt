@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PocketCampCase
+Creator: Boshi
+Tags: 516912696105, blue, case, phone, yellow, 

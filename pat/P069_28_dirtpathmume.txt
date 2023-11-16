@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: dirtpathmume
+Creator: yo1mume
+Tags: 944026582481, 

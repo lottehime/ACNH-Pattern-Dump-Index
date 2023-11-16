@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: darkdirtpath
+Creator: froggylad
+Tags: dirt, 

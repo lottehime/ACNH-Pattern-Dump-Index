@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: StrawberryHat
+Creator: steff
+Tags: 

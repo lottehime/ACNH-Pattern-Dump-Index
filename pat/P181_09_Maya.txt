@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Maya
+Creator: MA714174190426
+Tags: 

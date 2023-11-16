@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stonepath2
+Creator: Boshi
+Tags: 635260786250, path, stepping, stone, 

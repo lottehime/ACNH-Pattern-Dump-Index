@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: oldstonepath
+Creator: kumadaikichi
+Tags: 022536047848, 

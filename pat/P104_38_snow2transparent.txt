@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: snow2transparent
+Creator: tj
+Tags: 

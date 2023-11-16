@@ -1,0 +1,4 @@
+Type:Coat
+Name: flannelcardi
+Creator: meyling
+Tags: cardigan, coat, flannel, knit, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: GiornoPhone
+Creator: Boshi
+Tags: jjba, jojo, 

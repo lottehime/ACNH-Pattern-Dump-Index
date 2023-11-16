@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: starwindow
+Creator: MA761869596718
+Tags: curtain, night, panel, star, window, 

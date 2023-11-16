@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: HarleyHat
+Creator: Moogie
+Tags: black, harleyquinn, hat, joker, red, 

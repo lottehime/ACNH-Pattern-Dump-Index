@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Triforce
+Creator: xSean420
+Tags: link, n64, ocarina, triforce, zelda, 

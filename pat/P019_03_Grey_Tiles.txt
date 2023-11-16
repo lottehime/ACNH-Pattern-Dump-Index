@@ -1,3 +1,0 @@
-Name: Grey Tiles
-Creator: lyria
-Tags: concrete, path, tiles, 

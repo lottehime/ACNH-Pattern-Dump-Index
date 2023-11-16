@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: woodenpanelcenter
+Creator: LOLITA
+Tags: panel, wood, 

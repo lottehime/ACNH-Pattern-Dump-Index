@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: weedpatch
+Creator: mmanic
+Tags: patch, weeds, 

@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: StrawberryOveralls
+Creator: steff
+Tags: 

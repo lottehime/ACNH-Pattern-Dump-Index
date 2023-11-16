@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: pillow
+Creator: meyling
+Tags: fabric, pillow, 

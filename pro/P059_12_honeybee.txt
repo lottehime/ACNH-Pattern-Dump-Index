@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: honeybee
+Creator: astrix
+Tags: bee, cute, hat, honey, strawhat, 

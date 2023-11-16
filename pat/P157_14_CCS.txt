@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CCS
+Creator: Poffi
+Tags: cardcaptor, ccs, magic, sakura, 

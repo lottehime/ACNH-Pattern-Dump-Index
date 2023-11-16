@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BlancheSign
+Creator: Deu
+Tags: villager, 

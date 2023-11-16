@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CornerExt
+Creator: DiscordServer
+Tags: corner, japanese, roads, 

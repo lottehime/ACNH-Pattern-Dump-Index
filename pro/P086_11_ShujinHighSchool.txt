@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: ShujinHighSchool
+Creator: Greenie
+Tags: game, persona, shujin, 

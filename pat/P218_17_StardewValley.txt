@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StardewValley
+Creator: Miray
+Tags: laptop, pc, screen, stardew, valley, 

@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: DesignerHat
+Creator: Moogie
+Tags: designer, hat, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: woodplanks
+Creator: snowii
+Tags: cottage, path, planks, wood, wooden, 

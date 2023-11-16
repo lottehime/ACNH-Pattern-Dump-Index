@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: marina
+Creator: meyling
+Tags: villager, 

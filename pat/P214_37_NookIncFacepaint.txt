@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: NookIncFacepaint
+Creator: Miray
+Tags: facepaint, inc, nook, nookinc, nookinc, 

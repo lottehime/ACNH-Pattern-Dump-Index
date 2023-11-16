@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Brokenshoji
+Creator: M
+Tags: 

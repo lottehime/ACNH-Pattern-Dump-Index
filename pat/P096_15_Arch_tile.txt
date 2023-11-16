@@ -1,3 +1,0 @@
-Name: Arch tile
-Creator: flay
-Tags: 

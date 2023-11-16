@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: woodenstairsh
+Creator: kat
+Tags: stairs, wooden, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stalltricolour2
+Creator: flay
+Tags: 

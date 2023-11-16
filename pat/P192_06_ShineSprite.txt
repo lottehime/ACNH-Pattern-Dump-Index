@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ShineSprite
+Creator: Boshi
+Tags: 616418361043, mario, nintendo, 

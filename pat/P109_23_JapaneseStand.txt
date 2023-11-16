@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: JapaneseStand
+Creator: EveK
+Tags: japanese, stand, 

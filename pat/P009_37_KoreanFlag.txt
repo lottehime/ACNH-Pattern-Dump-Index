@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: KoreanFlag
+Creator: SigmaAlpha
+Tags: flag, koean, 

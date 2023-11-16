@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: thestrokes
+Creator: nyx
+Tags: album, band, thestrokes, 

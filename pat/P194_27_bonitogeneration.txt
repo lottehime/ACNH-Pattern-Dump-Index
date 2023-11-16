@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bonitogeneration
+Creator: gug
+Tags: album, band, cover, kkb, poster, 

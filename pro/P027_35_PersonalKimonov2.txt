@@ -1,0 +1,4 @@
+Type:Robe
+Name: PersonalKimonov2
+Creator: Gnostalgia
+Tags: 

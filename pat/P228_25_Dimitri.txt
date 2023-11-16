@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Dimitri
+Creator: DiscordServer
+Tags: 

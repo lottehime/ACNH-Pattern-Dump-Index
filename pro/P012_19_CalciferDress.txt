@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: CalciferDress
+Creator: Doe
+Tags: calcifer, ghibli, howl, studioghibli, 

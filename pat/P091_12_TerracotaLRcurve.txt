@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TerracotaLRcurve
+Creator: Scarlet
+Tags: 

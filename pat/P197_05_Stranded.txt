@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Stranded
+Creator: Amek
+Tags: cover, music, redvox, stranded, 

@@ -1,3 +1,0 @@
-Name: Test Muscle
-Creator: Test
-Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: GuirnaldaNavidea
+Creator: Scarlet
+Tags: 

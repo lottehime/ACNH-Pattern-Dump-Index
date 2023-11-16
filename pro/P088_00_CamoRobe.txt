@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: CamoRobe
+Creator: Boshi
+Tags: 535951595251, camo, robe, 

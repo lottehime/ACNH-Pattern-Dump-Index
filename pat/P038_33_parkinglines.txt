@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: parkinglines
+Creator: sacha
+Tags: city, parking, roads, 

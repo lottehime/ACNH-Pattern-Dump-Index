@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: picnicrug
+Creator: ling
+Tags: 

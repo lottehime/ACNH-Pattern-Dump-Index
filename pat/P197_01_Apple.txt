@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Apple
+Creator: Amek
+Tags: apple, fruit, sign, 

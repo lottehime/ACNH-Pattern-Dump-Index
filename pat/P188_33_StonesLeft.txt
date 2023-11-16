@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StonesLeft
+Creator: Giuliastro
+Tags: floor, left, stones, 

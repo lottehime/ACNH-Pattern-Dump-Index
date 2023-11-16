@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CornerTRSakura
+Creator: M
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Grizzlyportrait
+Creator: Mithos
+Tags: bear, grizzly, portrait, villager, 

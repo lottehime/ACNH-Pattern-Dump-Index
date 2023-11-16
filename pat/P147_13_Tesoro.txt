@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Tesoro
+Creator: EdicionGamerYT
+Tags: 

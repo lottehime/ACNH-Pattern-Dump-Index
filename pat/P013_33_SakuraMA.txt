@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SakuraMA
+Creator: M
+Tags: 

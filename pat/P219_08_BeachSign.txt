@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BeachSign
+Creator: Boshi
+Tags: 867418950346, beach, sign, 

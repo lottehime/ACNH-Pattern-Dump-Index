@@ -1,0 +1,4 @@
+Type:Coat
+Name: Guard
+Creator: Moogie
+Tags: guard, loz, zelda, 

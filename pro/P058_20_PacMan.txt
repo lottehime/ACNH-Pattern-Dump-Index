@@ -1,0 +1,4 @@
+Type:LongSleeveShirt3DS
+Name: PacMan
+Creator: Nicouwu
+Tags: arcade, pacman, pacman, retro, videogame, 

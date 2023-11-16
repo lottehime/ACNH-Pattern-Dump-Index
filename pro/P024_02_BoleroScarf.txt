@@ -1,0 +1,4 @@
+Type:Coat
+Name: BoleroScarf
+Creator: rei
+Tags: 

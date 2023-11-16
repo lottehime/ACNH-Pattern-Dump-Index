@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: HerringbrickLeft
+Creator: Boshi
+Tags: 690878968300, grey, path, stone, 

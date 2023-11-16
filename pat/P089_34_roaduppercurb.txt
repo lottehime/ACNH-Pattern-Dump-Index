@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: roaduppercurb
+Creator: riah
+Tags: cityroad, concrete, curb, riah, street, 

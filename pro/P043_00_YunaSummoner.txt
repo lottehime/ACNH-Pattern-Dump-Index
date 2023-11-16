@@ -1,0 +1,4 @@
+Type:Robe
+Name: YunaSummoner
+Creator: Moogie
+Tags: ffx, finalfantasy, summoner, yuna, 

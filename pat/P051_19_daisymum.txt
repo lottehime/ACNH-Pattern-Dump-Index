@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: daisymum
+Creator: marie
+Tags: decor, flowers, green, ground, white, 

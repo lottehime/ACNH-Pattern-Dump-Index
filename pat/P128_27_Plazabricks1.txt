@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Plazabricks1
+Creator: Moogie
+Tags: brick, path, plaza, 

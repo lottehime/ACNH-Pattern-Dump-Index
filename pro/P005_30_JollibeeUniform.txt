@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: JollibeeUniform
+Creator: EndangeredIguana
+Tags: cap, fastfood, jollibee, 

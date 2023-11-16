@@ -1,3 +1,0 @@
-Name: grass path patch2
-Creator: m_manic
-Tags: grass, patch, path, 

@@ -1,0 +1,4 @@
+Type:TShirt
+Name: UniqloShirt
+Creator: EndangeredIguana
+Tags: pinoy, uniqlo, 

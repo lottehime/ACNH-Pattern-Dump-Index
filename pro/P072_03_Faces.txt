@@ -1,0 +1,4 @@
+Type:TShirt
+Name: Faces
+Creator: Wijolt
+Tags: cute, face, meme, white, 

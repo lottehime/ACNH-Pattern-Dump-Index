@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: steppingstone5
+Creator: 
+Tags: 

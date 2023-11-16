@@ -1,0 +1,4 @@
+Type:Coat
+Name: rabbitplanter
+Creator: princess
+Tags: pink, rabbit, 

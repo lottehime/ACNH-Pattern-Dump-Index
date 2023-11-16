@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: seashellstar
+Creator: froggylad
+Tags: sand, 

@@ -1,3 +1,0 @@
-Name: apple box panel
-Creator: julia
-Tags: 

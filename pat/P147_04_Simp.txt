@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Simp
+Creator: EdicionGamerYT
+Tags: 

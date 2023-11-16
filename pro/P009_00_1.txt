@@ -1,3 +1,4 @@
+Type:Robe
 Name: 1
 Creator: M
 Tags: 

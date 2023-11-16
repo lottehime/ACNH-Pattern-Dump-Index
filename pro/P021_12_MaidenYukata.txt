@@ -1,0 +1,4 @@
+Type:Robe
+Name: MaidenYukata
+Creator: Berdine
+Tags: 

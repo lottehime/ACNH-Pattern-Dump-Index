@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: roadoutertopright
+Creator: Boshi
+Tags: 772739769058, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: July
+Creator: EdicionGamerYT
+Tags: 

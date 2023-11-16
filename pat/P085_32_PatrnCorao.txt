@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PatrnCorao
+Creator: TheNessaGamer
+Tags: corao, patron, thenessagame, 

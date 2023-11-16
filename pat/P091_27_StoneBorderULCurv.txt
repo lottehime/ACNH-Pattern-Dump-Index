@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StoneBorderULCurv
+Creator: Scarlet
+Tags: 

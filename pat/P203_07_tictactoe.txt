@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: tictactoe
+Creator: meyling
+Tags: floordecor, 

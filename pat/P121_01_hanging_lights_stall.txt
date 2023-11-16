@@ -1,3 +1,0 @@
-Name: hanging lights stall
-Creator: julia
-Tags: 

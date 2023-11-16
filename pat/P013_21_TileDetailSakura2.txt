@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TileDetailSakura2
+Creator: M
+Tags: 

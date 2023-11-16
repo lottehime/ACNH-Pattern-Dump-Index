@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: CasquettePika
+Creator: Flay
+Tags: flo, pikachu, pokemon, 

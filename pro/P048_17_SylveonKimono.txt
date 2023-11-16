@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: SylveonKimono
+Creator: cinzia
+Tags: 

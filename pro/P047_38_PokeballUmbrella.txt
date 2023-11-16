@@ -1,0 +1,4 @@
+Type:Umbrella
+Name: PokeballUmbrella
+Creator: DoctorPokemon
+Tags: pokeball, pokemon, umbrella, 

@@ -1,0 +1,4 @@
+Type:TShirt
+Name: Argentina2022
+Creator: Sabruwu
+Tags: argentina, campeon, futbol, messi, qatar, 

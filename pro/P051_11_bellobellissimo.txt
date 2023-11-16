@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: bellobellissimo
+Creator: daniele
+Tags: 

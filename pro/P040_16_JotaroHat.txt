@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: JotaroHat
+Creator: OscarJimenez
+Tags: anime, hat, jojo, jotaro, stardust, 

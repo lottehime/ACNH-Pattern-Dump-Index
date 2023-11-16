@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: BunnyDress
+Creator: Eeden
+Tags: bunny, dress, red, 

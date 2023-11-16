@@ -1,0 +1,4 @@
+Type:TShirt
+Name: DOOM
+Creator: Niako
+Tags: 644254213746, doom, tshirt, videogame, 

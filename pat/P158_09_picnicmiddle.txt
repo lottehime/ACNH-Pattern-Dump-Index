@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: picnicmiddle
+Creator: astrix
+Tags: blanet, cute, green, picnic, picnicblank, 

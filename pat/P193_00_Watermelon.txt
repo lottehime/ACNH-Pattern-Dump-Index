@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Watermelon
+Creator: Shyll
+Tags: sign, watermelon, 

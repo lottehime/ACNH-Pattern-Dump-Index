@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: FortuneTellerStand
+Creator: Boshi
+Tags: 430100515018, fortune, magic, purple, stall, 

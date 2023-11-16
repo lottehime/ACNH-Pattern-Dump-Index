@@ -1,3 +1,0 @@
-Name: newspaper
-Creator: flyingfish
-Tags: 

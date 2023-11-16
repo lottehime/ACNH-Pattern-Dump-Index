@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Escalerasmadera1
+Creator: EdicionGamerYT
+Tags: 

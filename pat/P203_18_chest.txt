@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: chest
+Creator: meyling
+Tags: decor, walldecor, 

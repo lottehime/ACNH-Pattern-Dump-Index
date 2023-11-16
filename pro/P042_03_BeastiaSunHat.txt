@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: BeastiaSunHat
+Creator: Moogie
+Tags: beastia, hat, sun, 

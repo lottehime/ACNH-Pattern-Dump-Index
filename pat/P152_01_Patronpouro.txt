@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Patronpouro
+Creator: Dox
+Tags: df, eef, f, fe, ff, 

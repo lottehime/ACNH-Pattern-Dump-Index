@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: KittyDressWhite
+Creator: Amek
+Tags: dress, kitty, kittydress, white, 

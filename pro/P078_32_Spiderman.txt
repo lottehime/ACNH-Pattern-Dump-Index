@@ -1,0 +1,4 @@
+Type:TShirt
+Name: Spiderman
+Creator: Boshi
+Tags: 030559656612, comicbook, marvel, superhero, 

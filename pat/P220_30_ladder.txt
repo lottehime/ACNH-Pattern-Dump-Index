@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ladder
+Creator: meyling
+Tags: floordecor, 

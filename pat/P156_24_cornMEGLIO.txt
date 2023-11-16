@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cornMEGLIO
+Creator: Haireen
+Tags: candycorn, halloween, roadpattern, 

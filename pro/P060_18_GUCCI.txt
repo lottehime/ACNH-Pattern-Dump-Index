@@ -1,0 +1,4 @@
+Type:TShirt
+Name: GUCCI
+Creator: Wes
+Tags: gucci, 

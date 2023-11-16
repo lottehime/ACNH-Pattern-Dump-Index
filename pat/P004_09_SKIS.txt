@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SKIS
+Creator: EVA
+Tags: acnh, ski, snow, winter, 

@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: fraiseshat
+Creator: Rikku
+Tags: chapeau, fraise, hat, strawberry, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Moonroad
+Creator: MikiMelin
+Tags: kitty, moon, path, road, star, 

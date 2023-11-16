@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: LeftSidewalk
+Creator: Jewben
+Tags: angie, citycore, crossingkoki, path, road, 

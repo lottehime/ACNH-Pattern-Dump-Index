@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MonokumaPhone
+Creator: Kokrichi
+Tags: 

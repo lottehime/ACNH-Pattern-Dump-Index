@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: shrooms
+Creator: PigSheriff
+Tags: facepaint, mushrooms, 

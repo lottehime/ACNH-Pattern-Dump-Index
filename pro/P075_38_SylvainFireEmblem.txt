@@ -1,0 +1,4 @@
+Type:TShirt
+Name: SylvainFireEmblem
+Creator: Greenie
+Tags: emblem, fire, uniform, 

@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: LeafsHat
+Creator: Moogie
+Tags: hat, leaf, pokemon, 

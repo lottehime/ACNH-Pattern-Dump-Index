@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StrawStall
+Creator: Fasil
+Tags: 108829519808, 

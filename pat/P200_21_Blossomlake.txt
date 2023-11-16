@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Blossomlake
+Creator: Ellu
+Tags: lake, water, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: midplank
+Creator: Udderchan
+Tags: plank, wood, woodenplank, 

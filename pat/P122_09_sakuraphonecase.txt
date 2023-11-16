@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: sakuraphonecase
+Creator: Sarah
+Tags: flower, phone, phonecase, sakura, 

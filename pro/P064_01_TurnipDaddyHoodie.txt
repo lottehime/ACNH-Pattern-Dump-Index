@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: TurnipDaddyHoodie
+Creator: Barney
+Tags: 

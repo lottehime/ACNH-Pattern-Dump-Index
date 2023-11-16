@@ -1,0 +1,4 @@
+Type:Coat
+Name: Joker
+Creator: RNabuco
+Tags: atlus, joker, persona, persona5, smash, 

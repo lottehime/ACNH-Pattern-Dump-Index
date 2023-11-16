@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: mewspaper
+Creator: mwel1492
+Tags: 

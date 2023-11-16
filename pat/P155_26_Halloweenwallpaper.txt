@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Halloweenwallpaper
+Creator: Mlissa
+Tags: halloween, spooky, wallpaper, 

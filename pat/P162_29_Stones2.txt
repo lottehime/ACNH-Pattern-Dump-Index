@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Stones2
+Creator: Fasil
+Tags: 740411960223, 

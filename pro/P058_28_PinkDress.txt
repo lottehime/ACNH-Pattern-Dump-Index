@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: PinkDress
+Creator: tnaaa
+Tags: dress, pink, pinkdress, princess, 

@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: PentacleHat
+Creator: Moogie
+Tags: hat, moon, pentacle, sun, 

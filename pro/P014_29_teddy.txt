@@ -1,0 +1,4 @@
+Type:Coat
+Name: teddy
+Creator: PigSheriff
+Tags: 

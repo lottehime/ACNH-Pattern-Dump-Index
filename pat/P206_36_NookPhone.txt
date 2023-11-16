@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: NookPhone
+Creator: Boshi
+Tags: case, phone, tomnook, 

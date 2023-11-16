@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: holographictiles
+Creator: meyling
+Tags: path, tiles, 

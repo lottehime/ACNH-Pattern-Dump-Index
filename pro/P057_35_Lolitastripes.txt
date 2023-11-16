@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: Lolitastripes
+Creator: Shulia
+Tags: dress, lolita, 

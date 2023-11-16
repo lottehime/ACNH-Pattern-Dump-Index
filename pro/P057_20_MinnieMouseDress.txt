@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: MinnieMouseDress
+Creator: Walnut
+Tags: disney, dress, mickeymouse, minniemouse, 

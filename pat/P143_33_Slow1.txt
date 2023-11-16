@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Slow1
+Creator: MH
+Tags: japan, slow, 

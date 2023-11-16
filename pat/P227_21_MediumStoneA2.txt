@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MediumStoneA2
+Creator: DiscordServer
+Tags: path, stone, 

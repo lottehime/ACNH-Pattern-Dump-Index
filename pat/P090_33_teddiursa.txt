@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: teddiursa
+Creator: bewear
+Tags: 

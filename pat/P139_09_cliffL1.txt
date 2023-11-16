@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cliffL1
+Creator: flyingfish
+Tags: 

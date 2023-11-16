@@ -1,0 +1,4 @@
+Type:Robe
+Name: SummerKimono
+Creator: Greenie
+Tags: 

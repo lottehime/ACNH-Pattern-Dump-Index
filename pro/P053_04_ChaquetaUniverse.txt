@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: ChaquetaUniverse
+Creator: EdicionGamerYT
+Tags: 

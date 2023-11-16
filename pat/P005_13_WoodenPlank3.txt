@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: WoodenPlank3
+Creator: Tansie
+Tags: 

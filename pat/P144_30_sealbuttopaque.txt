@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: sealbuttopaque
+Creator: Possum
+Tags: acnl, animal, beach, cute, seal, 

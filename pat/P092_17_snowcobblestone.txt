@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: snowcobblestone
+Creator: kuroneko
+Tags: christmas, cobblestone, snow, xmas, 

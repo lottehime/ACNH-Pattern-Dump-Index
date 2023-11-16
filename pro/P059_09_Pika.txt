@@ -1,0 +1,4 @@
+Type:Coat
+Name: Pika
+Creator: Pikachu
+Tags: coat, pika, pikachu, 

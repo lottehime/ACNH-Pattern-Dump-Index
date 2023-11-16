@@ -1,0 +1,4 @@
+Type:Coat
+Name: WildernessExplore
+Creator: Boshi
+Tags: 677403547205, 

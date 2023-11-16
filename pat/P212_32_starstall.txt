@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: starstall
+Creator: meyling
+Tags: stall, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Magazinemotif
+Creator: Rikku
+Tags: fashion, magazine, mode, motif, women, 

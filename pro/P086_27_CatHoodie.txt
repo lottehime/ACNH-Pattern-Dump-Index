@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: CatHoodie
+Creator: Amek
+Tags: cat, cathoodie, hoodie, 

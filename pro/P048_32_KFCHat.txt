@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: KFCHat
+Creator: Vinnie
+Tags: food, hat, kfc, 

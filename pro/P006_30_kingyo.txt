@@ -1,0 +1,4 @@
+Type:Robe
+Name: kingyo
+Creator: M
+Tags: 

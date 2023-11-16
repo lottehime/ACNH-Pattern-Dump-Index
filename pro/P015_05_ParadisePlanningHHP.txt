@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: ParadisePlanningHHP
+Creator: PlankEdu
+Tags: dlc, happy, hhp, home, paradise, 

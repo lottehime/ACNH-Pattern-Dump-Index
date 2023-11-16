@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: abandonedroad14
+Creator: ali
+Tags: path, road, 

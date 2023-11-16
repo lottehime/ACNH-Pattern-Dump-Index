@@ -1,0 +1,4 @@
+Type:Robe
+Name: ObiWanKenobiRobes
+Creator: Boshi
+Tags: 986740416604, starwars, 

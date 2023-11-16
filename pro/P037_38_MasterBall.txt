@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: MasterBall
+Creator: Akay
+Tags: 

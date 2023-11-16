@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: modernjapwindow
+Creator: flyingfish
+Tags: japanese, window, 

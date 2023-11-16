@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StationPlatform
+Creator: Koid
+Tags: 

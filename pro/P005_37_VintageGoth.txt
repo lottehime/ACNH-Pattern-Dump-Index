@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: VintageGoth
+Creator: Moss
+Tags: black, dress, goth, gothic, vintage, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Lincoln
+Creator: Hartford
+Tags: abraham, lincoln, paiting, president, unitedstates, 

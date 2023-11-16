@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: GokuDress
+Creator: Wasivis
+Tags: ball, dbz, dragon, dress, goku, 

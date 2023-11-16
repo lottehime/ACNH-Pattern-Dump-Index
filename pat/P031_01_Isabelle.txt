@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Isabelle
+Creator: CopyCat
+Tags: isabelle, painting, 

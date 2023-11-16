@@ -1,0 +1,4 @@
+Type:Robe
+Name: nightkimono
+Creator: Celestial
+Tags: 

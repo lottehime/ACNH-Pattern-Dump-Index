@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: kfc
+Creator: zq
+Tags: 

@@ -1,0 +1,4 @@
+Type:TShirt
+Name: CamisaWIIU
+Creator: EdicionGamerYT
+Tags: 

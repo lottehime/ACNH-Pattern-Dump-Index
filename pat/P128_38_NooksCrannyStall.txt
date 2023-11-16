@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: NooksCrannyStall
+Creator: Moogie
+Tags: cranny, nooks, stall, 

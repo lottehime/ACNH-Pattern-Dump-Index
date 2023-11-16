@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: rock2
+Creator: rei
+Tags: path, rock, rocks, stone, 

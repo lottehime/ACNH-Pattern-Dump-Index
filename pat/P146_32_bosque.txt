@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bosque
+Creator: EdicionGamerYT
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CosmicCarpet
+Creator: Boshi
+Tags: space, whsp9k49f5t7, 

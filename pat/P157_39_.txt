@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: 
+Creator: MA719561127043
+Tags: 

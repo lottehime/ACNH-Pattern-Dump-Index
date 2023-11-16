@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: middle2dirtpath
+Creator: Alan
+Tags: 

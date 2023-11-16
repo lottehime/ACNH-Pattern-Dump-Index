@@ -1,0 +1,4 @@
+Type:Coat
+Name: kitty
+Creator: PigSheriff
+Tags: 

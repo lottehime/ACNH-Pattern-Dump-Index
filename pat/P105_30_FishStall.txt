@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: FishStall
+Creator: Lynamo
+Tags: fish, food, stall, store, 

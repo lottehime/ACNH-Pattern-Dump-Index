@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PaperScreen
+Creator: EveK
+Tags: japanese, paperscreen, shoji, windows, 

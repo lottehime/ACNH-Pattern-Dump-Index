@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: PokeBowl
+Creator: Boshi
+Tags: 760569002788, 

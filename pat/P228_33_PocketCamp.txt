@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PocketCamp
+Creator: Miray
+Tags: case, phonecase, pocketcamp, pocketcamp, 

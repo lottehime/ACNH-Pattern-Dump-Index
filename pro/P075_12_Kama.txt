@@ -1,0 +1,4 @@
+Type:Coat
+Name: Kama
+Creator: ButterBuns
+Tags: fgo, 

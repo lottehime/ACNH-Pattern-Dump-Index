@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: shiekahphonecase
+Creator: Moogie
+Tags: case, nookphone, phone, shiekah, zelda, 

@@ -1,0 +1,4 @@
+Type:Umbrella
+Name: BMOumbrella
+Creator: Lavender
+Tags: adventureti, bmo, isometric, robot, umbrella, 

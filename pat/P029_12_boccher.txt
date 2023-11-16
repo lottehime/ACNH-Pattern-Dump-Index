@@ -1,3 +1,0 @@
-Name: boccher
-Creator: acorngr
-Tags: 

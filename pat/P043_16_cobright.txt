@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cobright
+Creator: valentin
+Tags: beige, cobblestone, path, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: English
+Creator: ling
+Tags: 

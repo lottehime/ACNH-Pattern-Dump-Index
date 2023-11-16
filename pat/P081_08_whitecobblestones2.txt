@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: whitecobblestones2
+Creator: gyomori8
+Tags: 745367465905, path, road, 

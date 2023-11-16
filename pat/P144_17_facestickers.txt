@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: facestickers
+Creator: Peaches
+Tags: facepaint, 

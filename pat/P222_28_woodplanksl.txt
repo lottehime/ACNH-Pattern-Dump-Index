@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: woodplanksl
+Creator: meyling
+Tags: path, planks, wood, 

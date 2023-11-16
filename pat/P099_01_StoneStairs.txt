@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StoneStairs
+Creator: Lisbelle
+Tags: 

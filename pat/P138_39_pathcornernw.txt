@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: pathcornernw
+Creator: flyingfish
+Tags: 

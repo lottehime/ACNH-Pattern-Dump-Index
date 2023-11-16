@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Mario
+Creator: Harzeckiam
+Tags: mario, mario3, 

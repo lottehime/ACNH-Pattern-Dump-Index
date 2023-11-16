@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: BloodyRose
+Creator: M
+Tags: 

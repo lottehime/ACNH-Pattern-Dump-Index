@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BlackHole
+Creator: Ribbajack
+Tags: painting, space, 

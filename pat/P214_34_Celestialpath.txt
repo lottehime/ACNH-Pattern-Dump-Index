@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Celestialpath
+Creator: Greenie
+Tags: celestial, moon, path, star, 

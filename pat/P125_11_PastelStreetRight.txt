@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PastelStreetRight
+Creator: HyokoSam
+Tags: cute, icecream, pastel, street, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bamboosta
+Creator: meyling
+Tags: bamboo, stall, 

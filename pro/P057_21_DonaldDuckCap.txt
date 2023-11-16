@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: DonaldDuckCap
+Creator: Walnut
+Tags: cap, disney, donaldduck, mickeymouse, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MazeExit
+Creator: Fasil
+Tags: 447117200257, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ThickHorizontalRoad
+Creator: Fasil
+Tags: 108829519808, 

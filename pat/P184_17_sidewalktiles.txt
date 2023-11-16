@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: sidewalktiles
+Creator: Boshi
+Tags: 511696445826, 

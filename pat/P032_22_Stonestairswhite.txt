@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Stonestairswhite
+Creator: leaf
+Tags: 

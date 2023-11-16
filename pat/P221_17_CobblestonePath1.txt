@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CobblestonePath1
+Creator: Boshi
+Tags: cobblestone, path, 

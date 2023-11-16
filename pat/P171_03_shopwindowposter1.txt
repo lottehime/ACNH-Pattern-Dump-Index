@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: shopwindowposter1
+Creator: Boshi
+Tags: 772739769058, 

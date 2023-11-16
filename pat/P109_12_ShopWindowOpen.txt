@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ShopWindowOpen
+Creator: EveK
+Tags: open, shop, window, 

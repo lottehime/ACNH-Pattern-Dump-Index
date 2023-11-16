@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: GreyBricknarrow2
+Creator: Boshi
+Tags: 835862661049, brick, grey, path, 

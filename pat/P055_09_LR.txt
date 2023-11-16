@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: LR
+Creator: main
+Tags: 

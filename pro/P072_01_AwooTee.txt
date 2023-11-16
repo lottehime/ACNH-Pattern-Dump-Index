@@ -1,0 +1,4 @@
+Type:TShirt
+Name: AwooTee
+Creator: Ducky
+Tags: band, kkslider, kk, merch, tee, 

@@ -1,0 +1,4 @@
+Type:Coat
+Name: Bismarck
+Creator: CatherineTheGreat
+Tags: bismarck, chancellor, germany, trenchcoat, 

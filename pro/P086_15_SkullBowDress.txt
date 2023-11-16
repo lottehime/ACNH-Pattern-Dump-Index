@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: SkullBowDress
+Creator: Boshi
+Tags: 469505996991, dress, skull, 

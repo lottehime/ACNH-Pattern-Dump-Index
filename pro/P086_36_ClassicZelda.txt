@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: ClassicZelda
+Creator: Greenie
+Tags: dress, game, loz, princess, twilight, 

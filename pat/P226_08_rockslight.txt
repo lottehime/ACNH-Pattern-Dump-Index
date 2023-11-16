@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: rockslight
+Creator: meyling
+Tags: path, stone, 

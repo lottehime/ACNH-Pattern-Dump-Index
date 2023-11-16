@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Shiba
+Creator: froggylad
+Tags: 

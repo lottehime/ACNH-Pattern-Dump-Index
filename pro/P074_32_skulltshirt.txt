@@ -1,0 +1,4 @@
+Type:TShirt
+Name: skulltshirt
+Creator: Boshi
+Tags: 720093294782, 

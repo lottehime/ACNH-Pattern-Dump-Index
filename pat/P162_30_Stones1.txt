@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Stones1
+Creator: Fasil
+Tags: 

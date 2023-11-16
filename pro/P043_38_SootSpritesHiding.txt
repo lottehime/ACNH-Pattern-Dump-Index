@@ -1,0 +1,4 @@
+Type:Umbrella
+Name: SootSpritesHiding
+Creator: 1
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RightSidewalk
+Creator: Jewben
+Tags: angie, citycore, crossingkoki, path, road, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stone
+Creator: ling
+Tags: 

@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: LilacDress
+Creator: PisiPisi
+Tags: 

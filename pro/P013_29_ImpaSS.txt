@@ -1,0 +1,4 @@
+Type:Coat
+Name: ImpaSS
+Creator: Moogie
+Tags: impa, loz, skyward, ss, sword, 

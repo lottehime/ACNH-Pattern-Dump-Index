@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: streetgutterBL
+Creator: 1
+Tags: 

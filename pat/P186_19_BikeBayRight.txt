@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BikeBayRight
+Creator: Boshi
+Tags: 729988656286, bike, parking, 

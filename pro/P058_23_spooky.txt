@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: spooky
+Creator: Tasha
+Tags: ghost, halloween, spooky, 

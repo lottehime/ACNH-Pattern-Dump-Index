@@ -1,0 +1,4 @@
+Type:Coat
+Name: apple
+Creator: Boshi
+Tags: 375267726974, apple, dress, 

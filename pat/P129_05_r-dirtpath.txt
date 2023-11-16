@@ -1,3 +1,0 @@
-Name: r-dirtpath
-Creator: Alan
-Tags: 

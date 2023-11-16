@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: halloween
+Creator: Crono2021
+Tags: halloween, jack, pumpkin, 

@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: CherryHat
+Creator: FuegoBF
+Tags: baseball, cap, cherry, hat, villager, 

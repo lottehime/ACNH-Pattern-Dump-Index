@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Nyancat2
+Creator: Lavender
+Tags: border, meme, nyancat, rainbow, trail, 

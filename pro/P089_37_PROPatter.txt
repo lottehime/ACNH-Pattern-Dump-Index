@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: PROPatter
+Creator: DiscordServer
+Tags: anime, cardcaptor, sakura, school, uniform, 

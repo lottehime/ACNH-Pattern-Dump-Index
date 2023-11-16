@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: OuijaBoard
+Creator: Niko
+Tags: board, magic, occult, ouija, spooky, 

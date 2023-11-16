@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: tallwindow
+Creator: MA569852601603
+Tags: city, vintage, window, winter, 

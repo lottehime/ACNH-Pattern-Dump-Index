@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DarkDirtLeaves
+Creator: AhJeez
+Tags: dirt, dirtpath, leaves, path, 

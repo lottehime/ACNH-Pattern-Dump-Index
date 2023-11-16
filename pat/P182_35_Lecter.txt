@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Lecter
+Creator: Benji
+Tags: blood, facepaint, pat, 

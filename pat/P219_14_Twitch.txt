@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Twitch
+Creator: Boshi
+Tags: 111819353548, computer, screen, 

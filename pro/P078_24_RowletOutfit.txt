@@ -1,0 +1,4 @@
+Type:Coat
+Name: RowletOutfit
+Creator: Boshi
+Tags: 835602448955, nintendo, pokemon, 

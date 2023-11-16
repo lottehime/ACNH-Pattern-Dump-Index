@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MushroomWoodPlanks
+Creator: TheNessaGamer
+Tags: thenessagame, 

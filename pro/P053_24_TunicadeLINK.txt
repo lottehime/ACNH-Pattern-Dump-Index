@@ -1,0 +1,4 @@
+Type:TShirt
+Name: TunicadeLINK
+Creator: EdicionGamerYT
+Tags: 

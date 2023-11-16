@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bang
+Creator: Greenie
+Tags: bang, facepaint, hair, pattern, pink, 

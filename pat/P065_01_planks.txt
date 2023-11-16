@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: planks
+Creator: squashzone
+Tags: 

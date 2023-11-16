@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: GCNDirt1
+Creator: angel
+Tags: gamecube, gcn, legacy, retro, 

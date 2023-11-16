@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: quarkfacelowright
+Creator: StarTrek
+Tags: 9piece, face, photo, quark, startrek, 

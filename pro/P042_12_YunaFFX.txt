@@ -1,0 +1,4 @@
+Type:Robe
+Name: YunaFFX
+Creator: Moogie
+Tags: ffx, finalfantasy, yuna, 

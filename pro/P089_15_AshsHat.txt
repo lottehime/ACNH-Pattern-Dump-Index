@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: AshsHat
+Creator: Miray
+Tags: ash, ashhat, hat, pokemon, 

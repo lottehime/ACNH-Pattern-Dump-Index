@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BraixenPat
+Creator: AyanamiRei0
+Tags: braix, braixen, pat, 

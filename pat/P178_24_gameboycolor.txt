@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: gameboycolor
+Creator: scott
+Tags: 

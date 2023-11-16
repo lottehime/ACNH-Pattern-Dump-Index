@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: PokeballHoodie
+Creator: Erika1001
+Tags: cap, pokeball, pokemon, 

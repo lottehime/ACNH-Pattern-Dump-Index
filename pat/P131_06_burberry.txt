@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: burberry
+Creator: Moogie
+Tags: brand, burberry, pattern, 

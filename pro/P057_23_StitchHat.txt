@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: StitchHat
+Creator: Walnut
+Tags: disney, hat, lilo, stitch, 

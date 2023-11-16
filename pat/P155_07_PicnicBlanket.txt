@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PicnicBlanket
+Creator: Ant1m1nd
+Tags: blanket, fabric, floor, park, picnic, 

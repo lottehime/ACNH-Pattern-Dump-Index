@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Lava2
+Creator: TGFbSMAD
+Tags: fire, lava, rock, volcano, 

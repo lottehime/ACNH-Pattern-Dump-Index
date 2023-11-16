@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Penguin
+Creator: Subtixx
+Tags: flag, penguin, tshirt, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PlancheG
+Creator: Charli
+Tags: floor, plank, wood, 

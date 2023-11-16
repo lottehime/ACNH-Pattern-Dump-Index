@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TitanicRising
+Creator: BlackRose
+Tags: album, cover, music, water, weyesblood, 

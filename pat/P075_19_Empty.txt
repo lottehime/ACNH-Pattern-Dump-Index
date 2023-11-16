@@ -1,3 +1,4 @@
+Type:SimplePattern
 Name: Empty
-Creator: 
+Creator: Mtyz
 Tags: 

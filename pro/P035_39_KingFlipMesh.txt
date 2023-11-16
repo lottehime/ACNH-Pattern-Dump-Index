@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: KingFlipMesh
+Creator: NEO
+Tags: cap, king, mesh, splatoon2, 

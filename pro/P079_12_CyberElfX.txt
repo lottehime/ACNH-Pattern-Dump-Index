@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: CyberElfX
+Creator: Amek
+Tags: cyberelfx, megaman, megamanx, mmz, x, 

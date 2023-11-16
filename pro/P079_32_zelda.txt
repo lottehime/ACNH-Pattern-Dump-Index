@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: zelda
+Creator: Lilith
+Tags: princess, tloz, zelda, 

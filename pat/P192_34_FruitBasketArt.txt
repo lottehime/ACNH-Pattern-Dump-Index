@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: FruitBasketArt
+Creator: LemonCat
+Tags: art, basket, fruit, lemoncat, transparent, 

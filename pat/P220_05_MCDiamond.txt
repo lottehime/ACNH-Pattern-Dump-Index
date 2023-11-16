@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MCDiamond
+Creator: meyling
+Tags: minecraft, 

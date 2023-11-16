@@ -1,3 +1,0 @@
-Name: bulletin board
-Creator: froggylad
-Tags: 

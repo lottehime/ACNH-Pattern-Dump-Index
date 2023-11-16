@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: dragonPatternv32x6
+Creator: 1
+Tags: 

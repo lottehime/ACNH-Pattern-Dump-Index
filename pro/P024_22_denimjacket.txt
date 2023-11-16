@@ -1,0 +1,4 @@
+Type:Coat
+Name: denimjacket
+Creator: rei
+Tags: 

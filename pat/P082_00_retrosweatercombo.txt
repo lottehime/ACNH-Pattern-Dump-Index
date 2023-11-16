@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: retrosweatercombo
+Creator: bingsu
+Tags: cobbles, fairy, stone, 

@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: Gryffindorhat
+Creator: Boshi
+Tags: 962707795344, harrypotter, 

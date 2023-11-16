@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: right
+Creator: dingleberry
+Tags: 

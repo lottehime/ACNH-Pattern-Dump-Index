@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: whitecat
+Creator: olima
+Tags: cat, pet, 

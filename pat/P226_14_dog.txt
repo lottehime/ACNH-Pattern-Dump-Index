@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: dog
+Creator: meyling
+Tags: decor, dog, floordecor, 

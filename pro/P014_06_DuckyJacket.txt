@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: DuckyJacket
+Creator: PisiPisi
+Tags: 

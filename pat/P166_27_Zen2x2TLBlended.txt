@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Zen2x2TLBlended
+Creator: Fasil
+Tags: 656814940629, 

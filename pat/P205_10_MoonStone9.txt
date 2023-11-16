@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MoonStone9
+Creator: Boshi
+Tags: 834282251306, moon, path, stone, 

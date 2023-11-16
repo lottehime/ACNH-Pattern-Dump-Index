@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: campsign
+Creator: meyling
+Tags: camp, sign, 

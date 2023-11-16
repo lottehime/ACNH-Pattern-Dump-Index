@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: iridescent
+Creator: meyling
+Tags: holographic, 

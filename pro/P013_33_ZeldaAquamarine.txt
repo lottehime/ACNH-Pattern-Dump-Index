@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: ZeldaAquamarine
+Creator: Moogie
+Tags: dress, loz, zelda, 

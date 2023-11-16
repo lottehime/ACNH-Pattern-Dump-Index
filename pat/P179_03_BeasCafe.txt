@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BeasCafe
+Creator: Wes
+Tags: bea, cafe, sign, 

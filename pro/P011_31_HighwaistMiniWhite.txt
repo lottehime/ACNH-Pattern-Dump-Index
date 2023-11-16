@@ -1,0 +1,4 @@
+Type:SleevelessDress
+Name: HighwaistMiniWhite
+Creator: M
+Tags: 

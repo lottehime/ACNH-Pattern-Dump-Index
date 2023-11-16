@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PearPhone
+Creator: Boshi
+Tags: case, fruit, green, pear, phone, 

@@ -1,0 +1,4 @@
+Type:Coat
+Name: PreppyPlaidCoat
+Creator: rei
+Tags: 

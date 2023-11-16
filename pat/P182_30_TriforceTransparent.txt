@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TriforceTransparent
+Creator: ThatAnarchyDude
+Tags: legendof, link, transparent, triforce, zelda, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SteppingStone3
+Creator: Boshi
+Tags: 108829519808, path, stone, 

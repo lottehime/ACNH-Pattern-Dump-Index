@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TwitchPause
+Creator: Elena
+Tags: computer, pc, screen, twitch, 

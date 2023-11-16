@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Copa
+Creator: Lucas
+Tags: beach, calado, copacabana, rio, 

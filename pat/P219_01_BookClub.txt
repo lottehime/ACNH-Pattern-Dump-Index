@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BookClub
+Creator: Boshi
+Tags: 867418950346, book, sign, 

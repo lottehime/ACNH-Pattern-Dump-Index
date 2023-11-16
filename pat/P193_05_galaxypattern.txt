@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: galaxypattern
+Creator: nint
+Tags: galaxy, 

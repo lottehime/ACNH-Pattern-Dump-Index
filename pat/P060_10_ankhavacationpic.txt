@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ankhavacationpic
+Creator: angel
+Tags: ankha, photo, tropical, 

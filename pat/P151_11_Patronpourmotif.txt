@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Patronpourmotif
+Creator: gab
+Tags: 

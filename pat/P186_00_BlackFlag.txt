@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BlackFlag
+Creator: Jeremy
+Tags: blackflag, blackflag, flag, 

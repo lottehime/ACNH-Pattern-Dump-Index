@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: OGPlaidOutfit
+Creator: Elle
+Tags: orange, pattern, plaid, 

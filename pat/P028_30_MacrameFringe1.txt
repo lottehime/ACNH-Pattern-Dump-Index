@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MacrameFringe1
+Creator: ling
+Tags: 

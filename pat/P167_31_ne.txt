@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ne
+Creator: Fasil
+Tags: 166386880306, 

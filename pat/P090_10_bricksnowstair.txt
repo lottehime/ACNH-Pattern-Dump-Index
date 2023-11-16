@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bricksnowstair
+Creator: kuroneko
+Tags: brick, snow, stair, 

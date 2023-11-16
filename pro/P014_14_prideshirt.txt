@@ -1,0 +1,4 @@
+Type:TShirt
+Name: prideshirt
+Creator: rat
+Tags: pride, 

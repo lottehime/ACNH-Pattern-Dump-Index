@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: rhombusstone
+Creator: beatriiix
+Tags: 

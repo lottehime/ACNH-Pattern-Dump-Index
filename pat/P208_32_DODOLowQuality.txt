@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DODOLowQuality
+Creator: Miray
+Tags: dodosign, low, lowquality, quality, 

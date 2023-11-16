@@ -1,0 +1,4 @@
+Type:Coat
+Name: Starcoat
+Creator: Berdine
+Tags: 

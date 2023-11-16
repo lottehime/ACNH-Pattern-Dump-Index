@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: LturnRedge
+Creator: taobaorenyoutang
+Tags: 

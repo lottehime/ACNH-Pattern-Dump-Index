@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Splatooncolor1
+Creator: EdicionGamerYT
+Tags: 

@@ -1,0 +1,4 @@
+Type:NoSleeveDress3DS
+Name: StarButterfly2
+Creator: Star
+Tags: 

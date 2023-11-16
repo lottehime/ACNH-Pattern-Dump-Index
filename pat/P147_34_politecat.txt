@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: politecat
+Creator: EdicionGamerYT
+Tags: 

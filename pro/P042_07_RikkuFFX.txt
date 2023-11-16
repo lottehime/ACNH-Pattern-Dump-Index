@@ -1,0 +1,4 @@
+Type:Coat
+Name: RikkuFFX
+Creator: Moogie
+Tags: ffx, finalfantasy, rikku, 

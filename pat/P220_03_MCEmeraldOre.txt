@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MCEmeraldOre
+Creator: meyling
+Tags: minecraft, 

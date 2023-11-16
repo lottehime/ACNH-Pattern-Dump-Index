@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: osomatsusanposter
+Creator: gostodeosomatsu
+Tags: 

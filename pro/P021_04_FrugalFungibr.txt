@@ -1,0 +1,4 @@
+Type:Coat
+Name: FrugalFungibr
+Creator: Berdine
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cabinet
+Creator: meyling
+Tags: walldecor, 

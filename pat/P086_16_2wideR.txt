@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: 2wideR
+Creator: froggylad
+Tags: 

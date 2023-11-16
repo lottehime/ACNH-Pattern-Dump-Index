@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: Hot
+Creator: EdicionGamerYT
+Tags: 

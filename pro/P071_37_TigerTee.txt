@@ -1,0 +1,4 @@
+Type:TShirt
+Name: TigerTee
+Creator: Ducky
+Tags: green, shirt, tee, tiger, 

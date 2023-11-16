@@ -1,0 +1,4 @@
+Type:Robe
+Name: CHISO1
+Creator: Boshi
+Tags: 

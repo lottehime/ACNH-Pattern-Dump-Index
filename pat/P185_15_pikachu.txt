@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: pikachu
+Creator: white
+Tags: 

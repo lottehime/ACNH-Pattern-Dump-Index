@@ -1,0 +1,4 @@
+Type:TShirt
+Name: PCB
+Creator: Felps
+Tags: communism, hammersickl, 

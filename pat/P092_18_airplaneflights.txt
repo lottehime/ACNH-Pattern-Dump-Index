@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: airplaneflights
+Creator: kuroneko
+Tags: ariplane, sign, 

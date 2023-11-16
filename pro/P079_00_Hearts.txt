@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: Hearts
+Creator: Greenie
+Tags: alice, card, 

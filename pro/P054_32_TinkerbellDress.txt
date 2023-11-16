@@ -1,0 +1,4 @@
+Type:NoSleeveDress3DS
+Name: TinkerbellDress
+Creator: Star
+Tags: 

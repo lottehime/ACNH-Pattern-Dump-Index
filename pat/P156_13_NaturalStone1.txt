@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: NaturalStone1
+Creator: TuckFrump
+Tags: cobble, path, stone, white, 

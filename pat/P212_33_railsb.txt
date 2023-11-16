@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: railsb
+Creator: meyling
+Tags: rails, 

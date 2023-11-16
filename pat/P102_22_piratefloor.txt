@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: piratefloor
+Creator: piratefloor
+Tags: floor, pirate, piratefloor, 

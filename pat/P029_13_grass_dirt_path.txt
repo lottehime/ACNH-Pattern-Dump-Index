@@ -1,3 +1,0 @@
-Name: grass_dirt_path
-Creator: aa
-Tags: 

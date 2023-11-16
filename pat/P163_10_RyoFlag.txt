@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RyoFlag
+Creator: Ryo
+Tags: city, flag, hunter, ryo, saeba, 

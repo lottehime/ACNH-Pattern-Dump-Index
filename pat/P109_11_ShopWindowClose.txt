@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ShopWindowClose
+Creator: EveK
+Tags: close, shop, window, 

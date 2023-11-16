@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RoadCrosswalkRight
+Creator: Aaron
+Tags: road, 

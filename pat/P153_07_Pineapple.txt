@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Pineapple
+Creator: Elle
+Tags: fruit, pineapple, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: JojoFace
+Creator: Boshi
+Tags: 169322384358, jjba, 

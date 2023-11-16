@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stuffedcat
+Creator: PigSheriff
+Tags: 

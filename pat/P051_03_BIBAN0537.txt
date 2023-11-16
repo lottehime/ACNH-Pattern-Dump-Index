@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BIBAN0537
+Creator: QR
+Tags: 

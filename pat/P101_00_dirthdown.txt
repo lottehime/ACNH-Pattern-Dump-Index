@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: dirthdown
+Creator: grim
+Tags: dirt, farm, soil, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Mariopath4
+Creator: Crystel
+Tags: 

@@ -1,3 +1,0 @@
-Name: Empty
-Creator: kv
-Tags: 

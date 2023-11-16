@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SquaredStones
+Creator: Giuliastro
+Tags: floor, squared, stones, 

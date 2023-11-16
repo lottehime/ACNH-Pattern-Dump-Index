@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: PokeballHoodie
+Creator: Erika1001
+Tags: hoodie, pokeball, pokemon, 

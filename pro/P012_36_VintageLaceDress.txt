@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: VintageLaceDress
+Creator: PisiPisi
+Tags: 

@@ -1,0 +1,4 @@
+Type:Coat
+Name: AmestrisUniform
+Creator: Muver
+Tags: fma, fullmetal, 

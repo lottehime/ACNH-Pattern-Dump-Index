@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: CoolWumpusSweater
+Creator: DISCORD
+Tags: discord, wumpus, 

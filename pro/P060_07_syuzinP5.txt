@@ -1,0 +1,4 @@
+Type:LongSleeveShirt
+Name: syuzinP5
+Creator: alt
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MCGold
+Creator: meyling
+Tags: minecraft, 

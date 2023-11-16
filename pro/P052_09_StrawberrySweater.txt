@@ -1,0 +1,4 @@
+Type:Coat
+Name: StrawberrySweater
+Creator: steff
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Dirt3rdRight
+Creator: RNabuco
+Tags: dirt, garden, path, 

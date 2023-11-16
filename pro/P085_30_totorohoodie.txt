@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: totorohoodie
+Creator: Skandu
+Tags: hoodie, 

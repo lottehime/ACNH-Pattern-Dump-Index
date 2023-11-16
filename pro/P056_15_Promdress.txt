@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: Promdress
+Creator: Star
+Tags: dress, green, prom, 

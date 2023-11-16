@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CreditsRight
+Creator: A
+Tags: 

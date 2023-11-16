@@ -1,3 +1,0 @@
-Name: glx
-Creator: Erik
-Tags: 

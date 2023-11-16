@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DeltaruneKris
+Creator: Jos
+Tags: deltarune, kris, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: checks
+Creator: squashzone
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ChineseWindow4
+Creator: Strike
+Tags: asian, chinese, window, 

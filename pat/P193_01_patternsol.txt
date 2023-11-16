@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: patternsol
+Creator: Rikku
+Tags: patern, sol, stone, 

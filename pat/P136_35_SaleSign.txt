@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SaleSign
+Creator: crispy
+Tags: forsale, sale, sign, signpost, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: classicgcdirtpath
+Creator: sacha
+Tags: dirt, path, road, thepath, 

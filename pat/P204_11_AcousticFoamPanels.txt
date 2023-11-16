@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: AcousticFoamPanels
+Creator: Boshi
+Tags: 931185004886, black, music, sound, 

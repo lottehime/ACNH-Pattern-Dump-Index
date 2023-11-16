@@ -1,0 +1,4 @@
+Type:TShirt
+Name: UniformeFlamengo
+Creator: Caio
+Tags: crf, flamengo, futebol, soccer, uniforme, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: KOREAFlag
+Creator: SigmaAlpha
+Tags: flag, korea, 

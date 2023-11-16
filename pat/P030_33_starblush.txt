@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: starblush
+Creator: CopyCat
+Tags: blush, facepaint, 

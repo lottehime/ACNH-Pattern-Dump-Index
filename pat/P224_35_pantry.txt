@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: pantry
+Creator: meyling
+Tags: kitchen, walldecor, 

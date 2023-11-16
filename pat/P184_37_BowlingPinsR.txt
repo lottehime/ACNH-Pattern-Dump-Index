@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BowlingPinsR
+Creator: Boshi
+Tags: 224033705348, 

@@ -1,0 +1,4 @@
+Type:Coat
+Name: ZeroTwo
+Creator: quaduzi
+Tags: anime, 

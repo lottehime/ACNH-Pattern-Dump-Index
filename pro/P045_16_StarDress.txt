@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: StarDress
+Creator: CinCin
+Tags: blue, cute, star, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: 7Eleven
+Creator: Berdine
+Tags: 

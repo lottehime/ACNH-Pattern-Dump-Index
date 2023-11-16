@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: MoonHat
+Creator: Boshi
+Tags: 439440759363, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TopLeftAutumn
+Creator: Endora
+Tags: dirt, natural, path, 

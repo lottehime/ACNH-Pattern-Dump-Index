@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: OzzieFace
+Creator: Moogie
+Tags: face, villager, 

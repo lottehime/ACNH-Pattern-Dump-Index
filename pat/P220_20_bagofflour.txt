@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bagofflour
+Creator: meyling
+Tags: decor, pillow, 

@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: Grimoire
+Creator: M
+Tags: 

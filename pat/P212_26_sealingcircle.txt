@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: sealingcircle
+Creator: Boshi
+Tags: 771091970583, circle, summon, 

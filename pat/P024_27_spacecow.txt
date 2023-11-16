@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: spacecow
+Creator: PigSheriff
+Tags: flag, 

@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: dress
+Creator: meyling
+Tags: dress, shortsleeve, 

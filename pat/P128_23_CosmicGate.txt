@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CosmicGate
+Creator: Vaddaorca
+Tags: 

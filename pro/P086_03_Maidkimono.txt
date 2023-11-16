@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: Maidkimono
+Creator: Greenie
+Tags: kimono, maid, 

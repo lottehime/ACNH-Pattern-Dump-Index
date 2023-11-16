@@ -1,0 +1,4 @@
+Type:TShirt
+Name: TransmasculineTee
+Creator: GalaxyCats
+Tags: flag, pride, simple, tee, transmasc, 

@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: CelesteDress
+Creator: Boshi
+Tags: 163528238180, celeste, dress, museum, 

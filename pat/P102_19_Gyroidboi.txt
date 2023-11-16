@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Gyroidboi
+Creator: LOLITA
+Tags: gyroid, sign, 

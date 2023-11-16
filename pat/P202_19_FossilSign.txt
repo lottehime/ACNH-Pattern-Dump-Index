@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: FossilSign
+Creator: Ellu
+Tags: fossil, sign, 

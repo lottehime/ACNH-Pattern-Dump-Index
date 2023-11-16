@@ -1,0 +1,4 @@
+Type:Robe
+Name: GreenKimono
+Creator: Renmo
+Tags: flowers, green, kimono, robe, 

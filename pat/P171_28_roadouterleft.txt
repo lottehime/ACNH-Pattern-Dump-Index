@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: roadouterleft
+Creator: Boshi
+Tags: 772739769058, 

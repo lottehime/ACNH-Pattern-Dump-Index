@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: GothicBatwingDress
+Creator: Boshi
+Tags: 030961805832, black, dress, 

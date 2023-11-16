@@ -1,3 +1,0 @@
-Name: StoneCircle BotLeft
-Creator: Oracle
-Tags: circle, path, stone, 

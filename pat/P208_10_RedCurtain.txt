@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RedCurtain
+Creator: Boshi
+Tags: 508443455518, curtain, red, theater, 

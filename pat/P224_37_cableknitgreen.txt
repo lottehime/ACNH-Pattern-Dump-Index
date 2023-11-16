@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cableknitgreen
+Creator: meyling
+Tags: fabric, furniture, 

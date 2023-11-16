@@ -1,3 +1,0 @@
-Name: bowling
-Creator: Kim
-Tags: bowling, 

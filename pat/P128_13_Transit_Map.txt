@@ -1,3 +1,0 @@
-Name: Transit Map
-Creator: Oracle
-Tags: city, map, modern, train, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bakedgoodsdisplay
+Creator: MA651868642717
+Tags: display, food, panel, window, 

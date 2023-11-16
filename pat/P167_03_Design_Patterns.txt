@@ -1,3 +1,0 @@
-Name: Design Patterns
-Creator: rafa
-Tags: 

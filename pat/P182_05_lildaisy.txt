@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: lildaisy
+Creator: Boshi
+Tags: 042652198183, 

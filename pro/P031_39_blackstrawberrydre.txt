@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: blackstrawberrydre
+Creator: bb
+Tags: black, cute, dress, strawberry, 

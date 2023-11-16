@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bulletinboard
+Creator: froggylad
+Tags: 

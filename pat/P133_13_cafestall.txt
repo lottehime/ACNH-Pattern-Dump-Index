@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cafestall
+Creator: steff
+Tags: 

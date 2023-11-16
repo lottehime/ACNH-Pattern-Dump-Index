@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: mojiragleft
+Creator: ling
+Tags: 

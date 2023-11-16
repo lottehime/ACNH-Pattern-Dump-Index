@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: planksmiddle
+Creator: meyling
+Tags: path, planks, wood, 

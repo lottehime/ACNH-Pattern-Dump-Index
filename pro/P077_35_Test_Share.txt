@@ -1,3 +1,0 @@
-Name: Test Share
-Creator: tester1
-Tags: 

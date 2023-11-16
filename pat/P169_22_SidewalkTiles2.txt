@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SidewalkTiles2
+Creator: Fasil
+Tags: 108829519808, 

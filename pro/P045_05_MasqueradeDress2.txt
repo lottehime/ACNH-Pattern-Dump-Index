@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: MasqueradeDress2
+Creator: pickle
+Tags: 

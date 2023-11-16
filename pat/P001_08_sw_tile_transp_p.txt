@@ -1,3 +1,0 @@
-Name: sw tile _transp p
-Creator: dingleberry
-Tags: 

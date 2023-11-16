@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: sailorpinafore
+Creator: angel
+Tags: 3ds, dress, ribbon, skirt, 

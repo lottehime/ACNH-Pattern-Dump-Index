@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: zengardenpathV
+Creator: mmanic
+Tags: garden, path, zen, 

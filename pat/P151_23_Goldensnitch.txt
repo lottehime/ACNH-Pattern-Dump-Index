@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Goldensnitch
+Creator: Star
+Tags: gold, hogwarts, quidditch, sign, snitch, 

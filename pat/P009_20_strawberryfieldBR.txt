@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: strawberryfieldBR
+Creator: dingleberry
+Tags: 

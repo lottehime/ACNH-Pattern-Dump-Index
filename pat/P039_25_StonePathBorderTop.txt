@@ -1,3 +1,0 @@
-Name: StonePathBorderTop
-Creator: cc
-Tags: 

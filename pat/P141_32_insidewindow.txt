@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: insidewindow
+Creator: MA194436070570
+Tags: cottage, curtain, wall, window, 

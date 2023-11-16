@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RamenStand
+Creator: EveK
+Tags: japanese, ramen, stand, 

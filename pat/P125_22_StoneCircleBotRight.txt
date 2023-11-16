@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StoneCircleBotRight
+Creator: Oracle
+Tags: circle, path, stone, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Whitneyportrait
+Creator: Mithos
+Tags: portrait, villager, villagers, whitney, 

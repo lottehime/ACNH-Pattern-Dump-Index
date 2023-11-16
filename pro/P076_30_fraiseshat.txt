@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: fraiseshat
+Creator: Rikku
+Tags: 

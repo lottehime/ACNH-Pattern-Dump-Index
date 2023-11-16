@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: brownpooltile
+Creator: Moogie
+Tags: path, pool, tile, 

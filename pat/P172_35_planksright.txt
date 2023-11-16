@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: planksright
+Creator: Boshi
+Tags: 635260786250, 

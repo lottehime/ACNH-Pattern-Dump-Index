@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bricksnow
+Creator: kuroneko
+Tags: brick, medieval, path, snow, 

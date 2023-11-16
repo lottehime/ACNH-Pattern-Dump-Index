@@ -1,0 +1,4 @@
+Type:Coat
+Name: MarieRoseDress
+Creator: Moogie
+Tags: doa, dress, gothic, marierose, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Leaf2
+Creator: marie
+Tags: green, ground, leaf, leaves, 

@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: NoodleBowl
+Creator: FuegoBF
+Tags: decor, food, noodle, ramen, soup, 

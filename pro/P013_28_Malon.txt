@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: Malon
+Creator: Moogie
+Tags: loz, malon, zelda, 

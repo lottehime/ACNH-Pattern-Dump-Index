@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StoneBorderURCurv
+Creator: Renmo
+Tags: border, curved, grey, stone, transparent, 

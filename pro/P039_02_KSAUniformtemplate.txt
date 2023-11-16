@@ -1,0 +1,4 @@
+Type:LongSleeveShirt
+Name: KSAUniformtemplate
+Creator: Lenny
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Cabana
+Creator: Lucas
+Tags: beach, brazil, copacabana, rio, 

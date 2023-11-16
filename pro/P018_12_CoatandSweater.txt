@@ -1,0 +1,4 @@
+Type:Coat
+Name: CoatandSweater
+Creator: CreatorKami
+Tags: coat, pink, scarf, sweater, 

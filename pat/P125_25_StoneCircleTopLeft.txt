@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StoneCircleTopLeft
+Creator: Oracle
+Tags: circle, path, stone, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: picnicblanket
+Creator: dingleberry
+Tags: 

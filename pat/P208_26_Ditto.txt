@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Ditto
+Creator: Flameye
+Tags: pokemon, 

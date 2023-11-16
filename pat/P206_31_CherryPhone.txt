@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CherryPhone
+Creator: Boshi
+Tags: case, cherry, fruit, phone, red, 

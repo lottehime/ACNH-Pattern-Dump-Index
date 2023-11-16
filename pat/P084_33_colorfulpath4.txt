@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: colorfulpath4
+Creator: rei
+Tags: 

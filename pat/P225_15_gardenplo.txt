@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: gardenplo
+Creator: meyling
+Tags: decor, floordecor, garden, 

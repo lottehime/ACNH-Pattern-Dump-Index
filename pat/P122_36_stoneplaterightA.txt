@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stoneplaterightA
+Creator: beatriiix
+Tags: 

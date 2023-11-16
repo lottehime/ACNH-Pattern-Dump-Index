@@ -1,0 +1,4 @@
+Type:Coat
+Name: BunnyWinterKleid
+Creator: Greenie
+Tags: mantel, winter, 

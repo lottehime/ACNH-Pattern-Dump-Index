@@ -1,0 +1,4 @@
+Type:Coat
+Name: Winterflausch
+Creator: Greenie
+Tags: 

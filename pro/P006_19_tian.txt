@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: tian
+Creator: san
+Tags: 

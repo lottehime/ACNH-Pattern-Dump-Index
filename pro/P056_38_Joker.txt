@@ -1,0 +1,4 @@
+Type:Coat
+Name: Joker
+Creator: RNabuco
+Tags: persona5, 

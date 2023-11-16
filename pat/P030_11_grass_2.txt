@@ -1,3 +1,0 @@
-Name: grass_2
-Creator: ling
-Tags: 

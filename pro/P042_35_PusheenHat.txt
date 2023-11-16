@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: PusheenHat
+Creator: Moogie
+Tags: cute, hat, kawaii, kitty, pusheen, 

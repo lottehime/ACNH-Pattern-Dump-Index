@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: bigdaisy
+Creator: 1
+Tags: 

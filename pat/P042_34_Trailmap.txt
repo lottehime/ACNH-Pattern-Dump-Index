@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Trailmap
+Creator: Andersenn
+Tags: map, trail, 

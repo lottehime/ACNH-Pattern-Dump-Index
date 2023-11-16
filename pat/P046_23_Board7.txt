@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Board7
+Creator: Berdine
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: glasspanel2
+Creator: PigSheriff
+Tags: 

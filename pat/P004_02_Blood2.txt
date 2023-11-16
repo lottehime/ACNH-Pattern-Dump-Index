@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Blood2
+Creator: BearlyKJ
+Tags: blood, creepy, halloween, splat, 

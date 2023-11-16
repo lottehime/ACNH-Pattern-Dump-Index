@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StarStone2
+Creator: Boshi
+Tags: 834282251306, path, star, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Goldie
+Creator: Wicchan
+Tags: 

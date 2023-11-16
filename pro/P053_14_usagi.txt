@@ -1,0 +1,4 @@
+Type:Robe
+Name: usagi
+Creator: sakura
+Tags: 

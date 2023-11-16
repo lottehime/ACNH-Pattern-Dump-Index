@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: VanellopeDisney
+Creator: Star
+Tags: disney, 

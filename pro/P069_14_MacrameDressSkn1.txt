@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: MacrameDressSkn1
+Creator: FuegoBF
+Tags: cardigan, dress, macrame, skintones, 

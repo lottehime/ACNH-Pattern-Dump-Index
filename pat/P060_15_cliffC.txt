@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cliffC
+Creator: mmanic
+Tags: cliff, path, transition, 

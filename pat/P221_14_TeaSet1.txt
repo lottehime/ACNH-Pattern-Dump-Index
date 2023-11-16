@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TeaSet1
+Creator: Boshi
+Tags: 927874435692, tea, 

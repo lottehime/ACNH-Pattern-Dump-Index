@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Magnolia
+Creator: Igromanru
+Tags: flower, tree, 

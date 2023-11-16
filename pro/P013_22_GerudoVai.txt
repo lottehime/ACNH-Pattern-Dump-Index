@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: GerudoVai
+Creator: Moogie
+Tags: dress, gerudo, loz, vai, zelda, 

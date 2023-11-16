@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Padrodedesign
+Creator: 
+Tags: 

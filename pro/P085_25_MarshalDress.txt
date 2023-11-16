@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: MarshalDress
+Creator: miruku
+Tags: cute, dress, marshal, pink, soft, 

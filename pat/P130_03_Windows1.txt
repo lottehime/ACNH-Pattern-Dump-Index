@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Windows1
+Creator: Koid
+Tags: 

@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: FloraRobe
+Creator: Berdine
+Tags: 

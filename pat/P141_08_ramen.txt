@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ramen
+Creator: MA097378172980
+Tags: japanese, sign, 

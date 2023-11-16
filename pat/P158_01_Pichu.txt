@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Pichu
+Creator: Jasmine
+Tags: pichu, pokemon, 

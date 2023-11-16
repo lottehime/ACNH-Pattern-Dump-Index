@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StonesRight
+Creator: Giuliastro
+Tags: floor, right, stones, 

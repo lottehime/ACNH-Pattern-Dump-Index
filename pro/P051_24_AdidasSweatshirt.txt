@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: AdidasSweatshirt
+Creator: Zenkan
+Tags: adidas, adidasshirt, sweater, 

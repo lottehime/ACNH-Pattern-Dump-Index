@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: GothicCrossDress
+Creator: Boshi
+Tags: 691040396122, dress, gothic, 

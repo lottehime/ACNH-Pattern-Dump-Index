@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PokeBWStoneDR
+Creator: Crystel
+Tags: 

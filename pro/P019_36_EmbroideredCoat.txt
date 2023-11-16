@@ -1,0 +1,4 @@
+Type:Coat
+Name: EmbroideredCoat
+Creator: LufeSycamore
+Tags: blue, coat, cozy, embroidery, soft, 

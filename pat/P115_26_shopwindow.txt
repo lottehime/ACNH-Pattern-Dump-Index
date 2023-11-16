@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: shopwindow
+Creator: flay
+Tags: 

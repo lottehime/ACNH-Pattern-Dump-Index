@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Glaxy
+Creator: Greenie
+Tags: 

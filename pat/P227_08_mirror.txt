@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: mirror
+Creator: meyling
+Tags: walldecor, 

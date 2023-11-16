@@ -1,3 +1,0 @@
-Name: bus
-Creator: BaiTang
-Tags: 

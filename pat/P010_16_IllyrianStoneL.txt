@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: IllyrianStoneL
+Creator: M
+Tags: 

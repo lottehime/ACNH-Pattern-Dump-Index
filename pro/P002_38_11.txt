@@ -1,3 +1,4 @@
+Type:TShirt
 Name: 11
 Creator: 11
 Tags: 

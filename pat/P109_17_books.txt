@@ -1,3 +1,0 @@
-Name: books
-Creator: flay
-Tags: 

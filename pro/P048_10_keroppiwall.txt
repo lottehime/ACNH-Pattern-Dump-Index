@@ -1,0 +1,4 @@
+Type:Standee
+Name: keroppiwall
+Creator: flyingfish
+Tags: standee, wall, 

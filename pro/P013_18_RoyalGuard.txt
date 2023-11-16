@@ -1,0 +1,4 @@
+Type:Coat
+Name: RoyalGuard
+Creator: Moogie
+Tags: guard, loz, royal, royalguard, zelda, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SovietWomble
+Creator: Brix
+Tags: sovietwomble, streamer, twitch, 

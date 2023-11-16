@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: righttopmoya
+Creator: M
+Tags: 

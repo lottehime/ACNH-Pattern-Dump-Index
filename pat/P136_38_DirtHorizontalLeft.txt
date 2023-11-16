@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DirtHorizontalLeft
+Creator: crispy
+Tags: dirt, dirtpatch, dirtpath, farm, 

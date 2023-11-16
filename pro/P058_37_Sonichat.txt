@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: Sonichat
+Creator: ConteDePatiernis
+Tags: hat, sonic, 

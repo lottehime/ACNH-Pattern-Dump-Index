@@ -1,0 +1,4 @@
+Type:Standee
+Name: Mural
+Creator: Doe
+Tags: art, graffiti, mural, skeleton, 

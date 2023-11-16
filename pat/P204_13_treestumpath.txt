@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: treestumpath
+Creator: Greenie
+Tags: path, strum, tree, 

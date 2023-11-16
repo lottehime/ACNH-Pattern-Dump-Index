@@ -1,3 +1,0 @@
-Name: Fish SimplePanel
-Creator: Ghosty
-Tags: fish, panel, simplepanel, 

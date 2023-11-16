@@ -1,0 +1,4 @@
+Type:Coat
+Name: frogcoat
+Creator: olima
+Tags: coat, frog, raincoat, 

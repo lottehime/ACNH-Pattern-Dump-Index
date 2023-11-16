@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: AerithFF7
+Creator: Moogie
+Tags: aerith, ff7, 

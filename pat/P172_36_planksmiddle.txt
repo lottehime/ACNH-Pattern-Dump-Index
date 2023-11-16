@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: planksmiddle
+Creator: Boshi
+Tags: 635260786250, 

@@ -1,0 +1,4 @@
+Type:TShirt
+Name: shogun
+Creator: Lands
+Tags: band, logo, shirt, shogun, trivium, 

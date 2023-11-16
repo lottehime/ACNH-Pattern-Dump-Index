@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: chokershort
+Creator: reishiki
+Tags: 508542310700, 

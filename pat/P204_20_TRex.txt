@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TRex
+Creator: NOnoS
+Tags: jurassik, movie, park, rex, trex, 

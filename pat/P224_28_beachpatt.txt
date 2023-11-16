@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: beachpatt
+Creator: meyling
+Tags: beach, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: dirtdaisypath
+Creator: PigSheriff
+Tags: 

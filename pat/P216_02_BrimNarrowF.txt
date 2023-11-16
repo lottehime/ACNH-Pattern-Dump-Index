@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BrimNarrowF
+Creator: Boshi
+Tags: 221212312939, font, letter, text, 

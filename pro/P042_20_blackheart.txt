@@ -1,0 +1,4 @@
+Type:Coat
+Name: blackheart
+Creator: Moogie
+Tags: black, dress, heart, 

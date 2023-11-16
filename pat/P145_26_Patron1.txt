@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Patron1
+Creator: EdicionGamerYT
+Tags: 

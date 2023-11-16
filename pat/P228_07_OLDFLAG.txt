@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: OLDFLAG
+Creator: Miray
+Tags: flag, initial, initialflag, old, oldflag, 

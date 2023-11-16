@@ -1,0 +1,4 @@
+Type:TShirt
+Name: PanTee
+Creator: GalaxyCats
+Tags: flag, pan, pride, simple, tee, 

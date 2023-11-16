@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: MurakamiHoodie
+Creator: Boshi
+Tags: 589574651843, 

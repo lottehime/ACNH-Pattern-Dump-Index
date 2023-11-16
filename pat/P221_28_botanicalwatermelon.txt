@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: botanicalwatermelon
+Creator: Boshi
+Tags: 515002428566, fruit, watermelon, 

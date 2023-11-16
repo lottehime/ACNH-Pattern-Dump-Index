@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: dodopng1x1final
+Creator: Miray
+Tags: dodo, 

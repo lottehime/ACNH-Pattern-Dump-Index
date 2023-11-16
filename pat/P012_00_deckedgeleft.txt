@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: deckedgeleft
+Creator: M
+Tags: 

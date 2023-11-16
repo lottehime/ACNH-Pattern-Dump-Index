@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: tt
+Creator: Boshi
+Tags: 834282251306, path, stone, 

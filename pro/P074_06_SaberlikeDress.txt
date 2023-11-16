@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: SaberlikeDress
+Creator: Sins
+Tags: dress, fantasy, fatestay, saber, 

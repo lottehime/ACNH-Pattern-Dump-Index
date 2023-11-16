@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: dinerwindow
+Creator: flay
+Tags: 

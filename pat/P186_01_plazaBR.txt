@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: plazaBR
+Creator: Destin
+Tags: bricks, corner, path, plaza, 

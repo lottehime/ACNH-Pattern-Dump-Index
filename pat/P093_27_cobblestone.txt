@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cobblestone
+Creator: kuroneko
+Tags: cobblestone, cottagecore, medieval, path, stone, 

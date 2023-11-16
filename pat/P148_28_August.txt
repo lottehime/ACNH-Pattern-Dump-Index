@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: August
+Creator: EdicionGamerYT
+Tags: 

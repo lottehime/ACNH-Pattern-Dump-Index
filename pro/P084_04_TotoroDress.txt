@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: TotoroDress
+Creator: Boshi
+Tags: 274356442551, ghibli, 

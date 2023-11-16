@@ -1,0 +1,4 @@
+Type:Coat
+Name: Joker
+Creator: Greenie
+Tags: game, p5, persona, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: chunkycableknit
+Creator: meyling
+Tags: fabric, furniture, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: wand
+Creator: Fasil
+Tags: 921748871370, 

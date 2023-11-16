@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: winterdoor
+Creator: MA030639882020
+Tags: door, panel, window, winter, wooden, 

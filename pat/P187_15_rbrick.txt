@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: rbrick
+Creator: Boshi
+Tags: 403017041000, border, brick, path, 

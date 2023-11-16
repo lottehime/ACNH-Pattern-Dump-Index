@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: strawberry
+Creator: olima
+Tags: dress, jeans, 

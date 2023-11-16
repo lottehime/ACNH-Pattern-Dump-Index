@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SuicideHotlineLogo
+Creator: LemonCat
+Tags: hotline, lemoncat, logo, suicide, 

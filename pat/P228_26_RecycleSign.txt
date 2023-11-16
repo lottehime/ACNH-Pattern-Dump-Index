@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RecycleSign
+Creator: Miray
+Tags: earth, earthday, leif, recycle, recyclesign, 

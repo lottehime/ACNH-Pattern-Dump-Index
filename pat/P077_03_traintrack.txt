@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: traintrack
+Creator: kuroneko
+Tags: station, track, train, 

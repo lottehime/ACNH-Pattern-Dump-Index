@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Navidad
+Creator: Crono2021
+Tags: fabric, picnic, tartan, 

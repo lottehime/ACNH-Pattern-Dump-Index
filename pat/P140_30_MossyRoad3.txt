@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: MossyRoad3
+Creator: 1r0nL3gacy45
+Tags: mossy, road, 

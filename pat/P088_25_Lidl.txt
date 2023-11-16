@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Lidl
+Creator: Barbok
+Tags: lidl, 

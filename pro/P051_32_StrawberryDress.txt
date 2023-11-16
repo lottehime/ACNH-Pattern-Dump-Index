@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: StrawberryDress
+Creator: steff
+Tags: 

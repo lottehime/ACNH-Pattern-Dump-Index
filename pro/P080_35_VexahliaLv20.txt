@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: VexahliaLv20
+Creator: Greenie
+Tags: 

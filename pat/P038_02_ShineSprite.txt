@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ShineSprite
+Creator: Scarlett
+Tags: ecard, gc, shine, shinesprite, sunshine, 

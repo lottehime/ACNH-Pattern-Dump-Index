@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cute
+Creator: ling
+Tags: 

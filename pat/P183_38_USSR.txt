@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: USSR
+Creator: Wijolt
+Tags: , flag, meme, 

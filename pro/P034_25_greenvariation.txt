@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: greenvariation
+Creator: julie
+Tags: dres, gown, green, greendress, greengown, 

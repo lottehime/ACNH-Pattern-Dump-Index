@@ -1,3 +1,0 @@
-Name: gas
-Creator: flay
-Tags: 

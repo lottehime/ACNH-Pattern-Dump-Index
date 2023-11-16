@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DALLogo
+Creator: Fasil
+Tags: 261648278378, 

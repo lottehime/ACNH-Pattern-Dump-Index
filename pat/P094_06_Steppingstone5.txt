@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Steppingstone5
+Creator: froggylad
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: boguang7
+Creator: yidawan13
+Tags: 

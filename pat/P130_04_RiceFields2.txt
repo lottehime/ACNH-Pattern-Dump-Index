@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: RiceFields2
+Creator: Koid
+Tags: 

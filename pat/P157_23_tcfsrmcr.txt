@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: tcfsrmcr
+Creator: aeon
+Tags: mcr, music, 

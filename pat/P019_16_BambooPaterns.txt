@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BambooPaterns
+Creator: Vahi
+Tags: beach, path, planks, white, wood, 

@@ -1,0 +1,4 @@
+Type:Coat
+Name: EmeraldGinghamDoll
+Creator: fiona
+Tags: 

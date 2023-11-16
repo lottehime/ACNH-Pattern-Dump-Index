@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: ducklingcap
+Creator: Mintier
+Tags: hat, 

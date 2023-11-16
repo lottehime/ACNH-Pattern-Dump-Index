@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: sidewalk
+Creator: Boshi
+Tags: 772739769058, 

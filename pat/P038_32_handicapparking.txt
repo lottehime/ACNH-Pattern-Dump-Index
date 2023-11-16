@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: handicapparking
+Creator: sacha
+Tags: city, disabled, handicap, parking, road, 

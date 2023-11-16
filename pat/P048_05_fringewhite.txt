@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: fringewhite
+Creator: 1
+Tags: 

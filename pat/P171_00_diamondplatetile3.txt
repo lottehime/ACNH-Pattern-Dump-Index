@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: diamondplatetile3
+Creator: Boshi
+Tags: 772739769058, 

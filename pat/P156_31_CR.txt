@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CR
+Creator: Mango
+Tags: ground, sakura, spring, 

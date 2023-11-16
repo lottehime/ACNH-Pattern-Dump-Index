@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stonesteps
+Creator: meyling
+Tags: bricks, path, steps, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BigStone
+Creator: DiscordServer
+Tags: path, stone, 

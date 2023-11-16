@@ -1,3 +1,0 @@
-Name: label window
-Creator: flay
-Tags: 

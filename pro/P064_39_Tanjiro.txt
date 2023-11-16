@@ -1,0 +1,4 @@
+Type:Robe
+Name: Tanjiro
+Creator: Faaaast
+Tags: 

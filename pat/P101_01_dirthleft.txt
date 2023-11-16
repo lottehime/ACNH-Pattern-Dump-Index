@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: dirthleft
+Creator: grim
+Tags: dirt, farm, soil, 

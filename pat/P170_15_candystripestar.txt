@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: candystripestar
+Creator: Boshi
+Tags: 750508940096, 

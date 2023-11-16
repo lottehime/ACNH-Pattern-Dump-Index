@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Empty
+Creator: Den
+Tags: 

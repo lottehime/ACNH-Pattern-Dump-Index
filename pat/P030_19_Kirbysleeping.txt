@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Kirbysleeping
+Creator: Catucchi
+Tags: cute, kawaii, kirby, star, 

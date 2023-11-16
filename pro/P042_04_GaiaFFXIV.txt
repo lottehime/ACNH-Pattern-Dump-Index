@@ -1,0 +1,4 @@
+Type:Coat
+Name: GaiaFFXIV
+Creator: Moogie
+Tags: ffxiv, finalfantasy, gaia, 

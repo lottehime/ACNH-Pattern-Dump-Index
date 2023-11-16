@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: tassel2
+Creator: ling
+Tags: 

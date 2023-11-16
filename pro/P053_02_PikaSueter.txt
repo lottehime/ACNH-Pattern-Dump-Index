@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: PikaSueter
+Creator: EdicionGamerYT
+Tags: 

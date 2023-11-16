@@ -1,3 +1,4 @@
+Type:SimplePattern
 Name: lin
 Creator: lin
 Tags: 

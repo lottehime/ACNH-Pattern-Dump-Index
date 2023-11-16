@@ -1,0 +1,4 @@
+Type:Coat
+Name: furcoat
+Creator: Shelby
+Tags: 964991909992, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StairsRig
+Creator: Boshi
+Tags: 069229992218, elevated, path, wood, 

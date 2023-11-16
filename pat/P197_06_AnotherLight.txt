@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: AnotherLight
+Creator: Amek
+Tags: anotherlight, cover, music, redvox, 

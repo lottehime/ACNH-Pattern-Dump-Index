@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: steppebbles
+Creator: flyingfish
+Tags: path, pebbles, stone, 

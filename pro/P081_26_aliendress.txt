@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: aliendress
+Creator: meyling
+Tags: dress, shortsleeve, 

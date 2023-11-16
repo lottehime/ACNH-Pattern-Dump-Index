@@ -1,0 +1,4 @@
+Type:TShirt
+Name: sematarytshirt
+Creator: jjayy
+Tags: hauntedmoun, sematary, 

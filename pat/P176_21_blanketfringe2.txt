@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: blanketfringe2
+Creator: Boshi
+Tags: 657984925234, 

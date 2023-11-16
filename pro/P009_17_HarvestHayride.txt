@@ -1,0 +1,4 @@
+Type:Coat
+Name: HarvestHayride
+Creator: M
+Tags: 

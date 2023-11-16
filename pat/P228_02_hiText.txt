@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: hiText
+Creator: DiscordServer
+Tags: japanese, roads, text, 

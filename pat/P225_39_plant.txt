@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: plant
+Creator: meyling
+Tags: decor, floordecor, garden, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BlossomlakeBottomL
+Creator: Ellu
+Tags: lake, water, 

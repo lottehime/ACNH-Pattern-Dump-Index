@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: floralpathside
+Creator: faeze
+Tags: floor, path, plank, side, wood, 

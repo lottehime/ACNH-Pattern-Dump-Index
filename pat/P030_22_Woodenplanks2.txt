@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Woodenplanks2
+Creator: min
+Tags: 

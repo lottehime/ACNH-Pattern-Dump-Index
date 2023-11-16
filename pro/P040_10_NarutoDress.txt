@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: NarutoDress
+Creator: Sunniest
+Tags: anime, dress, naruto, 

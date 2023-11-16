@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PentagramCircle
+Creator: LemonCat
+Tags: circle, lemoncat, pentagram, summon, transparent, 

@@ -1,3 +1,4 @@
+Type:Coat
 Name: 11
 Creator: 11
 Tags: 

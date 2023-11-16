@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CrabNebula
+Creator: Ribbajack
+Tags: painting, space, 

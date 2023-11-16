@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TIKI
+Creator: Anjesse
+Tags: bar, beach, sign, tiki, tiki, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ufozq
+Creator: zq
+Tags: 

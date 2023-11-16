@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: Poodledress
+Creator: Aoi
+Tags: 50s, dress, poodle, 

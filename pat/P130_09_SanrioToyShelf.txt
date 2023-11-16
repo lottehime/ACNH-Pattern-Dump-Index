@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: SanrioToyShelf
+Creator: Koid
+Tags: 

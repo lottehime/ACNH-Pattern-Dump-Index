@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: gokuchichi
+Creator: peibols
+Tags: 

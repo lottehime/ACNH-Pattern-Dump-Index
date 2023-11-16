@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stonepath
+Creator: Boshi
+Tags: 845959085347, path, stone, 

@@ -1,0 +1,4 @@
+Type:Fan
+Name: Pikachu
+Creator: Berdine
+Tags: 

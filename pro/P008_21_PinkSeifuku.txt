@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: PinkSeifuku
+Creator: M
+Tags: 

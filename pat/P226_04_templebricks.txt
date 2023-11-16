@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: templebricks
+Creator: meyling
+Tags: path, stone, 

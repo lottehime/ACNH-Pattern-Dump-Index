@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: templebckdrop
+Creator: flyingfish
+Tags: japanese, shrine, temple, 

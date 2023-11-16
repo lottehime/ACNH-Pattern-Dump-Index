@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: GucciDress1
+Creator: Boshi
+Tags: rn23pkccblch, 

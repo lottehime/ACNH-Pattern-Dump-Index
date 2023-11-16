@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: cityroad
+Creator: kuroneko
+Tags: brick, citycore, 

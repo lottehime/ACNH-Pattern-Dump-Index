@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: GalaxyPath
+Creator: Greenie
+Tags: galaxy, path, star, 

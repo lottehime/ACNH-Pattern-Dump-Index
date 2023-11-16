@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: guccihat
+Creator: hansol
+Tags: gucci, hansol, hat, 

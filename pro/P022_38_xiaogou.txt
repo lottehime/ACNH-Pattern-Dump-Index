@@ -1,0 +1,4 @@
+Type:LongSleeveShirt3DS
+Name: xiaogou
+Creator: xiaogou
+Tags: 

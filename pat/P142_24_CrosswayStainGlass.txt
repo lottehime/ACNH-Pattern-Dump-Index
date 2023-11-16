@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CrosswayStainGlass
+Creator: chato
+Tags: 

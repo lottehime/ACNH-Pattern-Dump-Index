@@ -1,3 +1,0 @@
-Name: feather
-Creator: ling
-Tags: 

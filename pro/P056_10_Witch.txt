@@ -1,0 +1,4 @@
+Type:ShortSleeveDress3DS
+Name: Witch
+Creator: Star
+Tags: 

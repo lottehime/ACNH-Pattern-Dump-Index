@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: mushies
+Creator: PigSheriff
+Tags: mushrooms, path, 

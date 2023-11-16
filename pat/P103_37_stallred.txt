@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stallred
+Creator: flay
+Tags: 

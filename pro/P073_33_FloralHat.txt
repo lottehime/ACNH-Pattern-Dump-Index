@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: FloralHat
+Creator: L3O
+Tags: brimmedcap, cap, floral, hat, 

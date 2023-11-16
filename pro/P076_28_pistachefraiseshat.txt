@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: pistachefraiseshat
+Creator: Rikku
+Tags: chapeau, green, hat, pistachio, strawberry, 

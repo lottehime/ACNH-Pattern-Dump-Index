@@ -1,0 +1,4 @@
+Type:Coat
+Name: Faramircoat
+Creator: Boshi
+Tags: 190124532609, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: fruitssign
+Creator: Boshi
+Tags: 750508940096, 

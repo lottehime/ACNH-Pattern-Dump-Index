@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: DarkZeldaHilda
+Creator: Moogie
+Tags: dress, hilda, loz, zelda, 

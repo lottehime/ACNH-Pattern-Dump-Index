@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: softdirtc
+Creator: dingleberry
+Tags: 

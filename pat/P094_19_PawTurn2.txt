@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PawTurn2
+Creator: froggylad
+Tags: 

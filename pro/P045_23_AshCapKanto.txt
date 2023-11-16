@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: AshCapKanto
+Creator: Wasivis
+Tags: ash, cap, hat, kanto, pokemon, 

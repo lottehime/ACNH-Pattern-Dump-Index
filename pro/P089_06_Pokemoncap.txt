@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: Pokemoncap
+Creator: SharkFlex
+Tags: pokemon, 

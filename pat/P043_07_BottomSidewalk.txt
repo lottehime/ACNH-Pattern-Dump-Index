@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: BottomSidewalk
+Creator: Jewben
+Tags: angie, citycore, crossingkoki, path, road, 

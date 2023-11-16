@@ -1,0 +1,4 @@
+Type:LongSleeveShirt3DS
+Name: ZinkLayeredLS
+Creator: EdicionGamerYT
+Tags: 

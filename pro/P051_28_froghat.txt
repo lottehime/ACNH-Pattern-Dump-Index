@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: froghat
+Creator: Smiglo
+Tags: cap, frog, froggy, hat, 

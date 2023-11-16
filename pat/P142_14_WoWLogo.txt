@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: WoWLogo
+Creator: xf
+Tags: 

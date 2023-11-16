@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: ToadShirt
+Creator: Scarlett
+Tags: classic, dotstee, toadprint, wildworld, 

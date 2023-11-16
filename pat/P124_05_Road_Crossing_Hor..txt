@@ -1,3 +1,0 @@
-Name: Road Crossing Hor.
-Creator: Oracle
-Tags: path, road, street, 

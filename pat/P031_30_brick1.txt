@@ -1,3 +1,0 @@
-Name: brick1
-Creator: leaf
-Tags: 

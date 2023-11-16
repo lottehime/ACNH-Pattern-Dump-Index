@@ -1,0 +1,4 @@
+Type:Coat
+Name: picnicmiddle
+Creator: astrix
+Tags: adorable, cafe, cute, dress, mocha, 

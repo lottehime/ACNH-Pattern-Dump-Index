@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CrosswalkHor
+Creator: DiscordServer
+Tags: crosswalk, japanese, roads, 

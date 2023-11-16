@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: logsmall
+Creator: meyling
+Tags: log, path, steps, wood, 

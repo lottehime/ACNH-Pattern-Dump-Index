@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stone2
+Creator: meyling
+Tags: stone, 

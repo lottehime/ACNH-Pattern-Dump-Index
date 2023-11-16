@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: streettile
+Creator: Boshi
+Tags: 519709249186, path, road, street, 

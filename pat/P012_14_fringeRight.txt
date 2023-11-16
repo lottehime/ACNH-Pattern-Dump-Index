@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: fringeRight
+Creator: M
+Tags: 

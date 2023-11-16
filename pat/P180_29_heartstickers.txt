@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: heartstickers
+Creator: mikue
+Tags: cute, face, stickers, 

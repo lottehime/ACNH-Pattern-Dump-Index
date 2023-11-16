@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PurpleSquid
+Creator: EdicionGamerYT
+Tags: 

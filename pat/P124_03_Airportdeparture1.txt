@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Airportdeparture1
+Creator: HyokoSam
+Tags: 

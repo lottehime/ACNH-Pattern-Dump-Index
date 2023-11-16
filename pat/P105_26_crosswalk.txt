@@ -1,3 +1,0 @@
-Name: crosswalk
-Creator: a
-Tags: 

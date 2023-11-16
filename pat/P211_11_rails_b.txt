@@ -1,3 +1,0 @@
-Name: rails b
-Creator: meyling
-Tags: rails, 

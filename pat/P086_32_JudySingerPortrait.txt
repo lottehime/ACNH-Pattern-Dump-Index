@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: JudySingerPortrait
+Creator: EvilKefka
+Tags: judy, photo, portrait, poster, sing, 

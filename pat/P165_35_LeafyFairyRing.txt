@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: LeafyFairyRing
+Creator: Ribbajack
+Tags: fairyring, mushroom, 

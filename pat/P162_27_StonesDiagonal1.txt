@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StonesDiagonal1
+Creator: Fasil
+Tags: 740411960223, 

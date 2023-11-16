@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: FloorTile
+Creator: LOLITA
+Tags: blue, tile, white, 

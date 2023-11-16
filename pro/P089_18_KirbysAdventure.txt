@@ -1,0 +1,4 @@
+Type:BrimmedHat
+Name: KirbysAdventure
+Creator: Miray
+Tags: adventure, kirby, 

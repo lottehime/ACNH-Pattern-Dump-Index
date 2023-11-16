@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stonestairsleft
+Creator: julia
+Tags: bridge, natural, stairs, stone, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: crab
+Creator: MA891096435200
+Tags: animal, beach, cute, 

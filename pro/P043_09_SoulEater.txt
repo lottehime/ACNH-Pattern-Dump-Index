@@ -1,0 +1,4 @@
+Type:LongSleeveShirt3DS
+Name: SoulEater
+Creator: Mae
+Tags: 

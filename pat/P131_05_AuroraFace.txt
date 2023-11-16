@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: AuroraFace
+Creator: Moogie
+Tags: face, 

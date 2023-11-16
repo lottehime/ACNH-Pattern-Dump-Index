@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: StrawberryDress2
+Creator: steff
+Tags: 

@@ -1,3 +1,0 @@
-Name: deck
-Creator: flay
-Tags: 

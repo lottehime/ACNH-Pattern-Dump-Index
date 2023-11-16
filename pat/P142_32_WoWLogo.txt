@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: WoWLogo
+Creator: Louie
+Tags: logo, warcraft, wow, 

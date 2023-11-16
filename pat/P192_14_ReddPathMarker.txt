@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ReddPathMarker
+Creator: LemonCat
+Tags: diamond, lemoncat, marker, path, redd, 

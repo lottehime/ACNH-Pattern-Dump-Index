@@ -1,3 +1,4 @@
+Type:SimplePattern
 Name: 1
 Creator: M
 Tags: 

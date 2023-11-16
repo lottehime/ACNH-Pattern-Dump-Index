@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: autumnleaves
+Creator: Mlissa
+Tags: autumn, fall, leaves, 

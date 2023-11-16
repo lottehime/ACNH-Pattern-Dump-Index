@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: PrizeShelf1
+Creator: Fasil
+Tags: 052552351056, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TileSpanishFiestav2
+Creator: LemonCat
+Tags: fiesta, lemoncat, path, spanish, tile, 

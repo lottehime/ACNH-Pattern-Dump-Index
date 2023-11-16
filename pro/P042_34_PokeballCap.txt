@@ -1,0 +1,4 @@
+Type:BrimmedCap
+Name: PokeballCap
+Creator: Moogie
+Tags: cap, hat, pokeball, pokemon, 

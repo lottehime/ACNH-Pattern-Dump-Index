@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: calicohoodie
+Creator: meyling
+Tags: cat, hoodie, 

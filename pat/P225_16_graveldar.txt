@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: graveldar
+Creator: meyling
+Tags: path, stone, 

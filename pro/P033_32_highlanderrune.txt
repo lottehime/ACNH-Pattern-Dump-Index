@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: highlanderrune
+Creator: lauka
+Tags: campia, contryside, green, longdress, runes, 

@@ -1,0 +1,4 @@
+Type:TShirt
+Name: ForestGreenRovers
+Creator: stapo
+Tags: fgr, football, kit, soccer, sport, 

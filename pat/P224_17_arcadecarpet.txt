@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: arcadecarpet
+Creator: meyling
+Tags: arcade, flooring, 

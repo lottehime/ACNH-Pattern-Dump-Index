@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: AdidasSweater
+Creator: TEREM
+Tags: adidas, sweater, terem, trm, 

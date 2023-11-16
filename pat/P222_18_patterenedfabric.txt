@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: patterenedfabric
+Creator: meyling
+Tags: cloth, fabric, 

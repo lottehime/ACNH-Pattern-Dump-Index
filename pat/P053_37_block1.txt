@@ -1,3 +1,0 @@
-Name: block1
-Creator: main
-Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: stone01
+Creator: MA662491474107
+Tags: 

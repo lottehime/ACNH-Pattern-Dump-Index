@@ -1,0 +1,4 @@
+Type:TShirt
+Name: AroTee
+Creator: GalaxyCats
+Tags: aro, flag, pride, simple, tee, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: dodopng1x1ACPATTERN
+Creator: Miray
+Tags: acpatterns, dodo, 

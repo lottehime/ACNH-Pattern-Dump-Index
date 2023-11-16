@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: carrotsign
+Creator: michelle
+Tags: carrot, crop, farm, produce, sign, 

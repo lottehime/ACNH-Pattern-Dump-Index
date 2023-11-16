@@ -1,3 +1,0 @@
-Name: Stairs
-Creator: TMS
-Tags: 

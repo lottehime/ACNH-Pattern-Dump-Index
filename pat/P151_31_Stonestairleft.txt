@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Stonestairleft
+Creator: Cam
+Tags: stair, staircase, stone, stonestairs, 

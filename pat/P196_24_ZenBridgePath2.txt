@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ZenBridgePath2
+Creator: Boshi
+Tags: 946742566425, bridge, wood, zen, 

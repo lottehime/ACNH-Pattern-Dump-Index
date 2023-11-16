@@ -1,0 +1,4 @@
+Type:BalloonDress
+Name: FemaleWorkUniform
+Creator: Scarlett
+Tags: classicgc, tomnook, uniform, work, 

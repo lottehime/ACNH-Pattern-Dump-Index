@@ -1,0 +1,4 @@
+Type:LongSleeveDress3DS
+Name: Promdress
+Creator: Star
+Tags: blue, dress, prom, 

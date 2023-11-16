@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Dirtpathuppermid
+Creator: eilla
+Tags: dirt, dirtpath, natural, path, 

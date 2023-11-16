@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TriAsphaltNECorner
+Creator: Kyek
+Tags: path, road, street, urban, 

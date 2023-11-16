@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: TrimS
+Creator: Boshi
+Tags: 581508049726, border, stone, 

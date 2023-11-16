@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Pichu
+Creator: yerania
+Tags: 

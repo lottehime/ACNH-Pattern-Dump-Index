@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: FFXIV501
+Creator: YUKIKAZI
+Tags: 

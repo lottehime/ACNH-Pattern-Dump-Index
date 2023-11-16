@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: sidewalktilecorner
+Creator: Boshi
+Tags: 511696445826, 

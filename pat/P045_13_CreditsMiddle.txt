@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: CreditsMiddle
+Creator: A
+Tags: 

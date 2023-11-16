@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Ori3
+Creator: AlphaAlvisXC
+Tags: 

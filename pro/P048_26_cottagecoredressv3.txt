@@ -1,0 +1,4 @@
+Type:ShortSleeveDress
+Name: cottagecoredressv3
+Creator: fiona
+Tags: 

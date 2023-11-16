@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Border3
+Creator: Boshi
+Tags: 343855359458, border, terracotta, 

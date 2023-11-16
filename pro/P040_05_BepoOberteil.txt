@@ -1,0 +1,4 @@
+Type:LongSleeveShirt3DS
+Name: BepoOberteil
+Creator: Yoshi
+Tags: 

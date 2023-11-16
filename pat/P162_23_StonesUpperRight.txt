@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: StonesUpperRight
+Creator: Fasil
+Tags: 740411960223, 

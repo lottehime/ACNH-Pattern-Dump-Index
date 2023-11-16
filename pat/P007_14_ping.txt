@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ping
+Creator: myself
+Tags: 

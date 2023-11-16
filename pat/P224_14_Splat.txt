@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Splat
+Creator: Miray
+Tags: blue, ink, orange, splatoon, squid, 

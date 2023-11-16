@@ -1,0 +1,4 @@
+Type:Robe
+Name: SpringKimono
+Creator: Greenie
+Tags: 

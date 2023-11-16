@@ -1,0 +1,4 @@
+Type:LongSleeveDress
+Name: CielsDress
+Creator: Boshi
+Tags: 464180893902, gown, pink, 

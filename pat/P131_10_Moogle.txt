@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Moogle
+Creator: Moogie
+Tags: finalfantasy, flag, moogle, 

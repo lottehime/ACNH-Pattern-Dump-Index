@@ -1,0 +1,4 @@
+Type:Coat
+Name: Froggykidcore
+Creator: HyokoSam
+Tags: 

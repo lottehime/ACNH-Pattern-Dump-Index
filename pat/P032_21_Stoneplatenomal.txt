@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Stoneplatenomal
+Creator: leaf
+Tags: 

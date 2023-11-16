@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ScatteredDice
+Creator: Boshi
+Tags: 036647702149, 

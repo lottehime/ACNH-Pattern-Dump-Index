@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DispensaryDark
+Creator: wedd
+Tags: stall, 

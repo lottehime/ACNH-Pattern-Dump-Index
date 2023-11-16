@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Stars1
+Creator: Greenie
+Tags: 

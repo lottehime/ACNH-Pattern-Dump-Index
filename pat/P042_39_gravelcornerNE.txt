@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: gravelcornerNE
+Creator: ae
+Tags: 

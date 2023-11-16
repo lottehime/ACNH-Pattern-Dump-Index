@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: AllaganTomestone
+Creator: Moogie
+Tags: allagan, ffxiv, phonecase, tomestone, 

@@ -1,0 +1,4 @@
+Type:Hoodie
+Name: HollowHoodieV3
+Creator: Miray
+Tags: hollow, hoodie, 

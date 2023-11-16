@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: FakeFossil
+Creator: Ellu
+Tags: fossil, prank, 

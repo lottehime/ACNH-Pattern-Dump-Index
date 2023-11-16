@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Rust
+Creator: Boshi
+Tags: 108829519808, 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: ichigoborder
+Creator: Boshi
+Tags: 750508940096, 

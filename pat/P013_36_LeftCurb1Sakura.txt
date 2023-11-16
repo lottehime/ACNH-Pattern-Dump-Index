@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: LeftCurb1Sakura
+Creator: M
+Tags: 

@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: DesignPattern
+Creator: sdf
+Tags: 

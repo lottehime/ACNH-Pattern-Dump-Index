@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: Stairs
+Creator: Doe
+Tags: stair, step, steps, stone, 

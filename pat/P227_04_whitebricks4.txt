@@ -1,0 +1,4 @@
+Type:SimplePattern
+Name: whitebricks4
+Creator: meyling
+Tags: bricks, path, 
