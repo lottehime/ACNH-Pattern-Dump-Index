@@ -1,4 +1,0 @@
-Type:Coat
-Name: GucciWoolCoat
-Creator: M
-Tags: 

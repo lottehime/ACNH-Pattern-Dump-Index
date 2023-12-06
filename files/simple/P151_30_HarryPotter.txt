@@ -1,0 +1,4 @@
+SimplePattern
+HarryPotter
+Star
+SimplePattern, harrypotter, hogwarts, hp, 

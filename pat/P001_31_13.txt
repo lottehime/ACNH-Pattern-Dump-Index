@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 13
-Creator: huadu
-Tags: 

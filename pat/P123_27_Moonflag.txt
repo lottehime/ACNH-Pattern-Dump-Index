@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Moonflag
-Creator: Lisbelle
-Tags: flag, moon, 

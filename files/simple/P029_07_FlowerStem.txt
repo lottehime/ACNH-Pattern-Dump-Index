@@ -1,0 +1,4 @@
+SimplePattern
+FlowerStem
+ling
+SimplePattern, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: yuanshenzhongli9
-Creator: Chenfeiren
-Tags: 

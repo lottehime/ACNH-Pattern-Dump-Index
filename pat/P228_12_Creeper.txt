@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Creeper
-Creator: Miray
-Tags: creeper, flag, minecraft, 

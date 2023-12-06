@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 10
-Creator: Ann
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodenplank
-Creator: rei
-Tags: 

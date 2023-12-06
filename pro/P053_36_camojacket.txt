@@ -1,4 +1,0 @@
-Type:LongSleeveShirt3DS
-Name: camojacket
-Creator: EdicionGamerYT
-Tags: 

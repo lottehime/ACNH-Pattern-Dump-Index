@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Gashapon3
-Creator: Koid
-Tags: 

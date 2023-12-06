@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TerracotaUpRight
-Creator: Boshi
-Tags: 701183139106, border, 

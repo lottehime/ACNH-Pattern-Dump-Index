@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SteelFloor
-Creator: Boshi
-Tags: 741446886996, 

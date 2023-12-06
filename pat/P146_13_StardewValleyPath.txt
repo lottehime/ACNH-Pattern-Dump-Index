@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StardewValleyPath
-Creator: EdicionGamerYT
-Tags: 

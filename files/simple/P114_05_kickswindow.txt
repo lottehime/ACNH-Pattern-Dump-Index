@@ -1,0 +1,4 @@
+SimplePattern
+kickswindow
+flay
+SimplePattern, 

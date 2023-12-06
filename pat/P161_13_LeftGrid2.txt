@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LeftGrid2
-Creator: Fasil
-Tags: 931837796275, 

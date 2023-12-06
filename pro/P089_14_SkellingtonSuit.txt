@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: SkellingtonSuit
-Creator: Miray
-Tags: skellington, suit, 

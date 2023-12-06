@@ -1,4 +1,0 @@
-Type:Robe
-Name: StarryNight
-Creator: Lindsi
-Tags: 

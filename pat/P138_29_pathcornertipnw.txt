@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pathcornertipnw
-Creator: flyingfish
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: roadinnertopleft
-Creator: Boshi
-Tags: 772739769058, 

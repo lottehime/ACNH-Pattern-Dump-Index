@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: berryribbon
-Creator: Boshi
-Tags: 750508940096, 

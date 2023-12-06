@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: MintGown
-Creator: TheNessaGamer
-Tags: gown, mint, mintgown, thenessagame, 

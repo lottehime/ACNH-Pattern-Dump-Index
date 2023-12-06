@@ -1,0 +1,4 @@
+SimplePattern
+LeafRoad
+PlankEdu
+SimplePattern, abandoned, city, leaf, road, street, 

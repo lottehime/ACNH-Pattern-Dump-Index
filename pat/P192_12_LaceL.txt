@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LaceL
-Creator: Greenie
-Tags: 

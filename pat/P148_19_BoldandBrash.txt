@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BoldandBrash
-Creator: EdicionGamerYT
-Tags: 

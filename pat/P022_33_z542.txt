@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: z542
-Creator: NORTH
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: label1
-Creator: flay
-Tags: 

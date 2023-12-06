@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BayekKendrickGambino
-Creator: Vanity
-Tags: 

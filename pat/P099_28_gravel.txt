@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: gravel
-Creator: Hanoka
-Tags: asphalt, gravel, path, rocks, street, 

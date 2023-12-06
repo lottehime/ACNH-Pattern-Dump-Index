@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Brasil
-Creator: BlackOmegaTM
-Tags: flag, 

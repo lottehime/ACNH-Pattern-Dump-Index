@@ -1,4 +1,0 @@
-Type:Pullover
-Name: rosesweater
-Creator: M
-Tags: 

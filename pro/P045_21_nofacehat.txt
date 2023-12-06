@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: nofacehat
-Creator: doudou
-Tags: 

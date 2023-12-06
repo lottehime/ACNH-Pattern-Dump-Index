@@ -1,0 +1,4 @@
+SimplePattern
+T
+Ribbajack
+SimplePattern, path, stars, 

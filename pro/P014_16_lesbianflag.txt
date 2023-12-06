@@ -1,4 +1,0 @@
-Type:Flag
-Name: lesbianflag
-Creator: rat
-Tags: abro, pride, queer, 

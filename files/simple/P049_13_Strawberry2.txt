@@ -1,0 +1,4 @@
+SimplePattern
+Strawberry2
+1
+SimplePattern, 

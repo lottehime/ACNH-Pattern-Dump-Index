@@ -1,4 +1,0 @@
-Type:Standee
-Name: MossyBrickWall
-Creator: DoctorPokemon
-Tags: brick, cinnabar, mossy, standee, wall, 

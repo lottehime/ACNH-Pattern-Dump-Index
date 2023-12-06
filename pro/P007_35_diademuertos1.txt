@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: diademuertos1
-Creator: M
-Tags: 

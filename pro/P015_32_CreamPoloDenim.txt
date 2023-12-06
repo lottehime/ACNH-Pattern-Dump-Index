@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: CreamPoloDenim
-Creator: leaf
-Tags: 

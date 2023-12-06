@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: NueDress
-Creator: Boshi
-Tags: 938831396659, 

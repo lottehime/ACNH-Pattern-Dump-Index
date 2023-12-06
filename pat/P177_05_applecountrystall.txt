@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: applecountrystall
-Creator: Boshi
-Tags: 289954036642, 

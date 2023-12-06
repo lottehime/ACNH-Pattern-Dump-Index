@@ -1,0 +1,4 @@
+SimplePattern
+UpperLeftCorner
+Fasil
+SimplePattern, 664792304716, 

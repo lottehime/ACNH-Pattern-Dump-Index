@@ -1,4 +1,0 @@
-Type:Tanktop
-Name: HappyTears
-Creator: Wes
-Tags: heart, 

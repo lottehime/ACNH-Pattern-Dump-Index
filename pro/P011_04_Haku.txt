@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: Haku
-Creator: M
-Tags: 

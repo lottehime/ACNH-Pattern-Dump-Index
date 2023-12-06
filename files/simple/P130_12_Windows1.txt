@@ -1,0 +1,4 @@
+SimplePattern
+Windows1
+Koid
+SimplePattern, 

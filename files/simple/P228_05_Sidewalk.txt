@@ -1,0 +1,4 @@
+SimplePattern
+Sidewalk
+DiscordServer
+SimplePattern, japanese, roads, sidewalk, 

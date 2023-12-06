@@ -1,0 +1,4 @@
+SimplePattern
+SariRoadCrossingV
+Oracle
+SimplePattern, crossing, road, sariboshi, street, 

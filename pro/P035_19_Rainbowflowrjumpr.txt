@@ -1,4 +1,0 @@
-Type:Coat
-Name: Rainbowflowrjumpr
-Creator: froggylad
-Tags: 

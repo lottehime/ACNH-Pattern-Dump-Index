@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DarkStonesDiag2
-Creator: Fasil
-Tags: 740411960223, 

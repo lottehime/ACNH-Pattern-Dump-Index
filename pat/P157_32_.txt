@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 
-Creator: YYYYY
-Tags: 1111, 

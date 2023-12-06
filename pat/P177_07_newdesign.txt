@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: newdesign
-Creator: Boshi
-Tags: 698780855018, 

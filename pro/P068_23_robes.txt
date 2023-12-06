@@ -1,4 +1,0 @@
-Type:LongSleeveDress3DS
-Name: robes
-Creator: derp
-Tags: 

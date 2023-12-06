@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: LanSeShangYi
-Creator: NekoCoffee
-Tags: blue, shirt, white, 

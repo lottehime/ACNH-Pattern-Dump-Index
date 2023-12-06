@@ -1,0 +1,4 @@
+SimplePattern
+shopwindowopen
+Boshi
+SimplePattern, 772739769058, 

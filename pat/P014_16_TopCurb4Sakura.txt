@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TopCurb4Sakura
-Creator: M
-Tags: 

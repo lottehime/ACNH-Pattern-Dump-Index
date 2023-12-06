@@ -1,0 +1,4 @@
+SimplePattern
+leaves
+rice
+SimplePattern, green, leaves, path, 

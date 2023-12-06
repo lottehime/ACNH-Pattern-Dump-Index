@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BookClubSign
-Creator: flay
-Tags: 

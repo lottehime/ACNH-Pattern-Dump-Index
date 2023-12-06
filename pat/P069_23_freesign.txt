@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: freesign
-Creator: Sou
-Tags: 702616845455, 

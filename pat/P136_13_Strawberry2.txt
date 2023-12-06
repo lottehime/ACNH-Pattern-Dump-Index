@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Strawberry2
-Creator: fiona
-Tags: 

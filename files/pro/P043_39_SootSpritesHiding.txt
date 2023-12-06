@@ -1,0 +1,4 @@
+Umbrella
+SootSpritesHiding
+1
+Umbrella, 

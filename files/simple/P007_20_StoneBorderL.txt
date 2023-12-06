@@ -1,0 +1,4 @@
+SimplePattern
+StoneBorderL
+Honey
+SimplePattern, border, path, stone, trim, white, 

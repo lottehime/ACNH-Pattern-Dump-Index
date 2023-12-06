@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Lacitos
-Creator: MUGEN
-Tags: hamtaro, 

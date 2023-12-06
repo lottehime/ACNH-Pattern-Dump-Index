@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: StarandDots
-Creator: Moogie
-Tags: black, dots, hat, red, stars, 

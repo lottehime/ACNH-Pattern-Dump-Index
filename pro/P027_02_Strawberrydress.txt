@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Strawberrydress
-Creator: chloe
-Tags: 869886642374, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: extradirtpath
-Creator: Alan
-Tags: leaf, leaves, 

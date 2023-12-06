@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: PROUmbrella
-Creator: numelle
-Tags: black, clothes, dress, numelle, rose, 

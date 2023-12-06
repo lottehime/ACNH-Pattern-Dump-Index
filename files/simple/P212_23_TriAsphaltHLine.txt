@@ -1,0 +1,4 @@
+SimplePattern
+TriAsphaltHLine
+Kyek
+SimplePattern, path, road, street, urban, 

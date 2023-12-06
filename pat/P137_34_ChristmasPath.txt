@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ChristmasPath
-Creator: Ann
-Tags: 

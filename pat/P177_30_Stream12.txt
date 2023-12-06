@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Stream12
-Creator: Boshi
-Tags: 666593535318, 

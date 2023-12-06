@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Museum
-Creator: Moogie
-Tags: museum, sign, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: circularstonea
-Creator: Boshi
-Tags: 511696445826, circular, stone, 

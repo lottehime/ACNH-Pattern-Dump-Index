@@ -1,0 +1,4 @@
+SimplePattern
+beachA
+ling
+SimplePattern, 

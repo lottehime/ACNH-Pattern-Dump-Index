@@ -1,0 +1,4 @@
+TShirt
+EeveeJersey
+DoctorPokemon
+TShirt, cinnabar, eevee, jersey, pokemon, shirt, 

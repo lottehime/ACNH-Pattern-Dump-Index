@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: botanicalmum
-Creator: Boshi
-Tags: 515002428566, botanical, lily, 

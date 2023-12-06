@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: orange1
-Creator: xinxin
-Tags: 

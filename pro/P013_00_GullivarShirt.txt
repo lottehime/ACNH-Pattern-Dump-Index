@@ -1,4 +1,0 @@
-Type:TShirt
-Name: GullivarShirt
-Creator: PisiPisi
-Tags: 

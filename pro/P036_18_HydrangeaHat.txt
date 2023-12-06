@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: HydrangeaHat
-Creator: Lisbelle
-Tags: 

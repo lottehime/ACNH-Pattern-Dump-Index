@@ -1,4 +1,0 @@
-Type:Pullover
-Name: SnowflakeCardigan
-Creator: fiona
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: mushrooms
-Creator: Mlissa
-Tags: 

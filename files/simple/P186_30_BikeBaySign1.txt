@@ -1,0 +1,4 @@
+SimplePattern
+BikeBaySign1
+Boshi
+SimplePattern, 729988656286, bike, parking, 

@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: holohoodie
-Creator: meyling
-Tags: hoodie, 

@@ -1,0 +1,4 @@
+SimplePattern
+streettile
+Boshi
+SimplePattern, 519709249186, path, road, street, 

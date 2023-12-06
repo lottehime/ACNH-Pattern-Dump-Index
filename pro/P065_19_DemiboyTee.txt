@@ -1,4 +1,0 @@
-Type:TShirt
-Name: DemiboyTee
-Creator: GalaxyCats
-Tags: demiboy, flag, pride, simple, tee, 

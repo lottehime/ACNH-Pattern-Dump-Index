@@ -1,0 +1,4 @@
+SimplePattern
+BlossomlakeTopRight
+Ellu
+SimplePattern, lake, water, 

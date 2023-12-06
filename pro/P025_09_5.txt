@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: 5
-Creator: susu
-Tags: 

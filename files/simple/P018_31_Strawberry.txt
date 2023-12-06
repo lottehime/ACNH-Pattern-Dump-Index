@@ -1,0 +1,4 @@
+SimplePattern
+Strawberry
+Doe
+SimplePattern, farm, patch, plant, strawberries, 

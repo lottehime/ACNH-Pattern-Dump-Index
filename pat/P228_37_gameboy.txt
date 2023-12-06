@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: gameboy
-Creator: DiscordServer
-Tags: console, gameboy, gaming, handheld, nintendo, 

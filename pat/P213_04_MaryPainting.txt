@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MaryPainting
-Creator: miruku
-Tags: game, ib, marry, paiting, rpg, 

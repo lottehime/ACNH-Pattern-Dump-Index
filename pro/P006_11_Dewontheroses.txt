@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: Dewontheroses
-Creator: dingleberry
-Tags: 

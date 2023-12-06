@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: prova
-Creator: lostinpixel
-Tags: 

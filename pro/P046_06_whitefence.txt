@@ -1,4 +1,0 @@
-Type:Standee
-Name: whitefence
-Creator: Ann
-Tags: 

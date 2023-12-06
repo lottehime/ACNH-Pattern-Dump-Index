@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: Clubs
-Creator: Greenie
-Tags: alice, card, 

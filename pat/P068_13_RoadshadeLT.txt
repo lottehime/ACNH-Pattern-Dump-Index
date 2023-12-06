@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RoadshadeLT
-Creator: CreaRick
-Tags: colin, missing, road, 

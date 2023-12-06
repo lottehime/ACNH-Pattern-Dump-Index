@@ -1,0 +1,4 @@
+SimplePattern
+artdecowindow1
+flay
+SimplePattern, 

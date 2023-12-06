@@ -1,0 +1,4 @@
+SimplePattern
+dog
+meyling
+SimplePattern, decor, dog, floordecor, 

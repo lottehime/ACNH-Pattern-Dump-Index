@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: senpi
-Creator: Crimson
-Tags: 

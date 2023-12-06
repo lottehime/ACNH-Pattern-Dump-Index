@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: puppypocketoverall
-Creator: M
-Tags: 

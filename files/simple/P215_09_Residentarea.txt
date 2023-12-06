@@ -1,0 +1,4 @@
+SimplePattern
+Residentarea
+Greenie
+SimplePattern, animal, resident, villager, 

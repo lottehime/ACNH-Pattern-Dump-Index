@@ -1,0 +1,4 @@
+SimplePattern
+RaymondPhone
+Boshi
+SimplePattern, case, cat, grey, phone, raymond, 

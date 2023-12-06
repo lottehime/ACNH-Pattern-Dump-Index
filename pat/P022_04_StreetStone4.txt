@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StreetStone4
-Creator: Samie323
-Tags: 

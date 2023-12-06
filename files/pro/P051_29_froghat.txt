@@ -1,0 +1,4 @@
+BrimmedHat
+froghat
+Smiglo
+BrimmedHat, cap, frog, froggy, hat, 

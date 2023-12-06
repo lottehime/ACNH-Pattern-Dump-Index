@@ -1,0 +1,4 @@
+SimplePattern
+shrooms
+PigSheriff
+SimplePattern, facepaint, mushrooms, 

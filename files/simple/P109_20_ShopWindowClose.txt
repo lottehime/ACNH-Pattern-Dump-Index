@@ -1,0 +1,4 @@
+SimplePattern
+ShopWindowClose
+EveK
+SimplePattern, close, shop, window, 

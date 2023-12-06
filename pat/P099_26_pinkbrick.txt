@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pinkbrick
-Creator: Hanoka
-Tags: brick, path, pink, street, trail, 

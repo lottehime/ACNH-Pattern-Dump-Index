@@ -1,0 +1,4 @@
+SimplePattern
+waterTheFlowersPlz
+LemonCat
+SimplePattern, flower, lemoncat, request, sign, water, 

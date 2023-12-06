@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MyMelodyChalk
-Creator: ling
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: brickwindow
-Creator: MA030639882020
-Tags: brick, city, grunge, wall, window, 

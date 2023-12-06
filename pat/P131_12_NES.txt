@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: NES
-Creator: 123
-Tags: 

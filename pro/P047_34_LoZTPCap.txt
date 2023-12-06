@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: LoZTPCap
-Creator: DoctorPokemon
-Tags: cinnabar, loz, princess, twilight, zelda, 

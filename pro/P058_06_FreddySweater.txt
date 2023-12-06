@@ -1,4 +1,0 @@
-Type:Pullover
-Name: FreddySweater
-Creator: Testingstuff
-Tags: 

@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Serenegown
-Creator: M
-Tags: 

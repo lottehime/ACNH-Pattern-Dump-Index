@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: PearlDress2
-Creator: 
-Tags: 

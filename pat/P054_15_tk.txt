@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tk
-Creator: main
-Tags: 

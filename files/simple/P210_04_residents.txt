@@ -1,0 +1,4 @@
+SimplePattern
+residents
+Boshi
+SimplePattern, 548390934023, mat, residential, town, 

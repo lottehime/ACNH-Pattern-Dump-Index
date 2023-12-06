@@ -1,4 +1,0 @@
-Type:NoSleeveDress3DS
-Name: Summer
-Creator: Star
-Tags: 

@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: SezaneGracedress
-Creator: M
-Tags: 

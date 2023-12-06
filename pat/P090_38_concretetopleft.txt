@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: concretetopleft
-Creator: BandalfLeGland
-Tags: 

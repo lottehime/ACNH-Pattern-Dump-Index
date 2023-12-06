@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Groundmuseum
-Creator: NOnoS
-Tags: ground, museum, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: botanicalwindflower
-Creator: Boshi
-Tags: botanical, flower, 

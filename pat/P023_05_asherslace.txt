@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: asherslace
-Creator: ling
-Tags: 

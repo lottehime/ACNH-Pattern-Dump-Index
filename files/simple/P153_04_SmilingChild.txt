@@ -1,0 +1,4 @@
+SimplePattern
+SmilingChild
+BloodyScreeching
+SimplePattern, child, corrupt, horror, smile, 

@@ -1,0 +1,4 @@
+SimplePattern
+plazaBR
+Destin
+SimplePattern, bricks, corner, path, plaza, 

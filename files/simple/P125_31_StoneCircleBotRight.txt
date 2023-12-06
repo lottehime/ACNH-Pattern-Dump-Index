@@ -1,0 +1,4 @@
+SimplePattern
+StoneCircleBotRight
+Oracle
+SimplePattern, circle, path, stone, 

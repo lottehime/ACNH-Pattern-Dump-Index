@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: RoyalSuit
-Creator: Boshi
-Tags: 995000153074, dress, red, 

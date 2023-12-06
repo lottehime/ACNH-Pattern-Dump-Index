@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bowuguan6
-Creator: yz
-Tags: brick, road, 

@@ -1,0 +1,4 @@
+SimplePattern
+Kidcoretopleft
+ling
+SimplePattern, 

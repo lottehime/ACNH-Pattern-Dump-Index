@@ -1,4 +1,0 @@
-Type:Flag
-Name: CinnabarIslandFlag
-Creator: DoctorPokemon
-Tags: cinnabar, flag, 

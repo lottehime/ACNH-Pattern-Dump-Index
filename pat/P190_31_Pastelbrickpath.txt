@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Pastelbrickpath
-Creator: Greenie
-Tags: brick, pastel, path, 

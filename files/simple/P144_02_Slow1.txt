@@ -1,0 +1,4 @@
+SimplePattern
+Slow1
+MH
+SimplePattern, japan, slow, 

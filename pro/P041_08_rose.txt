@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: rose
-Creator: flay
-Tags: 

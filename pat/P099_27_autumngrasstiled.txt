@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: autumngrasstiled
-Creator: Hanoka
-Tags: autumn, fall, grass, path, seasonal, 

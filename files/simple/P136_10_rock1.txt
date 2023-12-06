@@ -1,0 +1,4 @@
+SimplePattern
+rock1
+rei
+SimplePattern, path, rock, stone, 

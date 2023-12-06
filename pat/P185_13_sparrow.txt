@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: sparrow
-Creator: Greenie
-Tags: 

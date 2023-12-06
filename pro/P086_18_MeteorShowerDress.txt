@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: MeteorShowerDress
-Creator: Boshi
-Tags: 803889037877, dress, meteor, space, 

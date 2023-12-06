@@ -1,0 +1,4 @@
+SimplePattern
+cornerpath3
+Boshi
+SimplePattern, 635260786250, path, stepping, stones, 

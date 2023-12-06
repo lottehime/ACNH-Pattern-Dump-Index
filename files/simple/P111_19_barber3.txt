@@ -1,0 +1,4 @@
+SimplePattern
+barber3
+flay
+SimplePattern, 

@@ -1,0 +1,4 @@
+SimplePattern
+spacecow
+PigSheriff
+SimplePattern, flag, 

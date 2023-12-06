@@ -1,0 +1,4 @@
+SimplePattern
+ThickVerticalRoad
+Unknown
+SimplePattern, 

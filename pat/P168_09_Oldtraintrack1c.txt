@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Oldtraintrack1c
-Creator: Fasil
-Tags: 442535159296, 

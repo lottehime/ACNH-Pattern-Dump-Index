@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FireTribe
-Creator: serialfriend
-Tags: atla, flag, sign, 

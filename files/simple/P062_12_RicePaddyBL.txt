@@ -1,0 +1,4 @@
+SimplePattern
+RicePaddyBL
+Strike
+SimplePattern, bl, field, paddy, path, rice, 

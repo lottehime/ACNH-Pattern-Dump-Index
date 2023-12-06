@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Purpleombre
-Creator: 1
-Tags: 

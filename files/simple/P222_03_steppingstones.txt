@@ -1,0 +1,4 @@
+SimplePattern
+steppingstones
+meyling
+SimplePattern, path, steps, stone, 

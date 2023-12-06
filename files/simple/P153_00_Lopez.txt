@@ -1,0 +1,4 @@
+SimplePattern
+Lopez
+Vincent
+SimplePattern, vecino, 

@@ -1,4 +1,0 @@
-Type:Coat
-Name: Flowercardigan
-Creator: Catucchi
-Tags: cardigan, colorful, flower, pink, 

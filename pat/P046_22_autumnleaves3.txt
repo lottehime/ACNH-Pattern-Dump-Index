@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: autumnleaves3
-Creator: Berdine
-Tags: 

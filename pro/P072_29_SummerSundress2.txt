@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: SummerSundress2
-Creator: Greenie
-Tags: 

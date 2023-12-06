@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: foot3
-Creator: Kai
-Tags: 

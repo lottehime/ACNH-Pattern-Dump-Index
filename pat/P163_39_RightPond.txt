@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RightPond
-Creator: Fasil
-Tags: 666593535318, 

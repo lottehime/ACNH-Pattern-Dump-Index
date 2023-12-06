@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MushroomFlag
-Creator: mimy
-Tags: flag, mushroom, 

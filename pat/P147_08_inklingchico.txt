@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: inklingchico
-Creator: EdicionGamerYT
-Tags: 

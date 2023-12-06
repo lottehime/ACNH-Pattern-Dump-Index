@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CandycornPathV2
-Creator: pickle
-Tags: 

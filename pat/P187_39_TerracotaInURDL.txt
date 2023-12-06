@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TerracotaInURDL
-Creator: Boshi
-Tags: 403017041000, border, brick, path, 

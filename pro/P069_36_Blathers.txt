@@ -1,4 +1,0 @@
-Type:RoundDress
-Name: Blathers
-Creator: Boshi
-Tags: 369758501357, 

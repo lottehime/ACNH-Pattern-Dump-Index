@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: dsads
-Creator: qq
-Tags: 

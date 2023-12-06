@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BIBAN
-Creator: DA123445677890
-Tags: 

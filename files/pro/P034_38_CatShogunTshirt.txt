@@ -1,0 +1,4 @@
+TShirt
+CatShogunTshirt
+AliceShiro
+TShirt, cat, japan, red, samurai, tshirt, 

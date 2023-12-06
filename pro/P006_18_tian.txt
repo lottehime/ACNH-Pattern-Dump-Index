@@ -1,4 +1,0 @@
-Type:Coat
-Name: tian
-Creator: san
-Tags: 

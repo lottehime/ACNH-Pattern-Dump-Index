@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ElevatedTile2
-Creator: Boshi
-Tags: 194436070570, elevated, wood, 

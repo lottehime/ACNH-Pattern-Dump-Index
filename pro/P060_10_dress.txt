@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: dress
-Creator: Sharon
-Tags: 

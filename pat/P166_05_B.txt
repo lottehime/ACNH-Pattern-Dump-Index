@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: B
-Creator: Ribbajack
-Tags: path, stars, 

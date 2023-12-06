@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: BLMhoodie
-Creator: Boshi
-Tags: 768134903700, 

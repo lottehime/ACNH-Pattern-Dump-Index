@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: xiejiao1
-Creator: cc
-Tags: 

@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: MuffyCosplay
-Creator: Kyuchi
-Tags: cosplay, villager, 

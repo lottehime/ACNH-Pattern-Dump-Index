@@ -1,0 +1,4 @@
+SimplePattern
+strawberries
+dingleberry
+SimplePattern, 

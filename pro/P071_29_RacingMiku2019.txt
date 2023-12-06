@@ -1,4 +1,0 @@
-Type:Coat
-Name: RacingMiku2019
-Creator: Boshi
-Tags: 

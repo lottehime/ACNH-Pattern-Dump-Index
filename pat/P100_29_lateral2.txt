@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: lateral2
-Creator: Loly
-Tags: 

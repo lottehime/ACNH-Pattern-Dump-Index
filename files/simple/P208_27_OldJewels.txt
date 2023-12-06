@@ -1,0 +1,4 @@
+SimplePattern
+OldJewels
+Boshi
+SimplePattern, 844849779907, jewels, magic, shelf, 

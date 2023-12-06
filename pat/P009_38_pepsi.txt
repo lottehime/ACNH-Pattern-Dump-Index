@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pepsi
-Creator: sigma
-Tags: brand, logo, pepsi, sigma, 

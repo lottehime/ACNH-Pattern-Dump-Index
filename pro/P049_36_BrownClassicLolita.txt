@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: BrownClassicLolita
-Creator: fiona
-Tags: 

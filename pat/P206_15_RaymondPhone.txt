@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RaymondPhone
-Creator: Boshi
-Tags: case, cat, grey, phone, raymond, 

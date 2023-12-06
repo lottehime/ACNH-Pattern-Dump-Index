@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Hopscotch2A
-Creator: Boshi
-Tags: 888434856674, chalk, numbers, playground, 

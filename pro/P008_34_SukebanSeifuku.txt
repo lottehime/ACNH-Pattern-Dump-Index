@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: SukebanSeifuku
-Creator: M
-Tags: 

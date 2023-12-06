@@ -1,0 +1,4 @@
+SimplePattern
+PUSHPUSH
+BLUXBLUX
+SimplePattern, aaa, bbb, ggg, 

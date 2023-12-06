@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PokeBWWoodUL
-Creator: Crystel
-Tags: 

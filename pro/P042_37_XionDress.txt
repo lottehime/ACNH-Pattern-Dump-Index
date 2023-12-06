@@ -1,4 +1,0 @@
-Type:SleevelessDress
-Name: XionDress
-Creator: Moogie
-Tags: dress, xion, 

@@ -1,0 +1,4 @@
+SimplePattern
+CherryPhone
+Boshi
+SimplePattern, case, cherry, fruit, phone, red, 

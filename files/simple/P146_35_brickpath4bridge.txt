@@ -1,0 +1,4 @@
+SimplePattern
+brickpath4bridge
+dadabella
+SimplePattern, brick, bridge, 

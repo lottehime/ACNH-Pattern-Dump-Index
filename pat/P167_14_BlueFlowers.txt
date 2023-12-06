@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BlueFlowers
-Creator: Fasil
-Tags: 587708646314, 

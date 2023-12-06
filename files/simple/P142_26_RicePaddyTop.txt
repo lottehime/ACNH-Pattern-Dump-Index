@@ -1,0 +1,4 @@
+SimplePattern
+RicePaddyTop
+Koid
+SimplePattern, 

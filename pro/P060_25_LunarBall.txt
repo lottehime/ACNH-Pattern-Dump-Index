@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: LunarBall
-Creator: Fasil
-Tags: 019035054239, 

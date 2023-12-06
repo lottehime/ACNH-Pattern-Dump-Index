@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BrickBorder3
-Creator: Boshi
-Tags: 157475086849, border, brick, grey, 

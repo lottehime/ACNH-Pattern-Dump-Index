@@ -1,0 +1,4 @@
+SimplePattern
+Strawberry2
+fiona
+SimplePattern, 

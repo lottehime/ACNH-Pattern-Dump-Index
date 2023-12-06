@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: HelloKittyHat
-Creator: Moogie
-Tags: hat, hello, hellokitty, kitty, 

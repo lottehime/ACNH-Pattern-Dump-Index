@@ -1,0 +1,4 @@
+SimplePattern
+DirtVertBottom
+crispy
+SimplePattern, dirt, dirtpatch, dirtpath, farm, 

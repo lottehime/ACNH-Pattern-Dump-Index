@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: dduddu
-Creator: dduddu
-Tags: 

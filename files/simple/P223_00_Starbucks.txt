@@ -1,0 +1,4 @@
+SimplePattern
+Starbucks
+Flameye
+SimplePattern, brand, cafe, coffee, logo, shop, 

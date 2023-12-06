@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: takoyakistall
-Creator: Lie
-Tags: japanese, stand, 

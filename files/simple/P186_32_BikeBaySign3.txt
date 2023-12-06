@@ -1,0 +1,4 @@
+SimplePattern
+BikeBaySign3
+Boshi
+SimplePattern, bike, parking, 

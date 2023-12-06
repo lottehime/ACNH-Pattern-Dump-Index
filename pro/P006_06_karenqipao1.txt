@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: karenqipao1
-Creator: karen
-Tags: cheongsam, chinese, dress, 

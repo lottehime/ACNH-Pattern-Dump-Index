@@ -1,0 +1,4 @@
+SimplePattern
+CampSiteSign
+Moogie
+SimplePattern, camp, sign, 

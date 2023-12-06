@@ -1,4 +1,0 @@
-Type:KnitCap
-Name: transhat
-Creator: Boshi
-Tags: 157210187300, 

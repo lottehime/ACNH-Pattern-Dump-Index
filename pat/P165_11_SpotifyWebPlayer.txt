@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SpotifyWebPlayer
-Creator: Fasil
-Tags: 840910588340, 

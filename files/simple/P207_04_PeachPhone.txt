@@ -1,0 +1,4 @@
+SimplePattern
+PeachPhone
+Boshi
+SimplePattern, case, fruit, peach, phone, pink, 

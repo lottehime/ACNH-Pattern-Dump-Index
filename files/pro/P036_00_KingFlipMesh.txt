@@ -1,0 +1,4 @@
+BrimmedCap
+KingFlipMesh
+NEO
+BrimmedCap, cap, king, mesh, splatoon2, 

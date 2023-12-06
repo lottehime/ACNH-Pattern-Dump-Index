@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CobblestoneL
-Creator: LucyArden
-Tags: cobble, cobblestone, path, rock, stone, 

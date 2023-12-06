@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: strawberry
-Creator: dingleberry
-Tags: 

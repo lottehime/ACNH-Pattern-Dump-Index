@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Bloom1
-Creator: EdicionGamerYT
-Tags: 

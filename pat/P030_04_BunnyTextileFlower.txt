@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BunnyTextileFlower
-Creator: ling
-Tags: 

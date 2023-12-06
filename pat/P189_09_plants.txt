@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: plants
-Creator: meyling
-Tags: floordecor, floral, garden, plants, 

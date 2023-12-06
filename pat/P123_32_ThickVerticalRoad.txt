@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ThickVerticalRoad
-Creator: 
-Tags: 

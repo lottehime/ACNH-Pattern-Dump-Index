@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: NaturalCobblestone
-Creator: Boshi
-Tags: 818897712442, path, 

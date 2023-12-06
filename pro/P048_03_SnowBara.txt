@@ -1,4 +1,0 @@
-Type:Standee3DS
-Name: SnowBara
-Creator: Ivan
-Tags: 

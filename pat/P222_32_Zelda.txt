@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Zelda
-Creator: Waann
-Tags: botw, nintendo, portrait, zelda, 

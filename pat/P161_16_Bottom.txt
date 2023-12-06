@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Bottom
-Creator: Fasil
-Tags: 931837796275, 

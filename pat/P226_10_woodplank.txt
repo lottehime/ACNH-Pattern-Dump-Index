@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodplank
-Creator: meyling
-Tags: edge, wood, 

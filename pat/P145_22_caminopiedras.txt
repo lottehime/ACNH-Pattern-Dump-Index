@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: caminopiedras
-Creator: EdicionGamerYT
-Tags: 

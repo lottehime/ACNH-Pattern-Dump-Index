@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Drain
-Creator: Boshi
-Tags: 776949961568, grate, sewer, 

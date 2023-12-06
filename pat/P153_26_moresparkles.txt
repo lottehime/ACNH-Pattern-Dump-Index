@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: moresparkles
-Creator: Neckbeard
-Tags: 

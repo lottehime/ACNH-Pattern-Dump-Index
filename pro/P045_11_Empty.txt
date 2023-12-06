@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: Empty
-Creator: test
-Tags: 

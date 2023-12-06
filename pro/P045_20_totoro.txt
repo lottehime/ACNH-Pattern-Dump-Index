@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: totoro
-Creator: doudou
-Tags: 

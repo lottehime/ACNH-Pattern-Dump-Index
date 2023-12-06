@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DirtyTenjiBlock
-Creator: angel
-Tags: block, city, path, tenji, urban, 

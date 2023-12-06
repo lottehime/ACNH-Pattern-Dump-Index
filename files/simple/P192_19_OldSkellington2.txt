@@ -1,0 +1,4 @@
+SimplePattern
+OldSkellington2
+Boshi
+SimplePattern, 293433791814, bones, buried, skeleton, 

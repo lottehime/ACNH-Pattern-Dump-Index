@@ -1,0 +1,4 @@
+SimplePattern
+BowlingPinsL
+Boshi
+SimplePattern, 224033705348, 

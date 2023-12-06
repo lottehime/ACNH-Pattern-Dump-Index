@@ -1,0 +1,4 @@
+SimplePattern
+PokeballTile
+DoctorPokemon
+SimplePattern, cinnabar, pokeball, pokemon, 

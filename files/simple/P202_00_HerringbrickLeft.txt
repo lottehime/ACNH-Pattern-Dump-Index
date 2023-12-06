@@ -1,0 +1,4 @@
+SimplePattern
+HerringbrickLeft
+Boshi
+SimplePattern, 690878968300, grey, path, stone, 

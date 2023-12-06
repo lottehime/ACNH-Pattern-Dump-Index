@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: AutumnBustle
-Creator: froggylad
-Tags: 

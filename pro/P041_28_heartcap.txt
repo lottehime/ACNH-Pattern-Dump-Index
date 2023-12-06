@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: heartcap
-Creator: Lie
-Tags: hat, 

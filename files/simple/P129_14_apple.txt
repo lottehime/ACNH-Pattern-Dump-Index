@@ -1,0 +1,4 @@
+SimplePattern
+apple
+Moogie
+SimplePattern, apple, fruit, sign, 

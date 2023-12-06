@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: nyancat1transparen
-Creator: Lavender
-Tags: cat, meme, nyancat, rainbow, transparent, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: theSheikahSymbole
-Creator: Twilightkorroksorcer
-Tags: 

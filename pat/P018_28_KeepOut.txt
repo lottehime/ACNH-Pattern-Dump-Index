@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: KeepOut
-Creator: Doe
-Tags: authorized, danger, keepout, sign, warning, 

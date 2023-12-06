@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: StormHoodie
-Creator: Miray
-Tags: hoodie, storm, stormhoodie, 

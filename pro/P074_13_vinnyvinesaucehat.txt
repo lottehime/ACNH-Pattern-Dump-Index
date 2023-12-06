@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: vinnyvinesaucehat
-Creator: meyling
-Tags: brimmedcap, hat, vinesauce, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: buriburi
-Creator: VaporLee
-Tags: 

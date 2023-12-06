@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodPanel
-Creator: Ant1m1nd
-Tags: cabinet, door, panel, wall, wood, 

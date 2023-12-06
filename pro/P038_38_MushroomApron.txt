@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: MushroomApron
-Creator: Aileen
-Tags: apron, cute, dress, fall, forestcore, 

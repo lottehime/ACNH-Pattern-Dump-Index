@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: starweeds
-Creator: marie
-Tags: decor, green, ground, weeds, 

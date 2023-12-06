@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: chocostrawberry
-Creator: faeze
-Tags: cake, chocoloate, hat, strawberry, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Residentarea
-Creator: Greenie
-Tags: animal, resident, villager, 

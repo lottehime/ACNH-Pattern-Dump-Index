@@ -1,4 +1,0 @@
-Type:Pullover
-Name: CozyScarfCoat
-Creator: rei
-Tags: 

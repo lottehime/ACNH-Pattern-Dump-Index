@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: xiaogou
-Creator: xiaogou
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+CrosswalkHor
+DiscordServer
+SimplePattern, crosswalk, japanese, roads, 

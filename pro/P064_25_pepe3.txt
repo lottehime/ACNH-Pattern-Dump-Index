@@ -1,4 +1,0 @@
-Type:TShirt
-Name: pepe3
-Creator: Wes
-Tags: 

@@ -1,4 +1,0 @@
-Type:Coat
-Name: venti
-Creator: 
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+StonesDiagonal1
+Unknown
+SimplePattern, 

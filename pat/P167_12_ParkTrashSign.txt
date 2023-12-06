@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ParkTrashSign
-Creator: Fasil
-Tags: 838178418697, 

@@ -1,0 +1,4 @@
+SimplePattern
+PotterySign
+Boshi
+SimplePattern, 867418950346, pottery, sign, 

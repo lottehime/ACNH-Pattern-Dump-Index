@@ -1,4 +1,0 @@
-Type:Standee
-Name: bakerywindow
-Creator: julia
-Tags: bakery, standee, window, 

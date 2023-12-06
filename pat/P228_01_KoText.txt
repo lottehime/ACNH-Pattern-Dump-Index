@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: KoText
-Creator: DiscordServer
-Tags: japanese, roads, text, 

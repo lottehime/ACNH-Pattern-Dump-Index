@@ -1,0 +1,4 @@
+SimplePattern
+gameboy
+DiscordServer
+SimplePattern, console, gameboy, gaming, handheld, nintendo, 

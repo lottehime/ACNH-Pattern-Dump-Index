@@ -1,0 +1,4 @@
+SimplePattern
+WaterEdgeN
+Boshi
+SimplePattern, 973568153749, overlay, path, water, 

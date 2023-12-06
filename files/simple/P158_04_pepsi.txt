@@ -1,0 +1,4 @@
+SimplePattern
+pepsi
+Harzeckiam
+SimplePattern, pepsi, soda, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: coladera5
-Creator: EdicionGamerYT
-Tags: 

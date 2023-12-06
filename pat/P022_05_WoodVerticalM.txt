@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodVerticalM
-Creator: Samie323
-Tags: 

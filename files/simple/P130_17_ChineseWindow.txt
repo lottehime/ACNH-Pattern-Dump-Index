@@ -1,0 +1,4 @@
+SimplePattern
+ChineseWindow
+Koid
+SimplePattern, 

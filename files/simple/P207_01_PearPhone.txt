@@ -1,0 +1,4 @@
+SimplePattern
+PearPhone
+Boshi
+SimplePattern, case, fruit, green, pear, phone, 

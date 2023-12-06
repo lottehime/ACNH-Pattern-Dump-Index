@@ -1,0 +1,4 @@
+SimplePattern
+ActualAirTribe2
+serialfriend
+SimplePattern, atla, flag, sign, 

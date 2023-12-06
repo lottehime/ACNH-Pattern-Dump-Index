@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Calle4
-Creator: EdicionGamerYT
-Tags: 

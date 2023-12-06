@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: ChampionHat
-Creator: Jonny
-Tags: 

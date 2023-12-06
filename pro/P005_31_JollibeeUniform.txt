@@ -1,4 +1,0 @@
-Type:TShirt
-Name: JollibeeUniform
-Creator: EndangeredIguana
-Tags: fastfood, jollibee, uniform, 

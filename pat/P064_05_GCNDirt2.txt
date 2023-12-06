@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GCNDirt2
-Creator: angel
-Tags: gcn, legacy, retro, 

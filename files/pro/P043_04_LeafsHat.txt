@@ -1,0 +1,4 @@
+BrimmedHat
+LeafsHat
+Moogie
+BrimmedHat, hat, leaf, pokemon, 

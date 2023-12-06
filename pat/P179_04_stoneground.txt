@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stoneground
-Creator: Wes
-Tags: floor, ground, rock, stone, 

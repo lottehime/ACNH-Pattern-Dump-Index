@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: mintcupcake
-Creator: Lavender
-Tags: cute, doll, egl, lace, pastel, 

@@ -1,0 +1,4 @@
+SimplePattern
+DesignPat
+DiscordServer
+SimplePattern, 

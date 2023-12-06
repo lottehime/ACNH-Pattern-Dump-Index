@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ChibiPikachu
-Creator: Axel
-Tags: anime, chibi, pikachu, pokemon, yellow, 

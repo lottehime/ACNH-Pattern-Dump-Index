@@ -1,0 +1,4 @@
+SimplePattern
+botanicalwatermelon
+Boshi
+SimplePattern, 515002428566, fruit, watermelon, 

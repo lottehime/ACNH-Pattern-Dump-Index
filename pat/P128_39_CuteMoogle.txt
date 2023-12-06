@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CuteMoogle
-Creator: Moogie
-Tags: cute, finalfantasy, flag, moogle, sign, 

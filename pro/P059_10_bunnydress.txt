@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: bunnydress
-Creator: astrix
-Tags: bunny, cute, dress, girl, 

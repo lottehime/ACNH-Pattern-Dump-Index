@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: HeartTeddyDress
-Creator: rei
-Tags: 

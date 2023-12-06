@@ -1,4 +1,0 @@
-Type:Robe
-Name: Witchhakama
-Creator: Greenie
-Tags: hakama, 

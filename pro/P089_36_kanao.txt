@@ -1,4 +1,0 @@
-Type:Coat
-Name: kanao
-Creator: DiscordServer
-Tags: cosplay, demonslayer, kanao, outfit, 

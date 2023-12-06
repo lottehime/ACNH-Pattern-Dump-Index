@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: pinkdress
-Creator: rei
-Tags: 

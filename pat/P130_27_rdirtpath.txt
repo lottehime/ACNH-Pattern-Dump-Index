@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rdirtpath
-Creator: Alan
-Tags: 

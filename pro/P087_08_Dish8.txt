@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: Dish8
-Creator: Boshi
-Tags: 505298924135, dishes, 

@@ -1,0 +1,4 @@
+BrimmedHat
+RedBlackHat
+Moogie
+BrimmedHat, black, hat, red, 

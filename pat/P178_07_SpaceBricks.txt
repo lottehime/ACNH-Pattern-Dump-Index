@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SpaceBricks
-Creator: Boshi
-Tags: 665236363866, 

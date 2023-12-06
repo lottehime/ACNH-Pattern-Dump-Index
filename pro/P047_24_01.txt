@@ -1,4 +1,0 @@
-Type:Robe
-Name: 01
-Creator: flyingfish
-Tags: 

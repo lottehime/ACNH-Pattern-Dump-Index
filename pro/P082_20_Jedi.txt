@@ -1,4 +1,0 @@
-Type:Robe
-Name: Jedi
-Creator: Boshi
-Tags: 667931515180, starwars, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ActualAirTribe2
-Creator: serialfriend
-Tags: atla, flag, sign, 

@@ -1,4 +1,0 @@
-Type:SleevelessDress
-Name: DawnsDress
-Creator: Moogie
-Tags: dawn, dress, pokemon, 

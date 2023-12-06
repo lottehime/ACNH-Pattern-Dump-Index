@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: leaf
-Creator: Berdine
-Tags: 

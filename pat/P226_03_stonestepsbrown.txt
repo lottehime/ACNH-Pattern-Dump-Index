@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stonestepsbrown
-Creator: meyling
-Tags: path, stairs, steps, stone, 

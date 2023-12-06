@@ -1,0 +1,4 @@
+SimplePattern
+streetlinehorz
+dingleberry
+SimplePattern, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Sack
-Creator: Ant1m1nd
-Tags: fabric, garden, pillow, shop, store, 

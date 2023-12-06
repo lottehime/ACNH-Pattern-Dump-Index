@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: antiquestall
-Creator: meyling
-Tags: lace, stall, 

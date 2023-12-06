@@ -1,0 +1,4 @@
+SimplePattern
+birdies
+mmanic
+SimplePattern, animals, birds, 

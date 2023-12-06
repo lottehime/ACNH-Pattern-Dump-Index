@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: mickey
-Creator: Nostril
-Tags: 

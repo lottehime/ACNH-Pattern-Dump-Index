@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BeeWarningSign
-Creator: LemonCat
-Tags: bee, lemoncat, sign, warning, wasp, 

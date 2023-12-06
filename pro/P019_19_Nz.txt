@@ -1,4 +1,0 @@
-Type:Coat
-Name: Nz
-Creator: 0
-Tags: 

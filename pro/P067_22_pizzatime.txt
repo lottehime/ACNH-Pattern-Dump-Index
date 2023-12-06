@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: pizzatime
-Creator: Boshi
-Tags: 343957249296, 

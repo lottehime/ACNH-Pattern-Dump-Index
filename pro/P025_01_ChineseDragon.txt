@@ -1,4 +1,0 @@
-Type:Pullover
-Name: ChineseDragon
-Creator: renfilth
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Chief
-Creator: L3O
-Tags: 

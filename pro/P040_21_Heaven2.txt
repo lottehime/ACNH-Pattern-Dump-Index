@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Heaven2
-Creator: pickle
-Tags: 

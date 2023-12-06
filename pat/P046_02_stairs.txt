@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stairs
-Creator: Berdine
-Tags: 

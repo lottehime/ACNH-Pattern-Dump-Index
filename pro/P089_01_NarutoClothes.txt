@@ -1,4 +1,0 @@
-Type:LongSleeveShirt3DS
-Name: NarutoClothes
-Creator: Ali
-Tags: naruto, 

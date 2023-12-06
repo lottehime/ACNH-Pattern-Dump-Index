@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BagofBells
-Creator: LemonCat
-Tags: bells, lemoncat, sign, transparent, 

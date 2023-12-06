@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: WildernessCap
-Creator: Boshi
-Tags: 677403547205, 

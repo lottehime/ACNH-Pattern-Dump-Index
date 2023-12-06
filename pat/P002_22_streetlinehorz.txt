@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: streetlinehorz
-Creator: dingleberry
-Tags: 

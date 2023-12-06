@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: harleyquinn
-Creator: Moogie
-Tags: dress, harley, quinn, 

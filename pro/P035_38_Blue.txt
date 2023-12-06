@@ -1,4 +1,0 @@
-Type:Coat
-Name: Blue
-Creator: 1
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Pinkmuseumsign
-Creator: CadyEmber
-Tags: museum, pink, sign, 

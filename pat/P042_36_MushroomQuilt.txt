@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MushroomQuilt
-Creator: Andersenn
-Tags: autumn, mushroom, quilt, 

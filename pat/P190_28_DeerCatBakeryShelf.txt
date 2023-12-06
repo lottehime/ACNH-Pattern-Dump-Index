@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DeerCatBakeryShelf
-Creator: Greenie
-Tags: bakery, panel, shelf, 

@@ -1,0 +1,4 @@
+SimplePattern
+cat
+cat
+SimplePattern, 

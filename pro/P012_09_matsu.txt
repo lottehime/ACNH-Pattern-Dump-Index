@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: matsu
-Creator: sad
-Tags: matsu, 

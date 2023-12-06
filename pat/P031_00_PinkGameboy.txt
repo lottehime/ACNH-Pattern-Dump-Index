@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PinkGameboy
-Creator: CopyCat
-Tags: nookphone, phone, pink, 

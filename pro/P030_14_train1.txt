@@ -1,4 +1,0 @@
-Type:Standee
-Name: train1
-Creator: 1
-Tags: 

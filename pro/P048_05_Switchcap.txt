@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: Switchcap
-Creator: AdamAnimates
-Tags: 

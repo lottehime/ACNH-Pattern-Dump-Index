@@ -1,0 +1,4 @@
+SimplePattern
+alfombraderecha
+Nostril
+SimplePattern, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Stonestep
-Creator: 1
-Tags: 

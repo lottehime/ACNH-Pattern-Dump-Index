@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: uki
-Creator: Nuki
-Tags: 

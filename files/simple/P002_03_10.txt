@@ -1,0 +1,4 @@
+SimplePattern
+10
+huadu
+SimplePattern, 

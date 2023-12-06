@@ -1,4 +1,0 @@
-Type:TShirt
-Name: Empty
-Creator: test
-Tags: 

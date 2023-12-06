@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodcrate
-Creator: meyling
-Tags: wood, 

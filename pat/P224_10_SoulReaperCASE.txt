@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SoulReaperCASE
-Creator: Miray
-Tags: case, nookphone, phone, soulreaper, 

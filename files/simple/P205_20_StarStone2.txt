@@ -1,0 +1,4 @@
+SimplePattern
+StarStone2
+Boshi
+SimplePattern, 834282251306, path, star, 

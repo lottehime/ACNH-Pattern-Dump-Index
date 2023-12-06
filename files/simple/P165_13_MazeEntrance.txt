@@ -1,0 +1,4 @@
+SimplePattern
+MazeEntrance
+Fasil
+SimplePattern, 447117200257, 

@@ -1,0 +1,4 @@
+SimplePattern
+MoonStone9
+Boshi
+SimplePattern, 834282251306, moon, path, stone, 

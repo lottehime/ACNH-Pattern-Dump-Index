@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RicePaddyM
-Creator: Strike
-Tags: m, field, paddy, path, rice, 

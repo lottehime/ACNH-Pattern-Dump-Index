@@ -1,0 +1,4 @@
+SimplePattern
+leaves
+Casey
+SimplePattern, green, leaf, leaves, nature, 

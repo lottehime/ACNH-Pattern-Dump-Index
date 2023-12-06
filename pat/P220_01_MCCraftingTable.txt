@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MCCraftingTable
-Creator: meyling
-Tags: minecraft, 

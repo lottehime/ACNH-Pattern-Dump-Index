@@ -1,4 +1,0 @@
-Type:Standee
-Name: ChineseWindow
-Creator: Berdine
-Tags: 

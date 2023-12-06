@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: japanwindow
-Creator: Peaches
-Tags: japan, japanese, panel, window, 

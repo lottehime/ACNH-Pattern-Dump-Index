@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: movie
-Creator: A
-Tags: 

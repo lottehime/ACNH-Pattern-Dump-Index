@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: Klonoahat
-Creator: Klonoa
-Tags: klonoa, 

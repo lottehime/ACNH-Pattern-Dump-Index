@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bricksnowside
-Creator: kuroneko
-Tags: brick, side, snow, 

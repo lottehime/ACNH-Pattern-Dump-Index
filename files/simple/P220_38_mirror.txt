@@ -1,0 +1,4 @@
+SimplePattern
+mirror
+meyling
+SimplePattern, mirror, walldecor, 

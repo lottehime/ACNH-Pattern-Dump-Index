@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: xiaoyuan
-Creator: xiaogou
-Tags: xiaogou, 

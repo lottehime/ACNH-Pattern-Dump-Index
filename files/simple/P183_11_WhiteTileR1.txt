@@ -1,0 +1,4 @@
+SimplePattern
+WhiteTileR1
+Boshi
+SimplePattern, 

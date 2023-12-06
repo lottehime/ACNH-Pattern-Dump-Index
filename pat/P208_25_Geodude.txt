@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Geodude
-Creator: Flameye
-Tags: pokemon, 

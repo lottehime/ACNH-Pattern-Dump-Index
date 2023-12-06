@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Zoro
-Creator: Ali
-Tags: onepiece, zoro, 

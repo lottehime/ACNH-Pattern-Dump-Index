@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Videogame
-Creator: Greenie
-Tags: game, plushie, shelves, 

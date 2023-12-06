@@ -1,0 +1,4 @@
+BrimmedHat
+SkullHat
+Moogie
+BrimmedHat, hat, skull, 

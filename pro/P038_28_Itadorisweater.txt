@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: Itadorisweater
-Creator: BrokenTed
-Tags: 

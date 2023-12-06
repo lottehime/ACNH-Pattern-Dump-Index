@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Muffy
-Creator: Wicchan
-Tags: 

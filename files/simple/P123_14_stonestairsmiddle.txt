@@ -1,0 +1,4 @@
+SimplePattern
+stonestairsmiddle
+julia
+SimplePattern, bridge, natural, stairs, stone, 

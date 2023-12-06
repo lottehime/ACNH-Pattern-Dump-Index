@@ -1,4 +1,0 @@
-Type:Fan
-Name: Shibe
-Creator: flyingfish
-Tags: 

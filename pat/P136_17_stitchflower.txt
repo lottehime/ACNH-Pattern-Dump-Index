@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stitchflower
-Creator: Ann
-Tags: 

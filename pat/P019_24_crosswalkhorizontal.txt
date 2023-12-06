@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: crosswalkhorizontal
-Creator: Samie323
-Tags: 

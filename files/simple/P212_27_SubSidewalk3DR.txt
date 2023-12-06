@@ -1,0 +1,4 @@
+SimplePattern
+SubSidewalk3DR
+CrispyPeanut
+SimplePattern, clean, path, suburb, 

@@ -1,0 +1,4 @@
+SimplePattern
+BIBAN3
+QR
+SimplePattern, 

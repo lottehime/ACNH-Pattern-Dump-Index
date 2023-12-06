@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: rosalina
-Creator: Elouise
-Tags: rosalina, smg, smg2, 

@@ -1,0 +1,4 @@
+SimplePattern
+sealingcircle
+Boshi
+SimplePattern, 771091970583, circle, summon, 

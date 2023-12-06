@@ -1,0 +1,4 @@
+SimplePattern
+Peach
+BMT
+SimplePattern, fruit, peach, 

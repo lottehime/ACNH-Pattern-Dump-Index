@@ -1,4 +1,0 @@
-Type:Pullover
-Name: maoyi
-Creator: Suvi
-Tags: 

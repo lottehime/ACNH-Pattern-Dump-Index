@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: BreadbowlChowder
-Creator: Boshi
-Tags: 760569002788, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: KoreanPavement1
-Creator: Boshi
-Tags: 276550921536, 

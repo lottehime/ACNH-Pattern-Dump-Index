@@ -1,0 +1,4 @@
+SimplePattern
+circularstone2
+Boshi
+SimplePattern, 511696445826, circular, stone, 

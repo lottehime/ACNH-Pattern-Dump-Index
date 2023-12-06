@@ -1,0 +1,4 @@
+SimplePattern
+PawDiagonal
+froggylad
+SimplePattern, 

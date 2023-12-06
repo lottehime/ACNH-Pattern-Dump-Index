@@ -1,0 +1,4 @@
+SimplePattern
+Tipsy
+Hellen
+SimplePattern, cat, chubby, cute, orangecat, tabby, 

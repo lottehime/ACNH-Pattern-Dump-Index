@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: piers
-Creator: angel
-Tags: pokemon, shield, sword, swsh, 

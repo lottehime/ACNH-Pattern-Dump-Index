@@ -1,0 +1,4 @@
+SimplePattern
+bang
+Greenie
+SimplePattern, bang, facepaint, hair, pattern, pink, 

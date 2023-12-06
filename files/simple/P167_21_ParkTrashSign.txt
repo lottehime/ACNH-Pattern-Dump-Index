@@ -1,0 +1,4 @@
+SimplePattern
+ParkTrashSign
+Fasil
+SimplePattern, 838178418697, 

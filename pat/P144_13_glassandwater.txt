@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: glassandwater
-Creator: faeze
-Tags: floor, glass, water, 

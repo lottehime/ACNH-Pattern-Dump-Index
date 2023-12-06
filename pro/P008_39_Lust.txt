@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Lust
-Creator: M
-Tags: 

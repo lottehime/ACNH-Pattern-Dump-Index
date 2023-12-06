@@ -1,0 +1,4 @@
+SimplePattern
+burberry
+Moogie
+SimplePattern, brand, burberry, pattern, 

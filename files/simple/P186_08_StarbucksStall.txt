@@ -1,0 +1,4 @@
+SimplePattern
+StarbucksStall
+Willuks
+SimplePattern, coffee, design, green, stall, starbucks, 

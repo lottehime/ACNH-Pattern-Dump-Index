@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: scarTanjiro
-Creator: Faaaast
-Tags: 

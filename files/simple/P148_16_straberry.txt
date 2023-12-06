@@ -1,0 +1,4 @@
+SimplePattern
+straberry
+Sakura
+SimplePattern, fruit, 

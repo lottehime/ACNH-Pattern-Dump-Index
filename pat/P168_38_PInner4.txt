@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PInner4
-Creator: Fasil
-Tags: 910363490656, 

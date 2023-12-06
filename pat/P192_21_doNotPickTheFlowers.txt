@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: doNotPickTheFlowers
-Creator: LemonCat
-Tags: flower, lemoncat, negative, pick, sign, 

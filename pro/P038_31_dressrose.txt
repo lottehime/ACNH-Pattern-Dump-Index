@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: dressrose
-Creator: kosh
-Tags: 

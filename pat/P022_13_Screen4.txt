@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Screen4
-Creator: Samie323
-Tags: 

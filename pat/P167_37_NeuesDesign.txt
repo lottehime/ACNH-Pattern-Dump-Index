@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: NeuesDesign
-Creator: Fasil
-Tags: 921748871370, 

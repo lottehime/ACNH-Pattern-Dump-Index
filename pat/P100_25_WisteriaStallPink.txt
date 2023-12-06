@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WisteriaStallPink
-Creator: dingleberry
-Tags: 

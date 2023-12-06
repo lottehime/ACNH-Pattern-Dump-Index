@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: OKMotorsMerch
-Creator: Fasil
-Tags: 717937482590, 

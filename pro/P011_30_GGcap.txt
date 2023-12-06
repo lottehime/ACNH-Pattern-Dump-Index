@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: GGcap
-Creator: M
-Tags: 

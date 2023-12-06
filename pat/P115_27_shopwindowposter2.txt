@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: shopwindowposter2
-Creator: flay
-Tags: 

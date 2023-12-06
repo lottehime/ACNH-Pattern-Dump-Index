@@ -1,0 +1,4 @@
+SimplePattern
+PinkPath
+Boshi
+SimplePattern, 057337537016, path, pink, 

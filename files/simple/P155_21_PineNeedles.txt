@@ -1,0 +1,4 @@
+SimplePattern
+PineNeedles
+Ant1m1nd
+SimplePattern, dirt, garden, landscaping, mulch, tree, 

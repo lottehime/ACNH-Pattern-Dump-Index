@@ -1,4 +1,0 @@
-Type:Coat
-Name: Gryffindor
-Creator: nana
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+2
+Boshi
+SimplePattern, blue, case, night, phone, sky, 

@@ -1,0 +1,4 @@
+SimplePattern
+cobblestone
+froggyylad
+SimplePattern, path, stone, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Townflag
-Creator: EdicionGamerYT
-Tags: 

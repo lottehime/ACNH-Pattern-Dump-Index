@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Gardensandwhite
-Creator: ADA
-Tags: 

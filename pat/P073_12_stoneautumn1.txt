@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stoneautumn1
-Creator: lee
-Tags: 

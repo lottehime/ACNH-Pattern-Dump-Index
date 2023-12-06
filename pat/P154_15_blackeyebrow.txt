@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: blackeyebrow
-Creator: Mlissa
-Tags: 

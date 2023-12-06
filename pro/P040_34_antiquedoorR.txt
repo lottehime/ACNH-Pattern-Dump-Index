@@ -1,4 +1,0 @@
-Type:Standee
-Name: antiquedoorR
-Creator: flay
-Tags: 

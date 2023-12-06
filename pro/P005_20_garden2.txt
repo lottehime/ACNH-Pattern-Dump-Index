@@ -1,4 +1,0 @@
-Type:Standee
-Name: garden2
-Creator: Kai
-Tags: 

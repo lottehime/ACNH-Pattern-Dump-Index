@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 1
-Creator: Dern
-Tags: 

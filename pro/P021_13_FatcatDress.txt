@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: FatcatDress
-Creator: Berdine
-Tags: 

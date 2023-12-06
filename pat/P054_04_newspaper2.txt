@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: newspaper2
-Creator: atumorimori23
-Tags: floor, floordesign, newspaper, 

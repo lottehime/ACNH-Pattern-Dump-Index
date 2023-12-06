@@ -1,4 +1,0 @@
-Type:LongSleeveShirt3DS
-Name: Winterjacket
-Creator: Mae
-Tags: 

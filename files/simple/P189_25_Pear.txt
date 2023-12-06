@@ -1,0 +1,4 @@
+SimplePattern
+Pear
+Skandu
+SimplePattern, sign, 

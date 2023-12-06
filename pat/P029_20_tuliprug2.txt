@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tuliprug2
-Creator: ling
-Tags: 

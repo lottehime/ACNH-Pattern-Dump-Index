@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ll
-Creator: aaaa
-Tags: 

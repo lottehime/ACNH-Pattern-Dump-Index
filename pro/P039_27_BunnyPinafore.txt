@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: BunnyPinafore
-Creator: Liv
-Tags: bunny, hearts, pinafore, striped, 

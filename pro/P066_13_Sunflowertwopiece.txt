@@ -1,4 +1,0 @@
-Type:Coat
-Name: Sunflowertwopiece
-Creator: Greenie
-Tags: 

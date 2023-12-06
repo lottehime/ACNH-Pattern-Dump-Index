@@ -1,4 +1,0 @@
-Type:TShirt
-Name: DaftPunk
-Creator: MK
-Tags: 

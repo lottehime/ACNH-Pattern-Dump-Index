@@ -1,4 +1,0 @@
-Type:Standee
-Name: redwindow
-Creator: julia
-Tags: red, standee, window, 

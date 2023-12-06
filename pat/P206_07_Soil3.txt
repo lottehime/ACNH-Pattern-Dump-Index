@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Soil3
-Creator: Boshi
-Tags: 887784836699, crop, dirt, farm, soil, 

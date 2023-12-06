@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: strawberrydress
-Creator: mikue
-Tags: cute, pink, 

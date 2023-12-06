@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: graypooltile
-Creator: Moogie
-Tags: path, pool, tile, 

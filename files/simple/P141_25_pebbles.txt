@@ -1,0 +1,4 @@
+SimplePattern
+pebbles
+flyingfish
+SimplePattern, path, pebbles, stone, 

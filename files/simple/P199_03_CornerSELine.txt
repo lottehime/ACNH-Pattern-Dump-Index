@@ -1,0 +1,4 @@
+SimplePattern
+CornerSELine
+Boshi
+SimplePattern, 581508049726, border, stone, 

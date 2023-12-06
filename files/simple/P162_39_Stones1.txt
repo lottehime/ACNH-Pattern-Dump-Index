@@ -1,0 +1,4 @@
+SimplePattern
+Stones1
+Fasil
+SimplePattern, 

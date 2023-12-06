@@ -1,0 +1,4 @@
+SimplePattern
+Picknick2
+Cin
+SimplePattern, picknick, rug, 

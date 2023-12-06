@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: chesstile
-Creator: kuroneko
-Tags: black, chess, marble, white, wonderland, 

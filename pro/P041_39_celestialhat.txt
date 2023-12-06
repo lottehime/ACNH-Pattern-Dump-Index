@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: celestialhat
-Creator: Moogie
-Tags: celestial, hat, moon, star, 

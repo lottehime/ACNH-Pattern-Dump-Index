@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 3png1x1
-Creator: 
-Tags: 

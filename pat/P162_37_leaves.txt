@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: leaves
-Creator: Casey
-Tags: green, leaf, leaves, nature, 

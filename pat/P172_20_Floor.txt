@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Floor
-Creator: Boshi
-Tags: 354880274702, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Patronpourmotif
-Creator: kibi
-Tags: kibilonde, 

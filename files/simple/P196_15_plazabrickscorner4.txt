@@ -1,0 +1,4 @@
+SimplePattern
+plazabrickscorner4
+Boshi
+SimplePattern, 483339093486, brick, brown, residential, 

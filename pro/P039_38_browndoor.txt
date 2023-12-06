@@ -1,4 +1,0 @@
-Type:Standee
-Name: browndoor
-Creator: julia
-Tags: brown, door, standee, 

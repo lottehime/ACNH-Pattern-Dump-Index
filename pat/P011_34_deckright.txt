@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: deckright
-Creator: M
-Tags: 

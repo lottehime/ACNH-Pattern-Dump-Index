@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: hopscotch1
-Creator: meyling
-Tags: decor, floordecor, 

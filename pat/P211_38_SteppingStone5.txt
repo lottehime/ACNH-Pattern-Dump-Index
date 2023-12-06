@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SteppingStone5
-Creator: Boshi
-Tags: 108829519808, path, stone, 

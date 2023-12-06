@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ThePathleft
-Creator: M
-Tags: 

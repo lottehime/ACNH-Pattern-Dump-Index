@@ -1,0 +1,4 @@
+BrimmedHat
+TripleMoonHat
+Moogie
+BrimmedHat, hat, moon, triple, 

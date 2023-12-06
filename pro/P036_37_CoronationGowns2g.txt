@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: CoronationGowns2g
-Creator: Lisbelle
-Tags: 

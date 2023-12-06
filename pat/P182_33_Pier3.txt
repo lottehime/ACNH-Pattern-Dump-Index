@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Pier3
-Creator: Boshi
-Tags: 482221206165, 

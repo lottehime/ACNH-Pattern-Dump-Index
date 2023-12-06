@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: PinkFlowerDress
-Creator: TheNessaGamer
-Tags: dress, flower, pink, thenessagame, 

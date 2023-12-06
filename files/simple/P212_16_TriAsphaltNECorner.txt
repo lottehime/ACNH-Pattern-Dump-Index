@@ -1,0 +1,4 @@
+SimplePattern
+TriAsphaltNECorner
+Kyek
+SimplePattern, path, road, street, urban, 

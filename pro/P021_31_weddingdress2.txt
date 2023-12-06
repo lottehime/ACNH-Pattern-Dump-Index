@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: weddingdress2
-Creator: Berdine
-Tags: 

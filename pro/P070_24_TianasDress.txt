@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: TianasDress
-Creator: Boshi
-Tags: 198815046607, 

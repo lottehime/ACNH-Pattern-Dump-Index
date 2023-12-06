@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Psy3
-Creator: Vaddaorca
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Door
-Creator: Koid
-Tags: 

@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: EtudesBlackCap
-Creator: Norbert
-Tags: 

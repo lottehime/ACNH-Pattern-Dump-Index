@@ -1,4 +1,0 @@
-Type:Standee
-Name: greenhouseglass
-Creator: Berdine
-Tags: 

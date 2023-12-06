@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: cutedrss
-Creator: rat
-Tags: brown, cream, dress, green, 

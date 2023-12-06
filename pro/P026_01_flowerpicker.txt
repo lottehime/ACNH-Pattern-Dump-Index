@@ -1,4 +1,0 @@
-Type:Coat
-Name: flowerpicker
-Creator: reishiki
-Tags: 508542310700, 

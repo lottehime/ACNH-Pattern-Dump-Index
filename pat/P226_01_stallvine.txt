@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stallvine
-Creator: meyling
-Tags: stall, 

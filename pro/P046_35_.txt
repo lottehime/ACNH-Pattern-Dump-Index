@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: 
-Creator: flyingfish
-Tags: 

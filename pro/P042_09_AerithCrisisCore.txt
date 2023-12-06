@@ -1,4 +1,0 @@
-Type:SleevelessDress
-Name: AerithCrisisCore
-Creator: Moogie
-Tags: aerith, crisiscore, ff7, finalfantasy, 

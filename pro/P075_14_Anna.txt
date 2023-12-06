@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Anna
-Creator: ButterBuns
-Tags: 

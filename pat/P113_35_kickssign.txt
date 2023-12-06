@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: kickssign
-Creator: flay
-Tags: 

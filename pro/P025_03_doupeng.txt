@@ -1,4 +1,0 @@
-Type:Coat
-Name: doupeng
-Creator: Chenfeiren
-Tags: sky, 

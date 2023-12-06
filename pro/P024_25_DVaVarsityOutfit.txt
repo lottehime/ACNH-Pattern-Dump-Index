@@ -1,4 +1,0 @@
-Type:Coat
-Name: DVaVarsityOutfit
-Creator: rei
-Tags: 

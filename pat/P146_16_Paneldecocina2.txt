@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Paneldecocina2
-Creator: EdicionGamerYT
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Ocean2
-Creator: Boshi
-Tags: 216719877136, 

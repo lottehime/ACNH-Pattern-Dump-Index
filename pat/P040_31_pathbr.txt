@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pathbr
-Creator: georgia
-Tags: path, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Turnip
-Creator: BMT
-Tags: turnip, 

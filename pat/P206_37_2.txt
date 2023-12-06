@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 2
-Creator: Boshi
-Tags: blue, case, night, phone, sky, 

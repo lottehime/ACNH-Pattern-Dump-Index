@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: dirtpathTR
-Creator: Boshi
-Tags: 369549096477, 

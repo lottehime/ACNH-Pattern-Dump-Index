@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: railsr
-Creator: meyling
-Tags: rails, 

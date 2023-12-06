@@ -1,4 +1,0 @@
-Type:Standee
-Name: door
-Creator: 1
-Tags: 

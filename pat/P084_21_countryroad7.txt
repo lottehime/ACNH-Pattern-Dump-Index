@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: countryroad7
-Creator: rei
-Tags: 

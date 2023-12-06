@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Cinnamoroll
-Creator: xuanxuan
-Tags: 

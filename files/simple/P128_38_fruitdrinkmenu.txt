@@ -1,0 +1,4 @@
+SimplePattern
+fruitdrinkmenu
+Moogie
+SimplePattern, drink, fruit, menu, sign, 

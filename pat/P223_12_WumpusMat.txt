@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WumpusMat
-Creator: DISCORD
-Tags: discord, wumpus, 

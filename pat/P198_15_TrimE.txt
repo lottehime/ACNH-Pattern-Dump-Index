@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TrimE
-Creator: Boshi
-Tags: 581508049726, border, stone, 

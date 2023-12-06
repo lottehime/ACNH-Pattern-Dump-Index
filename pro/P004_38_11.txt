@@ -1,4 +1,0 @@
-Type:LongSleeveShirt3DS
-Name: 11
-Creator: 11
-Tags: 

@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: NookIncCapCoral
-Creator: Kasia
-Tags: accap, coralcap, nookinc, 

@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: aprondress
-Creator: tnaaa
-Tags: apron, aprondress, dress, 

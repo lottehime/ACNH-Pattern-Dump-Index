@@ -1,4 +1,0 @@
-Type:Coat
-Name: plaguedoctor
-Creator: kuroneko
-Tags: black, coat, doctor, 

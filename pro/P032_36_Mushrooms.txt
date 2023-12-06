@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Mushrooms
-Creator: TheNessaGamer
-Tags: mushrooms, thenessagame, 

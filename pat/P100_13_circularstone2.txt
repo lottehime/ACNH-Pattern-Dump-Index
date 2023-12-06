@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: circularstone2
-Creator: dingleberry
-Tags: 

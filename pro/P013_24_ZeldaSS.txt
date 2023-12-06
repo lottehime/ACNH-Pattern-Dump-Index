@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: ZeldaSS
-Creator: Moogie
-Tags: dress, loz, skyward, sword, zelda, 

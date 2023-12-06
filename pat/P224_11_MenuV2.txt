@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MenuV2
-Creator: Miray
-Tags: cafe, menu, 

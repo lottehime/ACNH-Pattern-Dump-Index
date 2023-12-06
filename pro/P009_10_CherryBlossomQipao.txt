@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: CherryBlossomQipao
-Creator: M
-Tags: 

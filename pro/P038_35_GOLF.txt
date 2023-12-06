@@ -1,4 +1,0 @@
-Type:TShirt
-Name: GOLF
-Creator: Ash
-Tags: 

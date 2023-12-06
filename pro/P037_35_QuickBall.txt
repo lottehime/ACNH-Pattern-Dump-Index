@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: QuickBall
-Creator: Akay
-Tags: pokeball, 

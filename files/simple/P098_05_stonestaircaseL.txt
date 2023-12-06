@@ -1,0 +1,4 @@
+SimplePattern
+stonestaircaseL
+flay
+SimplePattern, 

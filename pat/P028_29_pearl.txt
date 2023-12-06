@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pearl
-Creator: ling
-Tags: 

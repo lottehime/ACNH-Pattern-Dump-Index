@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FlowerStall
-Creator: Moogie
-Tags: flowers, stall, 

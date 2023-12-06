@@ -1,0 +1,4 @@
+SimplePattern
+stonetile
+kuroneko
+SimplePattern, stone, stonetile, tile, 

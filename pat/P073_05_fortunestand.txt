@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: fortunestand
-Creator: nyx
-Tags: dark, fortune, magic, mystic, stand, 

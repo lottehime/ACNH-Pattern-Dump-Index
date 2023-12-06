@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: ButterflyDress
-Creator: Boshi
-Tags: 642457046441, butterfly, dress, 

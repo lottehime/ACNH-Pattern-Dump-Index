@@ -1,0 +1,4 @@
+SimplePattern
+Carpet3
+Boshi
+SimplePattern, 945239325319, carpet, grey, rug, 

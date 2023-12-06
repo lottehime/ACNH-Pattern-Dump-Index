@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pear
-Creator: Moogie
-Tags: fruit, pear, sign, 

@@ -1,0 +1,4 @@
+SimplePattern
+StoneBorderLL
+Renmo
+SimplePattern, border, grey, stone, transparent, 

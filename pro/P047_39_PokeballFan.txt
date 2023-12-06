@@ -1,4 +1,0 @@
-Type:Fan
-Name: PokeballFan
-Creator: DoctorPokemon
-Tags: cinnabar, fan, pokeball, pokemon, 

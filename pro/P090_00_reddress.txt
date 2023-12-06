@@ -1,4 +1,0 @@
-Type:NoSleeveDress3DS
-Name: reddress
-Creator: DiscordServer
-Tags: dress, red, 

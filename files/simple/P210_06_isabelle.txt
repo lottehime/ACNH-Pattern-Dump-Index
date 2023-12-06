@@ -1,0 +1,4 @@
+SimplePattern
+isabelle
+Boshi
+SimplePattern, 548390934023, mat, residential, town, 

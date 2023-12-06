@@ -1,4 +1,0 @@
-Type:TShirt
-Name: 100TNumbersTR
-Creator: Boshi
-Tags: 680128232643, 

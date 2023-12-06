@@ -1,0 +1,4 @@
+SimplePattern
+Acornflag
+ling
+SimplePattern, 

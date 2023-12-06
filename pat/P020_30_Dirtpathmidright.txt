@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Dirtpathmidright
-Creator: eilla
-Tags: dirtpath, 

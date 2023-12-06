@@ -1,4 +1,0 @@
-Type:Coat
-Name: HuxGreatcoat
-Creator: Boshi
-Tags: 977915611674, starwars, 

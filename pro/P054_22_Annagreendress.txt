@@ -1,4 +1,0 @@
-Type:ShortSleeveDress3DS
-Name: Annagreendress
-Creator: Star
-Tags: frozen, 

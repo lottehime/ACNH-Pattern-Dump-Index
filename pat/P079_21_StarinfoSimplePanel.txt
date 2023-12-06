@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StarinfoSimplePanel
-Creator: Ghosty
-Tags: simplepanel, star, 

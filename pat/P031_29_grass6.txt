@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: grass6
-Creator: ling
-Tags: 

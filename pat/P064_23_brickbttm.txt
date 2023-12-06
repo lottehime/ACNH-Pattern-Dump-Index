@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: brickbttm
-Creator: angel
-Tags: brick, path, set, 

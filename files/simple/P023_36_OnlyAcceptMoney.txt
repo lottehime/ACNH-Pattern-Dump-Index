@@ -1,0 +1,4 @@
+SimplePattern
+OnlyAcceptMoney
+sofi
+SimplePattern, money, 

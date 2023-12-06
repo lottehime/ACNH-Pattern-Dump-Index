@@ -1,4 +1,0 @@
-Type:TShirt
-Name: vaporwaveshirt
-Creator: meyling
-Tags: shirt, 

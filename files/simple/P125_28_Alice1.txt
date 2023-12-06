@@ -1,0 +1,4 @@
+SimplePattern
+Alice1
+Hana
+SimplePattern, alice, anime, 

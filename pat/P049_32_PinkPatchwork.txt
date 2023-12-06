@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PinkPatchwork
-Creator: Becca
-Tags: custom, default, patchwork, pink, 

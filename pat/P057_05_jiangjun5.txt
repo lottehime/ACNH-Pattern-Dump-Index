@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: jiangjun5
-Creator: Chenfeiren
-Tags: 

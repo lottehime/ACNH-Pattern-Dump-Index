@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: EnjoyYourStaySign
-Creator: Fasil
-Tags: 447117200257, 

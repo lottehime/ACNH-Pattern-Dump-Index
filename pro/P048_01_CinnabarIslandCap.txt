@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: CinnabarIslandCap
-Creator: DoctorPokemon
-Tags: cap, cinnabar, hat, pokemon, 

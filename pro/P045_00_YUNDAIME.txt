@@ -1,4 +1,0 @@
-Type:Coat
-Name: YUNDAIME
-Creator: LiYiWu
-Tags: 

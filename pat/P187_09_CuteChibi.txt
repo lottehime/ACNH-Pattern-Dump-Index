@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CuteChibi
-Creator: Axel
-Tags: anime, chibi, cute, 

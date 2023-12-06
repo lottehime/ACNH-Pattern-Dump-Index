@@ -1,0 +1,4 @@
+SimplePattern
+DesignPattern
+ahfo
+SimplePattern, 042652198183, 

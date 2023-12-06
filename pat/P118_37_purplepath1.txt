@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: purplepath1
-Creator: pepito
-Tags: colorful, fairycore, flowers, path, 

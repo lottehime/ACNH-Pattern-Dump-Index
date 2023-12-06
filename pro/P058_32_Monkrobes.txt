@@ -1,4 +1,0 @@
-Type:Robe
-Name: Monkrobes
-Creator: 
-Tags: monk, robe, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: beachB
-Creator: ling
-Tags: 

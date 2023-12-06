@@ -1,0 +1,4 @@
+SimplePattern
+train
+Fasil
+SimplePattern, 921748871370, 

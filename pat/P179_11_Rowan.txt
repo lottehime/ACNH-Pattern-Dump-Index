@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Rowan
-Creator: L3O
-Tags: villager, 

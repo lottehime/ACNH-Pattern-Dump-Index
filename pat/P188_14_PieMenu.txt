@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PieMenu
-Creator: Boshi
-Tags: 233628829998, food, restaurant, 

@@ -1,0 +1,4 @@
+SimplePattern
+2
+W
+SimplePattern, 

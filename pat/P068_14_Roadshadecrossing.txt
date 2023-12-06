@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Roadshadecrossing
-Creator: CreaRick
-Tags: colin, crossing, missing, road, 

@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: HappyWolf
-Creator: Wijolt
-Tags: green, 

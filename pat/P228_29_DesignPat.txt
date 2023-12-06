@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DesignPat
-Creator: DiscordServer
-Tags: 

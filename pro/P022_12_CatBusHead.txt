@@ -1,4 +1,0 @@
-Type:Standee
-Name: CatBusHead
-Creator: Berdine
-Tags: 

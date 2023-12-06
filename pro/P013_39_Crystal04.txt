@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: Crystal04
-Creator: Moogie
-Tags: crystal, umbrella, 

@@ -1,0 +1,4 @@
+SimplePattern
+Bangs
+Doe
+SimplePattern, bangs, blush, face, split, stars, 

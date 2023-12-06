@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: 0
-Creator: huadu
-Tags: 

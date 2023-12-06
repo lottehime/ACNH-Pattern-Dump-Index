@@ -1,0 +1,4 @@
+SimplePattern
+brick
+Boshi
+SimplePattern, 884779398277, path, 

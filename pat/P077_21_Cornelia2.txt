@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Cornelia2
-Creator: ADA
-Tags: 

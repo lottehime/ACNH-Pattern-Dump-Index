@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stonetiles2
-Creator: beatriiix
-Tags: 

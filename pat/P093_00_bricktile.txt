@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bricktile
-Creator: kuroneko
-Tags: brick, cottagecore, medieval, tile, 

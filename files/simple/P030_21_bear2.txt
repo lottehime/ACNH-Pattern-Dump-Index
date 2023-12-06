@@ -1,0 +1,4 @@
+SimplePattern
+bear2
+ling
+SimplePattern, 

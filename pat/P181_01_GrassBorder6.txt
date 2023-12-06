@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GrassBorder6
-Creator: Boshi
-Tags: 

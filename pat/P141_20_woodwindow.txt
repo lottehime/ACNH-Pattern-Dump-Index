@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodwindow
-Creator: MA675044291565
-Tags: cottage, panel, wall, window, wooden, 

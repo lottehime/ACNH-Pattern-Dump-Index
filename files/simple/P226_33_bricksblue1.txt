@@ -1,0 +1,4 @@
+SimplePattern
+bricksblue1
+meyling
+SimplePattern, bricks, path, 

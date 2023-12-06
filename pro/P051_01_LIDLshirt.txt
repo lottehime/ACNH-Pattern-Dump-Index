@@ -1,4 +1,0 @@
-Type:TShirt
-Name: LIDLshirt
-Creator: Slvy
-Tags: lidl, 

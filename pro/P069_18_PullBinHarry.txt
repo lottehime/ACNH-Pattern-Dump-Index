@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: PullBinHarry
-Creator: Flay
-Tags: dutinfo, flo, 

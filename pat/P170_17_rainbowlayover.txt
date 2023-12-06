@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rainbowlayover
-Creator: Boshi
-Tags: 750508940096, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: note
-Creator: Aubrey
-Tags: 

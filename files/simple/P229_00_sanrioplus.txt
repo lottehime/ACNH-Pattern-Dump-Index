@@ -1,0 +1,4 @@
+SimplePattern
+sanrioplus
+DiscordServer
+SimplePattern, 

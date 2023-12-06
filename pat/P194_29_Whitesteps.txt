@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Whitesteps
-Creator: Greenie
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+Apple
+Amek
+SimplePattern, apple, fruit, sign, 

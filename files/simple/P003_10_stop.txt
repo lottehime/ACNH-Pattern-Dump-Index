@@ -1,0 +1,4 @@
+SimplePattern
+stop
+dingleberry
+SimplePattern, 

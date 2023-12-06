@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: irelia
-Creator: Greenie
-Tags: game, 

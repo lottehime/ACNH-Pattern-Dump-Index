@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: OldBottles
-Creator: Boshi
-Tags: 844849779907, bottles, shelf, 

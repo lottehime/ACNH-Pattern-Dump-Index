@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SkylinePhone
-Creator: Boshi
-Tags: case, night, phone, sky, 

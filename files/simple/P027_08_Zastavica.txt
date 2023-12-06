@@ -1,0 +1,4 @@
+SimplePattern
+Zastavica
+PigSheriff
+SimplePattern, flag, flower, purple, violet, 

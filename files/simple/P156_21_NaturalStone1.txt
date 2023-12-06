@@ -1,0 +1,4 @@
+SimplePattern
+NaturalStone1
+TuckFrump
+SimplePattern, cobble, path, stone, white, 

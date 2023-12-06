@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: whitepooltile
-Creator: Moogie
-Tags: path, pool, tile, 

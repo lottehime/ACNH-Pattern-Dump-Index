@@ -1,0 +1,4 @@
+SimplePattern
+NookPhone
+Boshi
+SimplePattern, case, phone, tomnook, 

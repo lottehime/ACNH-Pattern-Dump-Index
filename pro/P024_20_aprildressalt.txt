@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: aprildressalt
-Creator: rei
-Tags: 

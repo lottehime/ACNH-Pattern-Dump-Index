@@ -1,0 +1,4 @@
+SimplePattern
+welcomesign2
+PigSheriff
+SimplePattern, 

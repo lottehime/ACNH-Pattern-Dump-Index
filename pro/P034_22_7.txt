@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: 7
-Creator: 
-Tags: 

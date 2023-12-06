@@ -1,4 +1,0 @@
-Type:Coat
-Name: AutumnCoat
-Creator: Lev
-Tags: brown, coat, orange, original, yellow, 

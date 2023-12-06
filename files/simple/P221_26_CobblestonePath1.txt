@@ -1,0 +1,4 @@
+SimplePattern
+CobblestonePath1
+Boshi
+SimplePattern, cobblestone, path, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Oldgraybricks15
-Creator: Willuks
-Tags: bricks, gray, sidewalk, vintage, willuks, 

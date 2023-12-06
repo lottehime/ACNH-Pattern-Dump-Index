@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: candypathpurple
-Creator: Boshi
-Tags: 750508940096, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: hua
-Creator: huadu
-Tags: 

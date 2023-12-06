@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: curtainwindowdark
-Creator: MA719561127043
-Tags: cottage, curtain, wall, window, 

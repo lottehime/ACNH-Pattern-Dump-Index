@@ -1,0 +1,4 @@
+SimplePattern
+abcd
+abcd
+SimplePattern, 

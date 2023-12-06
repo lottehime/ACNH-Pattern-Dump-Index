@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Spring2
-Creator: TheNessaGamer
-Tags: spring2, thenessagame, 

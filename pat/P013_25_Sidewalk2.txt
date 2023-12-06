@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Sidewalk2
-Creator: M
-Tags: 

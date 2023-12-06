@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Barshelf
-Creator: 12
-Tags: shelf, 

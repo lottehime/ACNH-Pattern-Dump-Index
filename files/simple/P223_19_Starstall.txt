@@ -1,0 +1,4 @@
+SimplePattern
+Starstall
+Greenie
+SimplePattern, pattern, stall, star, 

@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: PinkRoseDress
-Creator: Lisbelle
-Tags: 

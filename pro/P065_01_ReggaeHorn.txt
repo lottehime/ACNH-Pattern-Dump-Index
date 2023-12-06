@@ -1,4 +1,0 @@
-Type:HornHat3DS
-Name: ReggaeHorn
-Creator: DungeonH321X
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Chelsea
-Creator: Loly
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BlueandWhiteStall
-Creator: Fasil
-Tags: 108829519808, 

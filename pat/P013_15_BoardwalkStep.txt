@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BoardwalkStep
-Creator: M
-Tags: 

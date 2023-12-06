@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: N64Hoodie
-Creator: Pie
-Tags: hoodie, n64, 

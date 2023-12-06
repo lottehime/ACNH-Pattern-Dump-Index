@@ -1,0 +1,4 @@
+SimplePattern
+MushroomFlag
+mimy
+SimplePattern, flag, mushroom, 

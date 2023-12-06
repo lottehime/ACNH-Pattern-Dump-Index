@@ -1,0 +1,4 @@
+SimplePattern
+AFKBar
+LemonCat
+SimplePattern, afk, lemoncat, sign, transparent, 

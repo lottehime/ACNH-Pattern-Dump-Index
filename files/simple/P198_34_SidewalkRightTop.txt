@@ -1,0 +1,4 @@
+SimplePattern
+SidewalkRightTop
+Boshi
+SimplePattern, 581508049726, brick, sidewalk, 

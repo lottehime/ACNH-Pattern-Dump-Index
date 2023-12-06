@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: dirtpathayu
-Creator: ayucreate
-Tags: 931516940614, 

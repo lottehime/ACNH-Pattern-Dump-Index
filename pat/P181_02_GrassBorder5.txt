@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GrassBorder5
-Creator: Boshi
-Tags: 256899144979, 

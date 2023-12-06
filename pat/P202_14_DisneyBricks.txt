@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DisneyBricks
-Creator: Boshi
-Tags: 069173422018, brick, brown, path, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: colorfultiles
-Creator: meyling
-Tags: path, tiles, 

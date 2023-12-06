@@ -1,4 +1,0 @@
-Type:Coat
-Name: dress
-Creator: yuanmumao
-Tags: 

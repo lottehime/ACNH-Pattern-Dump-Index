@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TerracotaLL
-Creator: Scarlet
-Tags: 

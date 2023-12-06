@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Picknick3
-Creator: Cin
-Tags: picknick, rug, 

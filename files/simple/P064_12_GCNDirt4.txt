@@ -1,0 +1,4 @@
+SimplePattern
+GCNDirt4
+angel
+SimplePattern, gcn, legacy, retro, 

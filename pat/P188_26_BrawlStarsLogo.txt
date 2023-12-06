@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BrawlStarsLogo
-Creator: Giuliastro
-Tags: brawlstars, logo, 

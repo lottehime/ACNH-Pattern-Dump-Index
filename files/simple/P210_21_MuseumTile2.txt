@@ -1,0 +1,4 @@
+SimplePattern
+MuseumTile2
+Boshi
+SimplePattern, 528907924383, museum, path, stone, 

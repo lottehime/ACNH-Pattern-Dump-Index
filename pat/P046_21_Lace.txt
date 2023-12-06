@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Lace
-Creator: Berdine
-Tags: 

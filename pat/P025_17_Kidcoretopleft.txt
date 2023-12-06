@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Kidcoretopleft
-Creator: ling
-Tags: 

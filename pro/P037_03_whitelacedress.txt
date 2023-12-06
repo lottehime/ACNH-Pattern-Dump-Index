@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: whitelacedress
-Creator: Lisbelle
-Tags: 

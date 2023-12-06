@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: simslogopc
-Creator: meyling
-Tags: computer, pcdecor, 

@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: doc11wsonic
-Creator: afg
-Tags: 

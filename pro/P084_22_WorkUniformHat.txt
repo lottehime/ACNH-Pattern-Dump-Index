@@ -1,4 +1,0 @@
-Type:HornHat3DS
-Name: WorkUniformHat
-Creator: Miray
-Tags: hat, horned, uniform, work, workuniform, 

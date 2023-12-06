@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: merengue
-Creator: meyling
-Tags: villager, 

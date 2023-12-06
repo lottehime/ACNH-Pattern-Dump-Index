@@ -1,4 +1,0 @@
-Type:Robe
-Name: Iroh
-Creator: serialfriend
-Tags: atla, 

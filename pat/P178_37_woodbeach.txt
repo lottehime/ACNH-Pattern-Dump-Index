@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodbeach
-Creator: Meeko
-Tags: beach, wood, 

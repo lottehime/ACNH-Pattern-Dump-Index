@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Flowerdirtpath6
-Creator: Lisbelle
-Tags: 

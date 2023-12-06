@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: xiaogou
-Creator: xiaogou
-Tags: 

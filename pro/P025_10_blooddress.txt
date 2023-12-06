@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: blooddress
-Creator: reishiki
-Tags: 

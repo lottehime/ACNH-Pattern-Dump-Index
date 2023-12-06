@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: KirbysAdventure
-Creator: Arctco
-Tags: cute, hat, kirby, prodesign, 

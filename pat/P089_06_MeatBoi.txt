@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MeatBoi
-Creator: Xelion
-Tags: flag, monsterhunt, 

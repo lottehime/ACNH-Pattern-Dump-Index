@@ -1,0 +1,4 @@
+SimplePattern
+BrimNarrowM
+Boshi
+SimplePattern, 221212312939, font, letter, text, 

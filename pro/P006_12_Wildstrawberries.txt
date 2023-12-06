@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Wildstrawberries
-Creator: dingleberry
-Tags: 

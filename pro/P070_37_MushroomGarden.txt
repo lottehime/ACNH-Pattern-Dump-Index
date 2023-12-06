@@ -1,4 +1,0 @@
-Type:KnitCap
-Name: MushroomGarden
-Creator: FuegoBF
-Tags: decor, garden, mushroom, plant, shroom, 

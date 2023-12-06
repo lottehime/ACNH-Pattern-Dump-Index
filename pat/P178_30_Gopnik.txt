@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Gopnik
-Creator: Mizu
-Tags: gopnik, position, russian, vodka, 

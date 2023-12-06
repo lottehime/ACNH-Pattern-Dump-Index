@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Blossom3
-Creator: EdicionGamerYT
-Tags: 

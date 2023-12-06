@@ -1,0 +1,4 @@
+SimplePattern
+BrickInnerURLR
+Boshi
+SimplePattern, 701183139106, border, brick, terracotta, 

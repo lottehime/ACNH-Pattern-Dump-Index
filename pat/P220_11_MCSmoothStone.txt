@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MCSmoothStone
-Creator: meyling
-Tags: minecraft, 

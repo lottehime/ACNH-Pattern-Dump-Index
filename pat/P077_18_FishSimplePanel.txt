@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FishSimplePanel
-Creator: Ghosty
-Tags: fish, panel, simplepanel, 

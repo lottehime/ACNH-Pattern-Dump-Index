@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: cliff3L
-Creator: mmanic
-Tags: cliff, path, 

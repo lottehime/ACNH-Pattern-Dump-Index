@@ -1,0 +1,4 @@
+SimplePattern
+SidewalkLeftBottom
+Boshi
+SimplePattern, 581508049726, brick, path, sidewalk, 

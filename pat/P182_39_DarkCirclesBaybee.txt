@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DarkCirclesBaybee
-Creator: FuegoBF
-Tags: blistex, flag, lantern, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TomNook
-Creator: CopyCat
-Tags: communism, flag, tomnook, 

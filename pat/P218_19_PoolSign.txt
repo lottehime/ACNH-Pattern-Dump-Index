@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PoolSign
-Creator: Miray
-Tags: open, pool, sign, 

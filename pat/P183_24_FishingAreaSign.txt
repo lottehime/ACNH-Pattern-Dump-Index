@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FishingAreaSign
-Creator: Boshi
-Tags: 905016676578, 

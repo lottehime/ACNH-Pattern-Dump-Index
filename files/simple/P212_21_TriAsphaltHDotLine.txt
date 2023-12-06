@@ -1,0 +1,4 @@
+SimplePattern
+TriAsphaltHDotLine
+Kyek
+SimplePattern, path, road, street, urban, 

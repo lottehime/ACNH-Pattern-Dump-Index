@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: freckles
-Creator: PigSheriff
-Tags: 

@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: Patronmotifpro
-Creator: kibi
-Tags: 

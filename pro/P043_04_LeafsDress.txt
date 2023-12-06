@@ -1,4 +1,0 @@
-Type:SleevelessDress
-Name: LeafsDress
-Creator: Moogie
-Tags: dress, leaf, pokemon, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SleepyLoaf
-Creator: Fasil
-Tags: 752301269144, 

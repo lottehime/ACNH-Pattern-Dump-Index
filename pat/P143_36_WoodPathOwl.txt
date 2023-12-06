@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodPathOwl
-Creator: MH
-Tags: owl, path, wood, 

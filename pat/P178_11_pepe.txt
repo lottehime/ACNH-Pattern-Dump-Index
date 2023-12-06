@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pepe
-Creator: Wes
-Tags: frog, pepe, 

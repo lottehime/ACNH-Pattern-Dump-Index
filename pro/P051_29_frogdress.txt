@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: frogdress
-Creator: Smiglo
-Tags: clothing, dress, frog, froggy, 

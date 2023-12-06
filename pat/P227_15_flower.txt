@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: flower
-Creator: Greenie
-Tags: flower, path, pattern, 

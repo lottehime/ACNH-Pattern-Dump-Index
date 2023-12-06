@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Board8
-Creator: Boshi
-Tags: 451589511451, plank, wood, 

@@ -1,4 +1,0 @@
-Type:TShirt
-Name: PROPattern
-Creator: NattBen
-Tags: 

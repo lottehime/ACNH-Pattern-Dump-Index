@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Iggly
-Creator: Wezryl
-Tags: villager, 

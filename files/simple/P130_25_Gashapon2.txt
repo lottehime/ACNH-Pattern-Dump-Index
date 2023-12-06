@@ -1,0 +1,4 @@
+SimplePattern
+Gashapon2
+Koid
+SimplePattern, 

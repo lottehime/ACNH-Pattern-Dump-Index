@@ -1,0 +1,4 @@
+SimplePattern
+doNotPickTheFlowers
+LemonCat
+SimplePattern, flower, lemoncat, negative, pick, sign, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: z543
-Creator: NORTH
-Tags: 

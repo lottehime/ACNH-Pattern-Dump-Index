@@ -1,4 +1,0 @@
-Type:TShirt
-Name: Pinguin
-Creator: Arturius
-Tags: linux, pinguin, 

@@ -1,0 +1,4 @@
+SimplePattern
+ThickHorizontalRoad
+Fasil
+SimplePattern, 108829519808, 

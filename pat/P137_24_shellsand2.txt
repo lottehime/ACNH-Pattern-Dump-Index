@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: shellsand2
-Creator: Ann
-Tags: 

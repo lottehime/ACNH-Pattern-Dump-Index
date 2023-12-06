@@ -1,4 +1,0 @@
-Type:Robe
-Name: PrincessLeia
-Creator: Boshi
-Tags: 334134270800, starwars, 

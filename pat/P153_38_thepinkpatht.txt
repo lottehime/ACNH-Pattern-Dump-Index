@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: thepinkpatht
-Creator: Neckbeard
-Tags: 

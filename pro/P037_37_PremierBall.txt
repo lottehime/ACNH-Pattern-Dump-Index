@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: PremierBall
-Creator: Akay
-Tags: pokeball, 

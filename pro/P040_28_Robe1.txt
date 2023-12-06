@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Robe1
-Creator: gab
-Tags: 

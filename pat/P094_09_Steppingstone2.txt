@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Steppingstone2
-Creator: froggylad
-Tags: 

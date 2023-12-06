@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DirtVertBottom
-Creator: crispy
-Tags: dirt, dirtpatch, dirtpath, farm, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: roadinnerbottomr
-Creator: Boshi
-Tags: 772739769058, 

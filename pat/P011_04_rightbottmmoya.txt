@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rightbottmmoya
-Creator: M
-Tags: 

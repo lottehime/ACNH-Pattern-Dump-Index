@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: Cuccobox
-Creator: Moogie
-Tags: box, cucco, loz, umbrella, 

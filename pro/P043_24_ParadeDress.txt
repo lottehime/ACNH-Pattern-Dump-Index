@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: ParadeDress
-Creator: Moogie
-Tags: black, dress, girl, goth, parade, 

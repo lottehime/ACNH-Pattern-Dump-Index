@@ -1,0 +1,4 @@
+SimplePattern
+Whiteplank1
+Cin
+SimplePattern, board, horizontal, plank, white, 

@@ -1,0 +1,4 @@
+SimplePattern
+Stairs
+Doe
+SimplePattern, stair, step, steps, stone, 

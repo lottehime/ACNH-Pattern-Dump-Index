@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Pinknwhitedress
-Creator: Fea
-Tags: cute, dress, pink, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TL
-Creator: Ribbajack
-Tags: path, stars, 

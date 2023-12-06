@@ -1,0 +1,114 @@
+                    </tbody>
+                </table>
+            </div>
+            <!-- /Table Data -->
+
+            <!-- Pagination -->
+            <div id="pagination-info"></div>
+            Go to page: 
+            <select name="Page Select" id="page-selector" onchange="pageChange();" class="page-select">
+                <option value="" disabled selected style="display:none;" class="page-select"></option>
+            </select>
+            <div id="patterns-datatable_paginate"></div>
+            <br><br>
+            <!-- /Pagination -->
+
+        </div>
+        <!-- /Content Panel -->
+
+        <!-- Data Table -->
+        <script type="text/javascript">
+            if(document.getElementById('patterns-datatable')){
+                document.querySelector('#patterns-datatable-output').innerHTML = document.querySelector('#patterns-datatable').innerHTML;
+                var tableRenderer = document.querySelector('#patterns-datatable-output table');
+                var datatable = new DataTable(tableRenderer, {
+                    pageSize: 10,
+                    pagingDivSelector: '#patterns-datatable_paginate',
+                    counterDivSelector: '#pagination-info',
+                    counterText: function (t, e, i, s, a, n) {
+                        var r = "Page " + t + " of " + e + "." + " Showing " + i + " to " + s + " of " + a + " entries";
+                        return a != n && (r += " (filtered from " + n + " total entries)"), (r += ".");
+                    },
+                    sort: [false, false, false, true, true, true, false],
+                    filters: [false, false, false, 'select', true, true, true],
+                    filterText: 'Type here to filter... ',
+                    afterRefresh: function() {
+                        loadImagesLazily();
+                    }
+                });
+        
+                var sel = document.getElementById('page-selector');
+                var opt = null;
+                var pageCount = datatable.getLastPageNumber();
+                
+                for(i = 1; i<=pageCount; i++) { 
+                    opt = document.createElement('option');
+                    opt.value = i;
+                    opt.innerHTML = i;
+                    sel.appendChild(opt);
+                }
+        
+                function pageChange() {
+                    var selectBox = document.getElementById("page-selector");
+                    var selectedValue = selectBox.options[selectBox.selectedIndex].value;
+    
+                    datatable.loadPage(selectedValue);
+                    selectBox.selectedIndex = 0;
+                    selectBox.options[0].innerHTML = datatable.getCurrentPage().toString();
+                    loadImagesLazily();
+                }
+            }
+            else{
+                var tabSection = document.getElementById('patterns-datatable-output');
+                tabSection.innerHTML =  "<br><br>";
+                tabSection.innerHTML += "<p>No index data table present. Please check for malformed data or errors during build.</p>";
+                tabSection.innerHTML += "<br><br><br>";
+            }
+            loadImagesLazily();
+        </script>
+        <!-- /Data Table -->
+
+        <!-- Villager Display -->
+        <script> 
+        window.onload = displayImage; 
+        var imagesArray = ["Audie.png", "Chief.png", "Whitney.png", "Shino.png", "Sasha.png", "Bonbon.png"];
+        var speechArray = ["Foxtrot!", "Harumph!", "Snappy!", "Okaaay!", "Hoppity!", "Deelish!"];
+        function displayImage(){ 
+            var num = Math.floor(Math.random() * 6); 
+            var villager = document.getElementsByClassName("villager-shake");
+            for (var i = 0; i < villager.length; i++) {
+                villager[i].src = 'img/villagers/'+ imagesArray[num];
+                villager[i].title = speechArray[num];
+            }
+        } 
+        </script>
+        <!-- /Villager Display -->
+
+        <!-- Loading Screen -->
+        <script>
+            document.onreadystatechange = function () { 
+              var state = document.readyState; 
+              if (state == 'interactive') { 
+                   document.getElementById('contents').style.visibility="hidden"; 
+              } else if (state == 'complete') { 
+                  setTimeout(function(){ 
+                     document.getElementById('interactive'); 
+                     document.getElementById('load').style.visibility="hidden"; 
+                     document.getElementById('contents').style.visibility="visible"; 
+                  },1000); 
+              } 
+            } 
+        </script>
+        <!-- /Loading Screen -->
+
+        <!-- Island -->
+        <img src="img/bg.png" width="128" height="128" class="island-shake">
+        <!-- /Island -->
+
+    </body>
+
+    <footer id="footer"> 
+        <p style="font-family: roboto">Page/script by Josh (Lotte) 👨‍💻<a href="https://github.com/lottehime">@lottehime</a> & 🐦<a href="https://twitter.com/lotte_hime">@lotte_hime</a><br>Level any complaints to: /dev/null 💀</p> 
+    </footer> 
+
+</html>

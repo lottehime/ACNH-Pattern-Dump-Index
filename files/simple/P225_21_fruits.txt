@@ -1,0 +1,4 @@
+SimplePattern
+fruits
+meyling
+SimplePattern, decor, fruit, sign, 

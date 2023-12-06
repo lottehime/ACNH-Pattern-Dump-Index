@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RustedStall
-Creator: Boshi
-Tags: 776949961568, brown, copper, rust, stall, 

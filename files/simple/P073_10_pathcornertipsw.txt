@@ -1,0 +1,4 @@
+SimplePattern
+pathcornertipsw
+Karach
+SimplePattern, brick, stone, 

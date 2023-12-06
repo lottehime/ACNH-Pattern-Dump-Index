@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: floralborderb
-Creator: Boshi
-Tags: 929679374704, 

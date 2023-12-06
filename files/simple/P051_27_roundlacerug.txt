@@ -1,0 +1,4 @@
+SimplePattern
+roundlacerug
+marie
+SimplePattern, floor, ground, round, rug, white, 

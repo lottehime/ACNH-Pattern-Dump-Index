@@ -1,0 +1,4 @@
+SimplePattern
+train4
+flyingfish
+SimplePattern, 

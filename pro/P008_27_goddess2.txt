@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: goddess2
-Creator: M
-Tags: 

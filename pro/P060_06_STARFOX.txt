@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: STARFOX
-Creator: alt
-Tags: 

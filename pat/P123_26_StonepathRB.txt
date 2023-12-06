@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StonepathRB
-Creator: Lisbelle
-Tags: stone, 

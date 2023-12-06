@@ -1,4 +1,0 @@
-Type:Coat
-Name: crusader
-Creator: Arthur
-Tags: crusader, knight, templar, teutonic, 

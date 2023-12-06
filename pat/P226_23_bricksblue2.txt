@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bricksblue2
-Creator: meyling
-Tags: bricks, path, 

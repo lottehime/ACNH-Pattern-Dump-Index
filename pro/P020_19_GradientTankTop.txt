@@ -1,4 +1,0 @@
-Type:Tanktop
-Name: GradientTankTop
-Creator: gtt
-Tags: 

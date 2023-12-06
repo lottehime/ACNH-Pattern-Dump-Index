@@ -1,0 +1,4 @@
+SimplePattern
+KOREAFlag
+SigmaAlpha
+SimplePattern, flag, korea, 

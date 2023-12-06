@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Kidcorequilt
-Creator: ling
-Tags: 

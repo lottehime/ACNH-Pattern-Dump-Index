@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: southerngothic
-Creator: meyling
-Tags: dress, longsleeve, 

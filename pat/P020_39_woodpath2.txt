@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodpath2
-Creator: PigSheriff
-Tags: 

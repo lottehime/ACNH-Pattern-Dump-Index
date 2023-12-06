@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WiredFence
-Creator: Koid
-Tags: 

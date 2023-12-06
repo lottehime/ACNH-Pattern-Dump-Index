@@ -1,0 +1,4 @@
+SimplePattern
+SlateCobblestone
+Boshi
+SimplePattern, 818897712442, path, 

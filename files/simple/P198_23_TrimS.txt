@@ -1,0 +1,4 @@
+SimplePattern
+TrimS
+Boshi
+SimplePattern, 581508049726, border, stone, 

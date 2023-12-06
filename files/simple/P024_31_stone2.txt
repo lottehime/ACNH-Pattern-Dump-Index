@@ -1,0 +1,4 @@
+SimplePattern
+stone2
+ling
+SimplePattern, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: alfombracentro
-Creator: Nostril
-Tags: 

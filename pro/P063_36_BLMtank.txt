@@ -1,4 +1,0 @@
-Type:Tanktop
-Name: BLMtank
-Creator: Boshi
-Tags: 768134903700, 

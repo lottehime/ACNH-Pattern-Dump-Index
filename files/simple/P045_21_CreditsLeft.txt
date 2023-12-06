@@ -1,0 +1,4 @@
+SimplePattern
+CreditsLeft
+A
+SimplePattern, 

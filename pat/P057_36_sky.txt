@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: sky
-Creator: Chenfeiren
-Tags: game, picture, 

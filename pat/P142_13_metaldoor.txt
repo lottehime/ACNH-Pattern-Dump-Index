@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: metaldoor
-Creator: MA648390967954
-Tags: city, door, metal, wall, 

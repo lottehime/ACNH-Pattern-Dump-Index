@@ -1,4 +1,0 @@
-Type:Pullover
-Name: Carole
-Creator: Carole
-Tags: 

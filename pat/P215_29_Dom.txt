@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Dom
-Creator: Deu
-Tags: villager, 

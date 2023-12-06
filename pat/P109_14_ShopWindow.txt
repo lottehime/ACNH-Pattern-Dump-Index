@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ShopWindow
-Creator: EveK
-Tags: shop, window, 

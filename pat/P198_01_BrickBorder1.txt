@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BrickBorder1
-Creator: Boshi
-Tags: 157475086849, border, grey, path, 

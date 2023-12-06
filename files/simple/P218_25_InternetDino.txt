@@ -1,0 +1,4 @@
+SimplePattern
+InternetDino
+Miray
+SimplePattern, chrome, dino, internet, screen, 

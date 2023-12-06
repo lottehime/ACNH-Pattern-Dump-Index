@@ -1,0 +1,4 @@
+SimplePattern
+BroeselHarryPotter
+Star
+SimplePattern, broesel, harrypotter, hogwarts, 

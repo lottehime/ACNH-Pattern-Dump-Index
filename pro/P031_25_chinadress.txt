@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: chinadress
-Creator: Celestial
-Tags: 

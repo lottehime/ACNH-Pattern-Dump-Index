@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: abandonedroad3
-Creator: ali
-Tags: 

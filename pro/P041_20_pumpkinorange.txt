@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: pumpkinorange
-Creator: flay
-Tags: 

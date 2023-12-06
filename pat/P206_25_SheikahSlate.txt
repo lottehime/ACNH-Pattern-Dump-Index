@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SheikahSlate
-Creator: Boshi
-Tags: case, loz, nintendo, phone, zelda, 

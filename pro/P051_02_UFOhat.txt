@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: UFOhat
-Creator: Slvy
-Tags: hat, space, ufo, 

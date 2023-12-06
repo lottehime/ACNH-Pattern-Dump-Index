@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Coronationgold2
-Creator: Lisbelle
-Tags: 

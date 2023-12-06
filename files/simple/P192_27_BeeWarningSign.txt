@@ -1,0 +1,4 @@
+SimplePattern
+BeeWarningSign
+LemonCat
+SimplePattern, bee, lemoncat, sign, warning, wasp, 

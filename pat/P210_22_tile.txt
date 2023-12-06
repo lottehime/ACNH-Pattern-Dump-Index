@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tile
-Creator: meyling
-Tags: tile, tiles, 

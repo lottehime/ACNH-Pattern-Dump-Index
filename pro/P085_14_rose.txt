@@ -1,4 +1,0 @@
-Type:Coat
-Name: rose
-Creator: meyling
-Tags: coat, floral, 

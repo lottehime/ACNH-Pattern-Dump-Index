@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: steppingstones
-Creator: meyling
-Tags: path, steps, stone, 

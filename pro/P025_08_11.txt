@@ -1,4 +1,0 @@
-Type:Robe
-Name: 11
-Creator: susu
-Tags: 

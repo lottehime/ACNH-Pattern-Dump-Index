@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Blueskydress
-Creator: Crono2021
-Tags: blue, dress, princess, 

@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: pinkdress
-Creator: dingleberry
-Tags: 

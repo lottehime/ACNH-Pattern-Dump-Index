@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: dragonPatternv34x4
-Creator: 1
-Tags: 

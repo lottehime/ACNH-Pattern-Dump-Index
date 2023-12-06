@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ximen13
-Creator: Chenfeiren
-Tags: 

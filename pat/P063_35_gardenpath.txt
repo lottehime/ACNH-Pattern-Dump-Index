@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: gardenpath
-Creator: crossingwlys
-Tags: 203253557153, 

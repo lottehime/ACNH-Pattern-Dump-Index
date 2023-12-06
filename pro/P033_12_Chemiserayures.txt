@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: Chemiserayures
-Creator: kibi
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: OWLS
-Creator: Miray
-Tags: bed, cover, owls, 

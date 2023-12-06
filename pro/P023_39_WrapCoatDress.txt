@@ -1,4 +1,0 @@
-Type:Coat
-Name: WrapCoatDress
-Creator: rei
-Tags: 

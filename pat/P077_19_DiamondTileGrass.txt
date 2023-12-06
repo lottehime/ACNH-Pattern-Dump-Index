@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DiamondTileGrass
-Creator: ADA
-Tags: 

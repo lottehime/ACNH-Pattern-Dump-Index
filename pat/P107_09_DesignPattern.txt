@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DesignPattern
-Creator: a
-Tags: 

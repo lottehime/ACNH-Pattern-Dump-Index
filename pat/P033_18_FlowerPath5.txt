@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FlowerPath5
-Creator: dingleberry
-Tags: 

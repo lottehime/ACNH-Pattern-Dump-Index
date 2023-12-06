@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: grasspathTC
-Creator: mmanic
-Tags: grass, 

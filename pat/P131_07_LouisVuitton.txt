@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LouisVuitton
-Creator: Moogie
-Tags: brand, louisvuitton, pattern, 

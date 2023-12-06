@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: RibbitPocket
-Creator: Ducky
-Tags: frog, green, hoodie, pocket, 

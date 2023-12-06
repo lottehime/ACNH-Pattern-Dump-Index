@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: OldGrimoire
-Creator: Boshi
-Tags: 844849779907, book, magic, shelf, 

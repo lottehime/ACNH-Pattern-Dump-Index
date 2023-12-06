@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: CheesePizza
-Creator: Boshi
-Tags: 

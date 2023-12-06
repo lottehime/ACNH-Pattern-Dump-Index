@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: blanket8
-Creator: Kai
-Tags: 

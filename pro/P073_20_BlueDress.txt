@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: BlueDress
-Creator: Boshi
-Tags: 985267449053, 

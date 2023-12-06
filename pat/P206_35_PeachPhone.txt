@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PeachPhone
-Creator: Boshi
-Tags: case, fruit, peach, phone, pink, 

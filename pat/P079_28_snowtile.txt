@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: snowtile
-Creator: kuroneko5810
-Tags: 466977276234, 

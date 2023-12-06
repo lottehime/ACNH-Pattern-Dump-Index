@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: SquidvaderCap
-Creator: NEO
-Tags: retro, splatoon, splatoon2, squidvader, 

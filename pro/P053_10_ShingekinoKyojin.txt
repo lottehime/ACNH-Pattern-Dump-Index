@@ -1,4 +1,0 @@
-Type:LongSleeveShirt3DS
-Name: ShingekinoKyojin
-Creator: Koid
-Tags: 

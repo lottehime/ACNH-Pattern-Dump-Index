@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: CasquettePika
-Creator: Flay
-Tags: 

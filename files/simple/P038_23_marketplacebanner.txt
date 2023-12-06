@@ -1,0 +1,4 @@
+SimplePattern
+marketplacebanner
+sacha
+SimplePattern, banner, city, market, official, town, 

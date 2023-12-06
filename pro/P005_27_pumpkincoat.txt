@@ -1,4 +1,0 @@
-Type:Coat
-Name: pumpkincoat
-Creator: Peanut
-Tags: coat, fall, halloween, pumpkin, spooky, 

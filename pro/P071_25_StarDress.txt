@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: StarDress
-Creator: Boshi
-Tags: 439440759363, 

@@ -1,0 +1,4 @@
+SimplePattern
+abandonedroad
+ali
+SimplePattern, 0989, 3773, 6964, path, road, 

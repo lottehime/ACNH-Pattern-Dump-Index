@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BottomRight
-Creator: Mlissa
-Tags: 

@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: Sunnystripes
-Creator: fiona
-Tags: 

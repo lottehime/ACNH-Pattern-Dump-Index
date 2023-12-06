@@ -1,0 +1,4 @@
+SimplePattern
+FortuneTellerStand
+Boshi
+SimplePattern, 430100515018, fortune, magic, purple, stall, 

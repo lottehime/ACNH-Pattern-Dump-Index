@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BikeBaySign3
-Creator: Boshi
-Tags: bike, parking, 

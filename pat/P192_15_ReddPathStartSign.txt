@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ReddPathStartSign
-Creator: LemonCat
-Tags: lemoncat, path, redd, sign, start, 

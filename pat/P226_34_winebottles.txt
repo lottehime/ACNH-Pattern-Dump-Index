@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: winebottles
-Creator: meyling
-Tags: walldecor, 

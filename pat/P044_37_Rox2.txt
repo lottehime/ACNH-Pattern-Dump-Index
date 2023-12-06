@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Rox2
-Creator: Berdine
-Tags: 

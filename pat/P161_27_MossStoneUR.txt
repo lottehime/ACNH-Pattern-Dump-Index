@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MossStoneUR
-Creator: Fasil
-Tags: 515132676633, 

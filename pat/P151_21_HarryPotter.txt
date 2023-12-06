@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: HarryPotter
-Creator: Star
-Tags: harrypotter, hogwarts, hp, 

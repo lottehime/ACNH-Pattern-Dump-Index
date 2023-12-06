@@ -1,4 +1,0 @@
-Type:TShirt
-Name: TESTPLEASE
-Creator: Yawnty
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: fringeleft
-Creator: rei
-Tags: 

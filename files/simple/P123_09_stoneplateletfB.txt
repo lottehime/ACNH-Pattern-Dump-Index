@@ -1,0 +1,4 @@
+SimplePattern
+stoneplateletfB
+beatriiix
+SimplePattern, path, stone, 

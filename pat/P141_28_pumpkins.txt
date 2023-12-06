@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pumpkins
-Creator: MA719561127043
-Tags: autumn, fall, food, panel, wooden, 

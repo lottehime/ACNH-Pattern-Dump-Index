@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: newspaper
-Creator: froggylad
-Tags: 

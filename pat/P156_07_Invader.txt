@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Invader
-Creator: Kepalyco
-Tags: gameboy, invaders, nes, poster, retro, 

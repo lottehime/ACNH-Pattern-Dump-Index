@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: LiloDress
-Creator: Walnut
-Tags: dress, hawaii, lilo, stitch, 

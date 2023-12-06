@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: Empty
-Creator: lostinpixel
-Tags: 

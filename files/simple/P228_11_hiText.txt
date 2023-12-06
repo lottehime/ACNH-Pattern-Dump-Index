@@ -1,0 +1,4 @@
+SimplePattern
+hiText
+DiscordServer
+SimplePattern, japanese, roads, text, 

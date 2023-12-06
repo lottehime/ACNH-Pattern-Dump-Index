@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Sophiesdress
-Creator: rei
-Tags: 

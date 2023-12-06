@@ -1,4 +1,0 @@
-Type:Coat
-Name: wow
-Creator: wuxi
-Tags: 

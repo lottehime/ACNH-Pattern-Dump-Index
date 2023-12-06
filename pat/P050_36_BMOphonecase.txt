@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BMOphonecase
-Creator: MA223528009287
-Tags: design, phonecase, sandy, 

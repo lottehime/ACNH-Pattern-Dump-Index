@@ -1,4 +1,0 @@
-Type:LongSleeveDress3DS
-Name: Raincoatdress
-Creator: Star
-Tags: dress, raincoat, yellow, 

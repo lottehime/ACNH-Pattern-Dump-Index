@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stripes
-Creator: meyling
-Tags: cloth, fabric, stripes, 

@@ -1,0 +1,4 @@
+SimplePattern
+grass1
+ling
+SimplePattern, 

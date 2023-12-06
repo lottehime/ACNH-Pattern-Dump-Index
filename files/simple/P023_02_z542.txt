@@ -1,0 +1,4 @@
+SimplePattern
+z542
+NORTH
+SimplePattern, 

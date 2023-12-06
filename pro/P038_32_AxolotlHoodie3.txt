@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: AxolotlHoodie3
-Creator: Turrah
-Tags: 

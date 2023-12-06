@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TilledSoilV
-Creator: LemonCat
-Tags: farm, field, lemoncat, path, soil, 

@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: greendress
-Creator: meyling
-Tags: balloonhem, dress, shortsleeve, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: doya
-Creator: Jackie
-Tags: doya, dragalia, 

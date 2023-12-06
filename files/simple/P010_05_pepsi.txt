@@ -1,0 +1,4 @@
+SimplePattern
+pepsi
+SigmaAlpha
+SimplePattern, brand, logo, pepsi, sigma, 

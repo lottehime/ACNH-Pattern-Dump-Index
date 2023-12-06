@@ -1,0 +1,4 @@
+SimplePattern
+path5
+M
+SimplePattern, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Boardwalkleft
-Creator: Joey
-Tags: path, planks, wood, 

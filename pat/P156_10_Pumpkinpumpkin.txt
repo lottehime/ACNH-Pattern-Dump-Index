@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Pumpkinpumpkin
-Creator: Goncalo
-Tags: hellowheen, pumpkin, 

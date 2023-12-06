@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: RoseOverallDress
-Creator: PisiPisi
-Tags: 

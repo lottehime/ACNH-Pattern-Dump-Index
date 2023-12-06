@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FarmTile2
-Creator: Boshi
-Tags: 401324347459, crop, farm, 

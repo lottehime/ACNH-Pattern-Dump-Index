@@ -1,0 +1,4 @@
+SimplePattern
+ApplePhone
+Boshi
+SimplePattern, apple, case, fruit, phone, 

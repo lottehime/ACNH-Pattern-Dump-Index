@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: SunnyStrollHat
-Creator: Boshi
-Tags: 702868634390, 

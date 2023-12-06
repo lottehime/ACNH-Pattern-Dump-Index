@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Sharingan
-Creator: Nostril
-Tags: 

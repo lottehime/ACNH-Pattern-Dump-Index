@@ -1,4 +1,0 @@
-Type:Coat
-Name: Knight
-Creator: Moogie
-Tags: knight, loz, zelda, 

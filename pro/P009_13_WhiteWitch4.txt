@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: WhiteWitch4
-Creator: M
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+brick3
+leaf
+SimplePattern, 

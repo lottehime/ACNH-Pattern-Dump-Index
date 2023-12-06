@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: EeveeCap
-Creator: DoctorPokemon
-Tags: cap, cinnabar, eevee, hat, pokemon, 

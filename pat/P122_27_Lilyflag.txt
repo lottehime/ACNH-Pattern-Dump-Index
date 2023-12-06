@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Lilyflag
-Creator: Lisbelle
-Tags: 

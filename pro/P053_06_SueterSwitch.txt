@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: SueterSwitch
-Creator: EdicionGamerYT
-Tags: 

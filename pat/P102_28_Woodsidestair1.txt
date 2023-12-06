@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Woodsidestair1
-Creator: Lucas
-Tags: side, stair, wood, 

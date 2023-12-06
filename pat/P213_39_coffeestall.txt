@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: coffeestall
-Creator: Skandu
-Tags: coffee, stall, 

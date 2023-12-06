@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Pebble
-Creator: Koid
-Tags: 

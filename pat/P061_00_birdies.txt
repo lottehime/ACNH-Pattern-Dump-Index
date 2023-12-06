@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: birdies
-Creator: mmanic
-Tags: birds, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: squareweeds
-Creator: marie
-Tags: green, ground, weed, weeds, 

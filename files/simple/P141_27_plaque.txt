@@ -1,0 +1,4 @@
+SimplePattern
+plaque
+flyingfish
+SimplePattern, japanese, shrine, temple, 

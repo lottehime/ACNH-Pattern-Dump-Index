@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: brownfloraldress
-Creator: meyling
-Tags: balloonhem, dress, floral, 

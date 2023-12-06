@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PixelDawn
-Creator: Boshi
-Tags: case, pastel, phone, pink, sky, 

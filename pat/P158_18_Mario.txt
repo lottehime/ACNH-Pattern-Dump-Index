@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Mario
-Creator: aperfectcircle
-Tags: mario, mariobros, nes, nintendo, supermario, 

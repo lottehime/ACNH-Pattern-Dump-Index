@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: 1
-Creator: cat
-Tags: 

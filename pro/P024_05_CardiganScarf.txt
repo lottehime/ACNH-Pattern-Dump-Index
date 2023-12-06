@@ -1,4 +1,0 @@
-Type:Pullover
-Name: CardiganScarf
-Creator: rei
-Tags: 

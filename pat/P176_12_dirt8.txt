@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: dirt8
-Creator: Boshi
-Tags: 384566136023, 

@@ -1,0 +1,4 @@
+SimplePattern
+HedgehogFlag
+Amek
+SimplePattern, animal, cute, flag, hedgehog, 

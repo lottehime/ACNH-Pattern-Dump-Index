@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: November
-Creator: EdicionGamerYT
-Tags: 

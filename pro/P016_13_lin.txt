@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: lin
-Creator: lin
-Tags: 

@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: blathersdress
-Creator: Boshi
-Tags: 451277055166, blathers, brown, dress, museum, 

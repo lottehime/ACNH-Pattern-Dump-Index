@@ -1,4 +1,0 @@
-Type:Coat
-Name: CorduroyStripes
-Creator: M
-Tags: 

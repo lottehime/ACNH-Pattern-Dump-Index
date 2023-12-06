@@ -1,4 +1,0 @@
-Type:Coat
-Name: Bluecoat
-Creator: Wardin
-Tags: blue, coat, green, 

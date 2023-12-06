@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stone1
-Creator: Airi
-Tags: path, stone, 

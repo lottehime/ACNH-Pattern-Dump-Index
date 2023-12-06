@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DarkWoodFence
-Creator: Berdine
-Tags: 

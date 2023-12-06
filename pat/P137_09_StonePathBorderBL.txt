@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StonePathBorderBL
-Creator: Ann
-Tags: 

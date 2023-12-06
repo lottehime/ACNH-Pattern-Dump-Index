@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: beardress
-Creator: Fea
-Tags: bear, brown, cute, dress, 

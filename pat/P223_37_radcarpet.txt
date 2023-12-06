@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: radcarpet
-Creator: meyling
-Tags: arcade, flooring, 

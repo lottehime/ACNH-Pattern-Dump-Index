@@ -1,0 +1,4 @@
+SimplePattern
+roaduppercurb
+riah
+SimplePattern, cityroad, concrete, curb, riah, street, 

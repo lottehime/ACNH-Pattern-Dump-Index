@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RisingSunYellow
-Creator: AyoOni
-Tags: flag, japan, japanese, risingsun, wartime, 

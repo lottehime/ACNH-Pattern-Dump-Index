@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LYSBTSanwser
-Creator: Carolina150499
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+Tartaglia
+paimon
+SimplePattern, 

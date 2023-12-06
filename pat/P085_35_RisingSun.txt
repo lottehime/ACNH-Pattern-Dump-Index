@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RisingSun
-Creator: AyoOni
-Tags: edoperiod, flag, japan, japanese, risingsun, 

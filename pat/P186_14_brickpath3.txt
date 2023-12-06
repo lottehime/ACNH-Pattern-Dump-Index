@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: brickpath3
-Creator: Boshi
-Tags: 945239325319, grey, 

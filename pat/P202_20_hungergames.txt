@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: hungergames
-Creator: Pepe
-Tags: hungergames, katniss, mockingjay, 

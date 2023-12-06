@@ -1,0 +1,4 @@
+SimplePattern
+Cobblestone
+leaf
+SimplePattern, 

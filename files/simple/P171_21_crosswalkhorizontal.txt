@@ -1,0 +1,4 @@
+SimplePattern
+crosswalkhorizontal
+Boshi
+SimplePattern, 772739769058, 

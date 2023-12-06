@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: HologridBlack12
-Creator: Shekan
-Tags: electric, floor, rainbow, repeatable, tile, 

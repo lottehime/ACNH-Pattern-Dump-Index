@@ -1,0 +1,4 @@
+SimplePattern
+FloorTile
+LOLITA
+SimplePattern, blue, tile, white, 

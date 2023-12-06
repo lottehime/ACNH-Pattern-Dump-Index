@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PinkWater
-Creator: irnflame
-Tags: neon, pink, pond, vaporwave, water, 

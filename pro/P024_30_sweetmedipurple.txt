@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: sweetmedipurple
-Creator: xinyun1
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: InternetDino
-Creator: Miray
-Tags: chrome, dino, internet, screen, 

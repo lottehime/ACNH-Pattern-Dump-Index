@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WaterTribe
-Creator: serialfriend
-Tags: atla, flag, sign, 

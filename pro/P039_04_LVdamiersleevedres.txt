@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: LVdamiersleevedres
-Creator: wuxi
-Tags: 

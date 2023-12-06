@@ -1,4 +1,0 @@
-Type:TShirt
-Name: MurakamiShirt
-Creator: Boshi
-Tags: 589574651843, 

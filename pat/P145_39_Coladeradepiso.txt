@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Coladeradepiso
-Creator: EdicionGamerYT
-Tags: 

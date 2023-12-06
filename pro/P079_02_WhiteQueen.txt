@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: WhiteQueen
-Creator: Greenie
-Tags: alice, card, 

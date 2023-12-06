@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Greybricks
-Creator: ectopi
-Tags: 762263913364, 

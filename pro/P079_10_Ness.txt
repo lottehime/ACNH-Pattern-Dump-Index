@@ -1,4 +1,0 @@
-Type:TShirt
-Name: Ness
-Creator: Amek
-Tags: cosplay, earthbound, mother2, ness, videogame, 

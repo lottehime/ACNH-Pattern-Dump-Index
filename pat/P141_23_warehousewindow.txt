@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: warehousewindow
-Creator: MA785660391373
-Tags: brick, city, grunge, panel, window, 

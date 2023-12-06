@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: NonbinaryFlag
-Creator: Wicchan
-Tags: enby, flag, lgbt, pride, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: blockglass
-Creator: PigSheriff
-Tags: 

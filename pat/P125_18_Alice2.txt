@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Alice2
-Creator: Hana
-Tags: alice, anime, 

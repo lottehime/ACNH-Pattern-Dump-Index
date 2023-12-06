@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: roundlacerug
-Creator: marie
-Tags: floor, ground, round, rug, white, 

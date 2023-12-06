@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: klm
-Creator: M
-Tags: 

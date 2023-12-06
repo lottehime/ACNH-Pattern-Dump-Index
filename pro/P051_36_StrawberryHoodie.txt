@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: StrawberryHoodie
-Creator: steff
-Tags: 

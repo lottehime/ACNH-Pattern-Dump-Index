@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Judy
-Creator: Perng
-Tags: custom, cute, icon, judy, villager, 

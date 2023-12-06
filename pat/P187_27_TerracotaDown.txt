@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TerracotaDown
-Creator: Boshi
-Tags: 701183139106, border, 

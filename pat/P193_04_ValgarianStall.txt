@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ValgarianStall
-Creator: LJ
-Tags: moth, spooky, stall, 

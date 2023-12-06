@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: ZeldaTP
-Creator: Moogie
-Tags: dress, loz, tp, zelda, 

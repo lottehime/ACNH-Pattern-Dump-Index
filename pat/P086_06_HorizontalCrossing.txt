@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: HorizontalCrossing
-Creator: froggylad
-Tags: 

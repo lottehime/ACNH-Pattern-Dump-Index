@@ -1,0 +1,4 @@
+BrimmedHat
+PremierBall
+Akay
+BrimmedHat, pokeball, 

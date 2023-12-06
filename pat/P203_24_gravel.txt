@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: gravel
-Creator: meyling
-Tags: gravel, path, 

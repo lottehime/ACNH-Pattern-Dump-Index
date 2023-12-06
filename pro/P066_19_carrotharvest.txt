@@ -1,4 +1,0 @@
-Type:Coat
-Name: carrotharvest
-Creator: Boshi
-Tags: 402871435868, 

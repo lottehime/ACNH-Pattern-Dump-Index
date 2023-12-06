@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: choromatsu
-Creator: sad
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RicePaddyTR
-Creator: Strike
-Tags: tr, field, paddy, path, rice, 

@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: VintageFloralFrock
-Creator: Lisbelle
-Tags: 

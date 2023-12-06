@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodenPathOLLF
-Creator: Sorrel
-Tags: 

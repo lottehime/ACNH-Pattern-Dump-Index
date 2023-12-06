@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: baixo2
-Creator: Loly
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+PentagramCircle
+LemonCat
+SimplePattern, circle, lemoncat, pentagram, summon, transparent, 

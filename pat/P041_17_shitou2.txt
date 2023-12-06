@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: shitou2
-Creator: cc
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: goku
-Creator: luigi
-Tags: 

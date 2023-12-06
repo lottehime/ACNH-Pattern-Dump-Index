@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: cocograsspath1
-Creator: coco
-Tags: 

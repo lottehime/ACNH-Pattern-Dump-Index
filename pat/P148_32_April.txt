@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: April
-Creator: EdicionGamerYT
-Tags: 

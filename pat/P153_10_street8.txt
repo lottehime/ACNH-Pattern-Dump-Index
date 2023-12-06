@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: street8
-Creator: Israel
-Tags: 

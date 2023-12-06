@@ -1,0 +1,4 @@
+SimplePattern
+dirtpath3
+kat
+SimplePattern, dirt, path, 

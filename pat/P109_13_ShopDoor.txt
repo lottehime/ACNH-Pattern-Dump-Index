@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ShopDoor
-Creator: EveK
-Tags: door, shop, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodPanel2
-Creator: Samie323
-Tags: 

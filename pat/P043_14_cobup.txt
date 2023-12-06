@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: cobup
-Creator: valentin
-Tags: beige, cobblestone, path, 

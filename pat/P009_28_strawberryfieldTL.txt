@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: strawberryfieldTL
-Creator: dingleberry
-Tags: 

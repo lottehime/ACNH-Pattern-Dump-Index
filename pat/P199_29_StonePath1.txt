@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StonePath1
-Creator: Boshi
-Tags: 053096509120, cobblestone, path, rocks, 

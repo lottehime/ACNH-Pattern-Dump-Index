@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: B2
-Creator: flay
-Tags: 

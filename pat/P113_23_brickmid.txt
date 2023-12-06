@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: brickmid
-Creator: flay
-Tags: 

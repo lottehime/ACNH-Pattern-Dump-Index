@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: LocoMoco
-Creator: Boshi
-Tags: 760569002788, 

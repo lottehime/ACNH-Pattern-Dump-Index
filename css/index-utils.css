@@ -1,0 +1,184 @@
+/* ACNH Pattern Dump Index Stylsheet */
+
+/* Utilities */
+:root {
+  --ACNHcolFontDarkBrown : #5b2322;
+  --ACNHcolCreamDark     : #f2e6cc;
+  --ACNHcolCreamLight    : #f4eed6;
+  --ACNHcolPinkDark      : #f8a5b0;
+  --ACNHcolPinkMid       : #fca9b1;
+  --ACNHcolPinkLight     : #f9aeb5;
+  --ACNHcolPinkLightest  : #ffe6e3;
+  --ACNHcolGreenDark     : #02a79f;
+  --ACNHcolGreenMid      : #0ac9b9;
+  --ACNHcolGreenLight    : #61e0d8;
+  --ACNHcolGreenLightest : #affffa;
+  --ACNHcolYellowDark    : #d8c27f;
+  --ACNHcolYellowLight   : #f0de5d;
+  cursor: url('../img/Hand.png'), auto;
+}
+
+.tooltip-item img {
+    transition: transform 200ms ease-in-out;
+    transform-origin: left top;
+}
+
+.tooltip-item img:hover {
+    transform: scale(8); 
+}
+
+.center-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.villager-shake {
+    z-index: 1001; 
+    position: absolute; 
+    top: 10px; 
+    left: 10px;
+}
+
+.villager-shake:hover {
+    -webkit-animation: villager-img-animate 2s infinite;
+    -moz-animation:    villager-img-animate 2s infinite;
+    -o-animation:      villager-img-animate 2s infinite;
+    animation:         villager-img-animate 2s infinite;
+}
+
+@keyframes villager-img-animate {
+    0%   { transform: rotate(0deg); }
+    25%  { transform: rotate(9deg); }
+    50%   { transform: rotate(0deg); }
+    75%  { transform: rotate(-9deg); }
+    100% { transform: rotate(0deg); }
+}
+
+.island-shake {
+    z-index: 1001; 
+    position: fixed; 
+    bottom: 16px; 
+    right: 10px;
+}
+
+.island-shake:hover {
+    -webkit-animation: island-img-animate 5s infinite;
+    -moz-animation:    island-img-animate 5s infinite;
+    -o-animation:      island-img-animate 5s infinite;
+    animation:         island-img-animate 5s infinite;
+}
+
+@keyframes island-img-animate {
+    0%   { transform: translateY(0px); }
+    25%   { transform: translateY(3px); }
+    50%   { transform: translateY(0px); }
+    75%   { transform: translateY(-3px); }
+    100%   { transform: translateY(0px); }
+}
+
+#load {
+    width:100%;
+    height:100%;
+    position:fixed;
+    left: 0; 
+    right: 0; 
+    top: 0;
+    z-index:9999;
+    background: no-repeat center center rgba(0,0,0,0.9);
+    text-align: center;
+    font-size: 48px;
+    color: #FFFFFF;
+}
+
+#load img {
+    position:relative;
+    left: 0; 
+    right: 0; 
+    top: 5%;
+    z-index:9999;
+    animation: loadingrotate 1s infinite linear;
+    width: 200px;
+}
+
+@keyframes loadingrotate {
+  50% {
+    transform: rotate(15deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+/* --- */
+
+
+/* Fonts */
+@font-face {
+    font-family: Nunito;
+    src: url("../fonts/Nunito-VariableFont_wght.ttf") format("truetype");
+}
+/* --- */
+
+
+/* Styling */
+/* alt: html body {} */
+body {
+    font-family: 'Nunito';
+    font-size: 12;
+    font-weight: bold;
+    background-color: var(--ACNHcolPinkMid);
+}
+
+h1 {
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+h3 {
+    font-weight: bold;
+    text-align: center;
+}
+
+table {
+    background-color: var(--ACNHcolCreamLight);
+    border-color: var(--ACNHcolCreamDark);
+}
+
+th {
+    text-transform: uppercase;
+}
+
+.logo {
+    margin-bottom: 8px;
+    margin-right: 4px;
+}
+
+.page-select, .page-select option {
+    border-color: var(--ACNHcolGreenDark);
+    color: var(--ACNHcolGreenDark);
+    font-weight: bold;
+}
+
+.pagination .active a, .pagination .active a:focus, .pagination .active a:hover, .pagination .active span, .pagination .active span:focus, .pagination .active span:hover {
+    background-color: var(--ACNHcolGreenMid);
+    border-color: var(--ACNHcolGreenDark);
+    color: var(--ACNHcolGreenLightest);
+}
+
+.pagination li a, .pagination li span {
+    border-color: var(--ACNHcolGreenDark);
+    color: var(--ACNHcolGreenDark);
+}
+
+#footer { 
+    position: fixed; 
+    bottom: 0; 
+    left: 0; 
+    right: 0; 
+    background-color: rgba(255,255,255,0.7); 
+    width: 100%; 
+    height: 4rem;
+    z-index: 1000; 
+}
+/* --- */

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: whitesnowpath
-Creator: kuroneko
-Tags: 

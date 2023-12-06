@@ -1,0 +1,4 @@
+SimplePattern
+Orange
+Amek
+SimplePattern, fruit, orange, sign, 

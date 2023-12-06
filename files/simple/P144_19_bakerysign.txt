@@ -1,0 +1,4 @@
+SimplePattern
+bakerysign
+faeze
+SimplePattern, bakery, sign, 

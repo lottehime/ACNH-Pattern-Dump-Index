@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Tatami3
-Creator: Rebeca
-Tags: floor, japan, tatami, 

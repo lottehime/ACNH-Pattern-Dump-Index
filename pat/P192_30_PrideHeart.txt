@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PrideHeart
-Creator: LemonCat
-Tags: 8bit, 8bit, heart, lemoncat, pride, 

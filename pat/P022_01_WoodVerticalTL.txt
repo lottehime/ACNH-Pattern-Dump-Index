@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodVerticalTL
-Creator: Samie323
-Tags: 

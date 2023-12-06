@@ -1,4 +1,0 @@
-Type:Coat
-Name: Empty
-Creator: lostinpixel
-Tags: 

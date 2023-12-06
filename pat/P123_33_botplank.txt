@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: botplank
-Creator: Udderchan
-Tags: plank, wood, woodenplank, 

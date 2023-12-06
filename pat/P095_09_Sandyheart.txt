@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Sandyheart
-Creator: froggylad
-Tags: sand, 

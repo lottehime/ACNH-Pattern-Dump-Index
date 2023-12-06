@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodandStoneDR
-Creator: Crystel
-Tags: 

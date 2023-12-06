@@ -1,0 +1,4 @@
+SimplePattern
+whitemarbletile
+Boshi
+SimplePattern, 511696445826, black, gold, white, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: KoreanPavement
-Creator: EveK
-Tags: korean, pavement, 

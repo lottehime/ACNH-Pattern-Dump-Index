@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Wisteria
-Creator: Doe
-Tags: floral, flower, stall, wisterias, 

@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: LunarFighter
-Creator: Hanoka
-Tags: moon, sailor, sailormoon, serena, usagi, 

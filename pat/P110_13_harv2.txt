@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: harv2
-Creator: flay
-Tags: 

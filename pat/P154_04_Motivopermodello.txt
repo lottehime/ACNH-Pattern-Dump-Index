@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Motivopermodello
-Creator: HelloCinzia
-Tags: 

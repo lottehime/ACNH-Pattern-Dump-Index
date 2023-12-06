@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: cutie
-Creator: Celestial
-Tags: 

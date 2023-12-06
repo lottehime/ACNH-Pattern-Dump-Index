@@ -1,0 +1,4 @@
+SimplePattern
+cherry
+Moogie
+SimplePattern, cherry, fruit, sign, 

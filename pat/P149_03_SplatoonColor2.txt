@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SplatoonColor2
-Creator: EdicionGamerYT
-Tags: 

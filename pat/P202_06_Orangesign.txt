@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Orangesign
-Creator: Boshi
-Tags: 479165882751, fruit, marker, sign, 

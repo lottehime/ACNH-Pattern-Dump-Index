@@ -1,0 +1,4 @@
+BrimmedCap
+GreenKingflipMesh
+NEO
+BrimmedCap, flip, green, king, splatoon, splatoon2, 

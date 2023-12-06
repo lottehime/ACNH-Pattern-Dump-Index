@@ -1,4 +1,0 @@
-Type:Coat
-Name: alice
-Creator: wuxi
-Tags: 

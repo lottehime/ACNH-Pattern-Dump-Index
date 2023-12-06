@@ -1,4 +1,0 @@
-Type:TShirt
-Name: songfei
-Creator: queshishuai
-Tags: 

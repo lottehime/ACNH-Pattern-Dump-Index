@@ -1,4 +1,0 @@
-Type:Coat
-Name: SakuraMikufix
-Creator: Greenie
-Tags: 

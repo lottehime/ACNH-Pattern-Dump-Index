@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ScatteredCards
-Creator: Boshi
-Tags: 036647702149, 

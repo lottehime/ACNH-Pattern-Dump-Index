@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GrassFlower1C
-Creator: Ann
-Tags: 

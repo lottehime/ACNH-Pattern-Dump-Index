@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StarbucksStall
-Creator: Willuks
-Tags: coffee, design, green, stall, starbucks, 

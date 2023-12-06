@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: facestickerswmole
-Creator: mikue
-Tags: face, stickers, 

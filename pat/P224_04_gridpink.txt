@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: gridpink
-Creator: meyling
-Tags: grid, vaporwave, 

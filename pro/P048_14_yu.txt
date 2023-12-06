@@ -1,4 +1,0 @@
-Type:Hat3DS
-Name: yu
-Creator: cinzia
-Tags: 

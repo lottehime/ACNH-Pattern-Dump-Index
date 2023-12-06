@@ -1,0 +1,4 @@
+SimplePattern
+StonesRight
+Giuliastro
+SimplePattern, floor, right, stones, 

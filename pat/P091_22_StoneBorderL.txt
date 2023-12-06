@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StoneBorderL
-Creator: Scarlet
-Tags: 

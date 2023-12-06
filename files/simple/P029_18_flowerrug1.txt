@@ -1,0 +1,4 @@
+SimplePattern
+flowerrug1
+ling
+SimplePattern, 

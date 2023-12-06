@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DDRArrow
-Creator: Axel
-Tags: arrow, bemani, ddr, game, konami, 

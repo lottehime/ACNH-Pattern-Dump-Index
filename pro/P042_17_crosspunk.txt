@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: crosspunk
-Creator: Moogie
-Tags: cross, punk, 

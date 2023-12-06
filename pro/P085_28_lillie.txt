@@ -1,4 +1,0 @@
-Type:ShortSleeveDress3DS
-Name: lillie
-Creator: Skandu
-Tags: pokemon, 

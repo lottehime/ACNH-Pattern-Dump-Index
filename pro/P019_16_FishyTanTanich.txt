@@ -1,4 +1,0 @@
-Type:Coat
-Name: FishyTanTanich
-Creator: TanTanich
-Tags: fish, kelp, sea, underwater, 

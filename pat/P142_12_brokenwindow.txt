@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: brokenwindow
-Creator: 810695163993
-Tags: city, glass, grunge, horror, window, 

@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: MistletoenFancy
-Creator: Lisbelle
-Tags: 

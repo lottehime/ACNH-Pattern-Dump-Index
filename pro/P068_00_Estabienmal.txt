@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Estabienmal
-Creator: Mari
-Tags: 

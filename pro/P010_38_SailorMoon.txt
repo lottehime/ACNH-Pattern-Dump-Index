@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: SailorMoon
-Creator: M
-Tags: 

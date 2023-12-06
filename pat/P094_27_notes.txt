@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: notes
-Creator: froggylad
-Tags: 

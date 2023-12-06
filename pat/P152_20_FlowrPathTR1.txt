@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FlowrPathTR1
-Creator: Eeden
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: AbleSisters
-Creator: Moogie
-Tags: able, shop, sign, sisters, 

@@ -1,0 +1,4 @@
+SimplePattern
+DrinksMenu
+Boshi
+SimplePattern, 093553602114, drinks, menu, restaurant, stall, 

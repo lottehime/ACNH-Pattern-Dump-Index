@@ -1,4 +1,0 @@
-Type:Standee
-Name: Pokeball
-Creator: DoctorPokemon
-Tags: cinnabar, cutout, pokeball, pokemon, standee, 

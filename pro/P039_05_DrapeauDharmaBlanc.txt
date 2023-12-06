@@ -1,4 +1,0 @@
-Type:Flag
-Name: DrapeauDharmaBlanc
-Creator: Zelf
-Tags: dharma, flag, lost, 

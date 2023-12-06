@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BarcelonaStreet
-Creator: EdicionGamerYT
-Tags: 

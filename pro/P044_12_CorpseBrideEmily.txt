@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: CorpseBrideEmily
-Creator: 1
-Tags: 

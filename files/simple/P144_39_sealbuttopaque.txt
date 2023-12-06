@@ -1,0 +1,4 @@
+SimplePattern
+sealbuttopaque
+Possum
+SimplePattern, acnl, animal, beach, cute, seal, 

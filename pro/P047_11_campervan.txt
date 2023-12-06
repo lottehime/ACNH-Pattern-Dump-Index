@@ -1,4 +1,0 @@
-Type:Standee
-Name: campervan
-Creator: flyingfish
-Tags: 

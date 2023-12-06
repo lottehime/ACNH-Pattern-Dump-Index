@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RoadKrystalKat
-Creator: KrystalKat
-Tags: 757357292927, 

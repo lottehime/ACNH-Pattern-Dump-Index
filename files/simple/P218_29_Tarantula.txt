@@ -1,0 +1,4 @@
+SimplePattern
+Tarantula
+Miray
+SimplePattern, animal, collection, insect, spider, tarantula, 

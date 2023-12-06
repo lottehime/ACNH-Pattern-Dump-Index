@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stoneplateletfB
-Creator: beatriiix
-Tags: elegant, path, stone, 

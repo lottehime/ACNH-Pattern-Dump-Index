@@ -1,4 +1,0 @@
-Type:Standee
-Name: bowling
-Creator: Kim
-Tags: pins, 

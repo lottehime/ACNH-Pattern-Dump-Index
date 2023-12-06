@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pinkstarpath4
-Creator: hyora
-Tags: 

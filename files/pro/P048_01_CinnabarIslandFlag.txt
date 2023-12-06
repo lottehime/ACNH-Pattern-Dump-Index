@@ -1,0 +1,4 @@
+Flag
+CinnabarIslandFlag
+DoctorPokemon
+Flag, cinnabar, flag, 

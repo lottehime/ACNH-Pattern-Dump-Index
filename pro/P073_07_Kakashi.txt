@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: Kakashi
-Creator: Bigbagel
-Tags: kakashi, konoha, naruto, 

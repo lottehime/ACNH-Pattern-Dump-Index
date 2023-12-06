@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: lucky
-Creator: villager
-Tags: 

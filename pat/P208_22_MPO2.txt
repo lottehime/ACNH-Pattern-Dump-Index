@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MPO2
-Creator: Greenie
-Tags: magic, path, sparkle, 

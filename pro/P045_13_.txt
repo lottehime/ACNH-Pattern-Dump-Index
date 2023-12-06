@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: 
-Creator: Ann
-Tags: 

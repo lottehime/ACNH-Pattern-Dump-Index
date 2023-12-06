@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Furrows
-Creator: Boshi
-Tags: 272105540932, grass, path, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RoseCove
-Creator: LOLITA
-Tags: rose, 

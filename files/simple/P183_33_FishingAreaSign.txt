@@ -1,0 +1,4 @@
+SimplePattern
+FishingAreaSign
+Boshi
+SimplePattern, 905016676578, 

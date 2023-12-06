@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pooltile
-Creator: meyling
-Tags: pool, tile, vaporwave, 

@@ -1,4 +1,0 @@
-Type:Coat
-Name: 123
-Creator: Berdine
-Tags: 

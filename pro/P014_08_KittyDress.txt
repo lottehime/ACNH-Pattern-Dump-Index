@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: KittyDress
-Creator: PisiPisi
-Tags: 

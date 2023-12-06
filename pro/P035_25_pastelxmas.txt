@@ -1,4 +1,0 @@
-Type:Pullover
-Name: pastelxmas
-Creator: froggylad
-Tags: 

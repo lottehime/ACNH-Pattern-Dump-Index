@@ -1,0 +1,4 @@
+SimplePattern
+KFC
+Aubrey
+SimplePattern, restaurant, 

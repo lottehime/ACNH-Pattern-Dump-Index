@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Snorlax
-Creator: Boshi
-Tags: case, phone, pokemon, snorlax, 

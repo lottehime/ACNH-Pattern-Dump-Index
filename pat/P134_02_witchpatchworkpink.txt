@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: witchpatchworkpink
-Creator: steff
-Tags: quilt, witch, witchy, 

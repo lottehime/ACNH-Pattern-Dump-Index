@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rockpathclovers1
-Creator: Berdine
-Tags: 

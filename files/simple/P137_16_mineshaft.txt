@@ -1,0 +1,4 @@
+SimplePattern
+mineshaft
+MA569852601603
+SimplePattern, lantern, mineshaft, stone, wall, 

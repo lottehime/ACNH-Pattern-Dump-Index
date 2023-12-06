@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 1626662979817000x0
-Creator: chato
-Tags: 

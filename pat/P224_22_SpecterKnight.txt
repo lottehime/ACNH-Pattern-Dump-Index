@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SpecterKnight
-Creator: Miray
-Tags: knight, specter, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: e
-Creator: flay
-Tags: 

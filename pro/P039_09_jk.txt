@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: jk
-Creator: Riky
-Tags: 

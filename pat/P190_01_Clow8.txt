@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Clow8
-Creator: 
-Tags: 

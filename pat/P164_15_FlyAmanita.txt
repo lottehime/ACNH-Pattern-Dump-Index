@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FlyAmanita
-Creator: Ribbajack
-Tags: mushroom, 

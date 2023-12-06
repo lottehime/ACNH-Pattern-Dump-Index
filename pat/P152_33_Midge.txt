@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Midge
-Creator: Vincent
-Tags: midge, vecinos, 

@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: SailorMoon
-Creator: Boshi
-Tags: 719586731487, 

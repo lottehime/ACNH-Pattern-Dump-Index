@@ -1,4 +1,0 @@
-Type:Coat
-Name: cozycharm
-Creator: Berdine
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: gas
-Creator: flay
-Tags: 

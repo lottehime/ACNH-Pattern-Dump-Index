@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: owo
-Creator: Berdine
-Tags: 

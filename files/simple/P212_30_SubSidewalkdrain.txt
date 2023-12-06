@@ -1,0 +1,4 @@
+SimplePattern
+SubSidewalkdrain
+MA091282488007
+SimplePattern, clean, path, suburb, 

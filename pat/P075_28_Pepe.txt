@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Pepe
-Creator: PutoMuti
-Tags: frog, meme, pepe, 

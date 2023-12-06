@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GudatamaC
-Creator: Boshi
-Tags: blue, case, egg, phone, yellow, 

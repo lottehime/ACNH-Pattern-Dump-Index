@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rocks
-Creator: Boshi
-Tags: 511696445826, stone, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Cielo4
-Creator: EdicionGamerYT
-Tags: 

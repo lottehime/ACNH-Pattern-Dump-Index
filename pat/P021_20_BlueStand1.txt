@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BlueStand1
-Creator: Samie323
-Tags: 

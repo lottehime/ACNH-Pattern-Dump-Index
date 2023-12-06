@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: SteampunkTest
-Creator: Ryren
-Tags: 

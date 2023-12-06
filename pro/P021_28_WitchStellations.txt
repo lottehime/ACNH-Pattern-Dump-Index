@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: WitchStellations
-Creator: Berdine
-Tags: 

@@ -1,4 +1,0 @@
-Type:Coat
-Name: lumine
-Creator: 
-Tags: 

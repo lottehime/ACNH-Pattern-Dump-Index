@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: grasspathBC
-Creator: mmanic
-Tags: grass, path, 

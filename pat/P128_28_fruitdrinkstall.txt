@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: fruitdrinkstall
-Creator: Moogie
-Tags: drink, fruit, menu, sign, stall, 

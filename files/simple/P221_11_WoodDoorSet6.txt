@@ -1,0 +1,4 @@
+SimplePattern
+WoodDoorSet6
+Boshi
+SimplePattern, 194436070570, door, wood, 

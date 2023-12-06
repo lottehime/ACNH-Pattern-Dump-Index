@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: welcomesign
-Creator: PigSheriff
-Tags: 

@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Queen
-Creator: Barbiu
-Tags: 

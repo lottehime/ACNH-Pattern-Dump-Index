@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Pasto1
-Creator: EdicionGamerYT
-Tags: 

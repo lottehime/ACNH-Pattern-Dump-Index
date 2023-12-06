@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Isabelle
-Creator: Miray
-Tags: flag, isabelle, 

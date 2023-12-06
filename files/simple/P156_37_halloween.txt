@@ -1,0 +1,4 @@
+SimplePattern
+halloween
+Crono2021
+SimplePattern, halloween, jack, pumpkin, 

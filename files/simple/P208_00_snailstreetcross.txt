@@ -1,0 +1,4 @@
+SimplePattern
+snailstreetcross
+Boshi
+SimplePattern, 702896710206, road, snail, street, 

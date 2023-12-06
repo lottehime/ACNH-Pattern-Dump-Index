@@ -1,0 +1,4 @@
+SimplePattern
+pear
+Moogie
+SimplePattern, fruit, pear, sign, 

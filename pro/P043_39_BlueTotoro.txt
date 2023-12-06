@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: BlueTotoro
-Creator: 1
-Tags: 

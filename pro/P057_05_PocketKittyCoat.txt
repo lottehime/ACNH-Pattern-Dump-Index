@@ -1,4 +1,0 @@
-Type:Coat
-Name: PocketKittyCoat
-Creator: Eeden
-Tags: coat, cute, kitty, 

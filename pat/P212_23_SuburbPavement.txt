@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SuburbPavement
-Creator: MA091282488007
-Tags: clean, path, suburb, 

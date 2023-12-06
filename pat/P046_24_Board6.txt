@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Board6
-Creator: Berdine
-Tags: 

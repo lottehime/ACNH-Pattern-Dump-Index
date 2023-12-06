@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: biban
-Creator: QR
-Tags: 

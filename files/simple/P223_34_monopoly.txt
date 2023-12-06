@@ -1,0 +1,4 @@
+SimplePattern
+monopoly
+meyling
+SimplePattern, decor, floordecor, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: greypoolwater3
-Creator: Moogie
-Tags: grey, pool, tile, water, 

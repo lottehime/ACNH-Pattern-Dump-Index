@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: batteredbrickwall
-Creator: MA741446886996
-Tags: brick, grunge, horror, panel, wall, 

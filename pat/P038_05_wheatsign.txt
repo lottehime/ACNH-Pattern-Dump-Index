@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: wheatsign
-Creator: michelle
-Tags: crop, farm, produce, sign, wheat, 

@@ -1,0 +1,4 @@
+SimplePattern
+Pear
+Amek
+SimplePattern, fruit, pear, sign, 

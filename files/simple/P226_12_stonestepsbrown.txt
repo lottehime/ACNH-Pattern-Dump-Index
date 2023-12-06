@@ -1,0 +1,4 @@
+SimplePattern
+stonestepsbrown
+meyling
+SimplePattern, path, stairs, steps, stone, 

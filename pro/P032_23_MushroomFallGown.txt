@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: MushroomFallGown
-Creator: TheNessaGamer
-Tags: fall, gown, mushroom, thenessagame, 

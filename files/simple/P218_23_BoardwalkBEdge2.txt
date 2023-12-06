@@ -1,0 +1,4 @@
+SimplePattern
+BoardwalkBEdge2
+Boshi
+SimplePattern, 699816390247, boardwalk, 

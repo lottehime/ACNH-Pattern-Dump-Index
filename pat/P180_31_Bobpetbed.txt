@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Bobpetbed
-Creator: Meltou
-Tags: bob, cat, petbed, 

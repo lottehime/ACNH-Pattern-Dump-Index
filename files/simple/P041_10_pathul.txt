@@ -1,0 +1,4 @@
+SimplePattern
+pathul
+georgia
+SimplePattern, grass, path, spring, 

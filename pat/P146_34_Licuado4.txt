@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Licuado4
-Creator: EdicionGamerYT
-Tags: 

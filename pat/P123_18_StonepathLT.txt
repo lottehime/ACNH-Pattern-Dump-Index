@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StonepathLT
-Creator: Lisbelle
-Tags: 

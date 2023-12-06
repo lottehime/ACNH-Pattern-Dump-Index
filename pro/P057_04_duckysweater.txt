@@ -1,4 +1,0 @@
-Type:Pullover
-Name: duckysweater
-Creator: Eeden
-Tags: duck, sweater, 

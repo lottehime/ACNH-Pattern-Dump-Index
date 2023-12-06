@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: fallrt
-Creator: Boshi
-Tags: 277160294943, 

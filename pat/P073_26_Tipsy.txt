@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Tipsy
-Creator: Hellen
-Tags: cat, chubby, cute, orangecat, tabby, 

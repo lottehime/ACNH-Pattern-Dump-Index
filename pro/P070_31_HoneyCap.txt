@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: HoneyCap
-Creator: Elimare
-Tags: hat, honey, yellow, 

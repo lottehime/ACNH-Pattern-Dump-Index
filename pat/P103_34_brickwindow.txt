@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: brickwindow
-Creator: flay
-Tags: 

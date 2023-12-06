@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: Cinnamonroll
-Creator: flay
-Tags: 

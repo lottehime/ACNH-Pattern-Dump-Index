@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: plaque
-Creator: flyingfish
-Tags: japanese, shrine, temple, 

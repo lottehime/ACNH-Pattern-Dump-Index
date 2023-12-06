@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GokuSSJ41
-Creator: TandiBandi
-Tags: 

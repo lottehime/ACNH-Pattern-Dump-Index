@@ -1,0 +1,4 @@
+SimplePattern
+RiceFields1
+Koid
+SimplePattern, 

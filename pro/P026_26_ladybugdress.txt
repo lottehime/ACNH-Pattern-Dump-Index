@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: ladybugdress
-Creator: Lavender
-Tags: bug, cute, ladybug, 

@@ -1,4 +1,0 @@
-Type:Coat
-Name: Snowychristmas
-Creator: M
-Tags: 

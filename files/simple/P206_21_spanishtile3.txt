@@ -1,0 +1,4 @@
+SimplePattern
+spanishtile3
+Greenie
+SimplePattern, tile, 

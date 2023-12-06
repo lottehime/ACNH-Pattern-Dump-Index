@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MCTNT
-Creator: meyling
-Tags: minecraft, 

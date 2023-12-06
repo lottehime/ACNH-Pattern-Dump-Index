@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bluerose3
-Creator: 123
-Tags: 

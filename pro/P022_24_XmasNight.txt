@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: XmasNight
-Creator: Berdine
-Tags: 

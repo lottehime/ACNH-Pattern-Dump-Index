@@ -1,4 +1,0 @@
-Type:Coat
-Name: xiaogou
-Creator: xiaogou
-Tags: 

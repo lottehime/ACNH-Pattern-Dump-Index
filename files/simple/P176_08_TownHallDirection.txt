@@ -1,0 +1,4 @@
+SimplePattern
+TownHallDirection
+Boshi
+SimplePattern, 250171765593, 

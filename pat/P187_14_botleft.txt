@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: botleft
-Creator: Boshi
-Tags: 403017041000, border, brick, path, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rock1
-Creator: rei
-Tags: path, rock, stone, 

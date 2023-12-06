@@ -1,4 +1,0 @@
-Type:Coat
-Name: cafemocha
-Creator: astrix
-Tags: cafe, cute, dress, girl, mocha, 

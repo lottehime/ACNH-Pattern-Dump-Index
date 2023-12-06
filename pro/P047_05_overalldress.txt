@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: overalldress
-Creator: fiona
-Tags: 

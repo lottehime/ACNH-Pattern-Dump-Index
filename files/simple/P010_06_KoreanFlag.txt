@@ -1,0 +1,4 @@
+SimplePattern
+KoreanFlag
+SigmaAlpha
+SimplePattern, flag, koean, 

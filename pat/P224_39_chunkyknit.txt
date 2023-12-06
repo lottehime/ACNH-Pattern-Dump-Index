@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: chunkyknit
-Creator: meyling
-Tags: fabric, furniture, 

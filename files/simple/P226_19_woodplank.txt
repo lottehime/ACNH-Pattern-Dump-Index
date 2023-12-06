@@ -1,0 +1,4 @@
+SimplePattern
+woodplank
+meyling
+SimplePattern, edge, wood, 

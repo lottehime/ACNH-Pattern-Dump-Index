@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: strawberrydress
-Creator: PigSheriff
-Tags: 

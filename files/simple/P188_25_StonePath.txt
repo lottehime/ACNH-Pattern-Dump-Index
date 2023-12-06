@@ -1,0 +1,4 @@
+SimplePattern
+StonePath
+Boshi
+SimplePattern, 511696445826, grey, path, 

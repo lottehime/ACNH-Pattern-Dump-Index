@@ -1,0 +1,4 @@
+SimplePattern
+bear
+Sakura
+SimplePattern, animal, bear, 

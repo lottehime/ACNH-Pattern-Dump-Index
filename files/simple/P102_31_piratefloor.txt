@@ -1,0 +1,4 @@
+SimplePattern
+piratefloor
+piratefloor
+SimplePattern, floor, pirate, piratefloor, 

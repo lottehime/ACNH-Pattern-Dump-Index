@@ -1,0 +1,4 @@
+SimplePattern
+TerracotaInnerDR
+Boshi
+SimplePattern, 701183139106, border, 

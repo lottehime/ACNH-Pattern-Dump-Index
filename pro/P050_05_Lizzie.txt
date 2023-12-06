@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Lizzie
-Creator: fiona
-Tags: 

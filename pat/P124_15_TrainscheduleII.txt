@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TrainscheduleII
-Creator: TMS
-Tags: city, citycore, train, 

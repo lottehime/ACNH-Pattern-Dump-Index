@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: Lecter
-Creator: Benji
-Tags: blood, dress, 

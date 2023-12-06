@@ -1,4 +1,0 @@
-Type:Flag
-Name: Empty
-Creator: 
-Tags: 

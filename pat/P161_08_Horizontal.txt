@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Horizontal
-Creator: Fasil
-Tags: 931837796275, 

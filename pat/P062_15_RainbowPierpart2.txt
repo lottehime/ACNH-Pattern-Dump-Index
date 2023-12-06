@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RainbowPierpart2
-Creator: Wicchan
-Tags: 

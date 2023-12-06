@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: z505
-Creator: NORTH
-Tags: 

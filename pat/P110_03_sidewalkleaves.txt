@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: sidewalkleaves
-Creator: flay
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+MoonStone4
+Boshi
+SimplePattern, 834282251306, circle, moon, stone, white, 

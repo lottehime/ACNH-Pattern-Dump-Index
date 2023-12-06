@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: mushroomposter1
-Creator: Ribbajack
-Tags: mushroom, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CafeMenu
-Creator: Renmo
-Tags: brown, cafe, menu, sign, 

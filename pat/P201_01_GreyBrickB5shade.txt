@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GreyBrickB5shade
-Creator: Boshi
-Tags: 835862661049, brick, grey, path, 

@@ -1,0 +1,4 @@
+SimplePattern
+whitecobblestones2
+gyomori8
+SimplePattern, 745367465905, path, road, 

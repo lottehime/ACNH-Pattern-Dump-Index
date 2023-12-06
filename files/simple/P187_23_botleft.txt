@@ -1,0 +1,4 @@
+SimplePattern
+botleft
+Boshi
+SimplePattern, 403017041000, border, brick, path, 

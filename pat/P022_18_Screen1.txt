@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Screen1
-Creator: Samie323
-Tags: 

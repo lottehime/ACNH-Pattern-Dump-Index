@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Whiteplank2
-Creator: Cin
-Tags: board, horizontal, plank, white, 

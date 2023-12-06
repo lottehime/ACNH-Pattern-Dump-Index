@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: OldJewels
-Creator: Boshi
-Tags: 844849779907, jewels, magic, shelf, 

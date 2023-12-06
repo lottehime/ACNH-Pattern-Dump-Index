@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: windowBRN
-Creator: flay
-Tags: 

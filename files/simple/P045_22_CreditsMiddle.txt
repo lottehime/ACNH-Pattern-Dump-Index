@@ -1,0 +1,4 @@
+SimplePattern
+CreditsMiddle
+A
+SimplePattern, 

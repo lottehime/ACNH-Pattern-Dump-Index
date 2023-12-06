@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Sunflowerquilt
-Creator: Greenie
-Tags: pattern, quilt, sun, sunflower, 

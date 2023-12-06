@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: corn
-Creator: Haireen
-Tags: candycorn, halloween, pattern, road, 

@@ -1,0 +1,4 @@
+SimplePattern
+BikeBayRight
+Boshi
+SimplePattern, 729988656286, bike, parking, 

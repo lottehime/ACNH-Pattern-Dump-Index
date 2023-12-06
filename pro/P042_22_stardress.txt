@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: stardress
-Creator: Moogie
-Tags: dress, stars, 

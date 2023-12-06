@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodenPlank4
-Creator: Tansie
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+TopLeftAutumn
+Endora
+SimplePattern, dirt, natural, path, 

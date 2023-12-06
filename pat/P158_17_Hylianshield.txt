@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Hylianshield
-Creator: aperfectcircle
-Tags: hylian, link, mastersword, shield, zelda, 

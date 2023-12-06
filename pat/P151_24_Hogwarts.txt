@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Hogwarts
-Creator: Star
-Tags: harrypotter, hogwarts, paint, sign, 

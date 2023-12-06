@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TomatoSign
-Creator: NickR
-Tags: 

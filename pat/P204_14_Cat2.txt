@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Cat2
-Creator: Boshi
-Tags: 240154972337, cat, 

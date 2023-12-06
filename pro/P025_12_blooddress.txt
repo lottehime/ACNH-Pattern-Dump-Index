@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: blooddress
-Creator: reishiki
-Tags: 789555589106, 

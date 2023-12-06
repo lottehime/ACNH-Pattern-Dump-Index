@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Gachapon
-Creator: Boshi
-Tags: 785621859198, 

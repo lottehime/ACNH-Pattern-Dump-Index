@@ -1,4 +1,0 @@
-Type:TShirt
-Name: wow
-Creator: wuxi
-Tags: 

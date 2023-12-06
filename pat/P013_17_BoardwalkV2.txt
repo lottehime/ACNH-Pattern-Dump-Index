@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BoardwalkV2
-Creator: M
-Tags: 

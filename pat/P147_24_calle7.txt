@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: calle7
-Creator: EdicionGamerYT
-Tags: 

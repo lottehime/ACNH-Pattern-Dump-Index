@@ -1,4 +1,0 @@
-Type:Coat
-Name: Cottagejacket
-Creator: TheNessaGamer
-Tags: cottage, cottagejack, jacket, 

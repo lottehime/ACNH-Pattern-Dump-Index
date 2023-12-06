@@ -1,0 +1,4 @@
+SimplePattern
+StonePathBorderUR
+cc
+SimplePattern, 

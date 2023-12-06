@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CobblestoneM2
-Creator: LucyArden
-Tags: cobble, cobblestone, path, rock, stone, 

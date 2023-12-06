@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Stardress
-Creator: CinCin
-Tags: 

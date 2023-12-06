@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: RoadY
-Creator: Aaron
-Tags: letter, road, 

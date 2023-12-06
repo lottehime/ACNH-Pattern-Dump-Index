@@ -1,4 +1,0 @@
-Type:TShirt
-Name: BMTH
-Creator: Katie
-Tags: band, 

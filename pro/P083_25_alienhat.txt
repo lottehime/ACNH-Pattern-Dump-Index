@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: alienhat
-Creator: meyling
-Tags: hat, 

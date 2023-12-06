@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: KeroppiChalk
-Creator: ling
-Tags: 

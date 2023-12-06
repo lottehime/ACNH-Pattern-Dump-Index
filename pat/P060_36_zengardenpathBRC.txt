@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: zengardenpathBRC
-Creator: mmanic
-Tags: garden, path, zen, 

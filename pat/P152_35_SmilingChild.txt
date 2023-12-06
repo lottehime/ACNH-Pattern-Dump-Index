@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SmilingChild
-Creator: BloodyScreeching
-Tags: child, corrupt, horror, smile, 

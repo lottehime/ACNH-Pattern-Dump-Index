@@ -1,0 +1,4 @@
+SimplePattern
+GCNDirt1
+angel
+SimplePattern, gamecube, gcn, legacy, retro, 

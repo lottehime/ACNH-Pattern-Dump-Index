@@ -1,4 +1,0 @@
-Type:LongSleeveDress3DS
-Name: Gothicdress
-Creator: Greenie
-Tags: 

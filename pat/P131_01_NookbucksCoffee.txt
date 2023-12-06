@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: NookbucksCoffee
-Creator: Moogie
-Tags: coffee, logo, nook, sign, 

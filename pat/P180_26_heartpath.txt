@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: heartpath
-Creator: mikue
-Tags: cute, heart, path, pink, 

@@ -1,4 +1,0 @@
-Type:TShirt
-Name: VegetaShirt
-Creator: TandiBandi
-Tags: 

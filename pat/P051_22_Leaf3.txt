@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Leaf3
-Creator: marie
-Tags: green, ground, leaf, leaves, 

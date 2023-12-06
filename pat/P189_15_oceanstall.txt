@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: oceanstall
-Creator: meyling
-Tags: beach, ocean, stall, water, 

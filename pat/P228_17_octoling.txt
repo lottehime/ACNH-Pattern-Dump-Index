@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: octoling
-Creator: Miray
-Tags: octoling, splatoon, 

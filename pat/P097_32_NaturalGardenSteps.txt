@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: NaturalGardenSteps
-Creator: flay
-Tags: 

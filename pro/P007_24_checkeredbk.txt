@@ -1,4 +1,0 @@
-Type:Robe
-Name: checkeredbk
-Creator: M
-Tags: 

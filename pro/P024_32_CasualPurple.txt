@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: CasualPurple
-Creator: dy
-Tags: 

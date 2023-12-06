@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CommunityFlag
-Creator: serialfriend
-Tags: community, flag, tv, 

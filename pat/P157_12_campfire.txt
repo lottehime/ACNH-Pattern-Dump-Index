@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: campfire
-Creator: Anjesse
-Tags: base, camp, campfire, campfirebase, fire, 

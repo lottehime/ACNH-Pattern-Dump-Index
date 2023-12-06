@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: railsl
-Creator: meyling
-Tags: rails, 

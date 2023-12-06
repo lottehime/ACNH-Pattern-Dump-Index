@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: ConfettiHat
-Creator: Moogie
-Tags: confetti, hat, sparkle, 

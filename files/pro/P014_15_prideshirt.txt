@@ -1,0 +1,4 @@
+TShirt
+prideshirt
+rat
+TShirt, pride, 

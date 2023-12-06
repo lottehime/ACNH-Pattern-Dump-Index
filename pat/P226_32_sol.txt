@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: sol
-Creator: meyling
-Tags: floor, flooring, 

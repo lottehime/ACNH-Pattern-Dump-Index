@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: cliff1R
-Creator: mmanic
-Tags: cliff, path, transitions, 

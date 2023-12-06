@@ -1,4 +1,0 @@
-Type:Coat
-Name: redplaid
-Creator: Honey
-Tags: black, dress, overalls, plaid, red, 

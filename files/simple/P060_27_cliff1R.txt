@@ -1,0 +1,4 @@
+SimplePattern
+cliff1R
+mmanic
+SimplePattern, cliff, path, transitions, 

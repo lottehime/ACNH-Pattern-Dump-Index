@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SidewalkLeftBottom
-Creator: Boshi
-Tags: 581508049726, brick, path, sidewalk, 

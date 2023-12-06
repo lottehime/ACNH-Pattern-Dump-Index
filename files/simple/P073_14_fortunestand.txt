@@ -1,0 +1,4 @@
+SimplePattern
+fortunestand
+nyx
+SimplePattern, dark, fortune, magic, mystic, stand, 

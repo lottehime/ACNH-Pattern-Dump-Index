@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PotterySign
-Creator: flay
-Tags: 

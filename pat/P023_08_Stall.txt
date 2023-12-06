@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Stall
-Creator: ling
-Tags: 

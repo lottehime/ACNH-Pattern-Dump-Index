@@ -1,4 +1,0 @@
-Type:Coat
-Name: DuckyOutfit
-Creator: PisiPisi
-Tags: 

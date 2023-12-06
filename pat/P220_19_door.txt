@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: door
-Creator: meyling
-Tags: walldecor, 

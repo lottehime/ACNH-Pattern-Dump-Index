@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Clow4
-Creator: 
-Tags: 

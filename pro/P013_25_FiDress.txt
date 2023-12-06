@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: FiDress
-Creator: Moogie
-Tags: dress, fi, loz, skyward, sword, 

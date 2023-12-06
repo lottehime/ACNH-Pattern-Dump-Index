@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ghg
-Creator: ghg
-Tags: 

@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: YellowRuffleDress
-Creator: Boshi
-Tags: 603059418568, 

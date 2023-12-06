@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ForestWalkway5
-Creator: Boshi
-Tags: 738180127434, 

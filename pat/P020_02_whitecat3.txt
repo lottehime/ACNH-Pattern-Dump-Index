@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: whitecat3
-Creator: PigSheriff
-Tags: 

@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: LizzyDress2
-Creator: fiona
-Tags: 

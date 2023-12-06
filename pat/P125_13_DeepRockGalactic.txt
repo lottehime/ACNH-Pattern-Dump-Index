@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DeepRockGalactic
-Creator: MrFitz
-Tags: deep, galactic, logo, planet, rock, 

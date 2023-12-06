@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: orangegreenstall
-Creator: flay
-Tags: 

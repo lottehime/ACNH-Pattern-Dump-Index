@@ -1,4 +1,0 @@
-Type:NoSleeveDress3DS
-Name: Empty
-Creator: Ryo
-Tags: 

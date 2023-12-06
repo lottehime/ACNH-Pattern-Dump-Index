@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: opalstarstonelg
-Creator: Boshi
-Tags: 871549200702, 

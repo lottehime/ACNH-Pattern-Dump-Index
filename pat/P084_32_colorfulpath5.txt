@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: colorfulpath5
-Creator: rei
-Tags: 

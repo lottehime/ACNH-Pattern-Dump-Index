@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: cyberpunk
-Creator: AliceShiro
-Tags: cyberpunk, retro, wave, 

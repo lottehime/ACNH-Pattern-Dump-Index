@@ -63,19 +63,11 @@
 
 If you're like most Animal Crossing New Horizons players, you love messing about making your cool island theme and plastering custom design patterns all over the place. Me too. 📐🖌️
 
-Getting back into ACNH this year and wanting to do some modding of my save file, it was annoying to find design patterns online that were easily accessible without having to click through unnecessarily fluffy UIs to download a few files. Then those files were all in slightly different formats (untrimmed bin, trimmed bin, QR only, scrambled bin, code only, etc.). No shade on the dev work, but it drove me nuts as a user! 🤬
+Getting back into ACNH this year and wanting to do some modding of my save file, it was annoying to find design patterns online that were easily accessible without having to click through unnecessarily fluffy UIs to download a few files. Then those files were all in slightly different formats (untrimmed bin, trimmed bin, QR only, scrambled bin, code only, etc.) and it drove me nuts as a user! 🤬
 
 So I did a little reversing of some apps and sites and decided to dump a bunch of patterns I could find and store for myself.  
 The only problem? Browsing and maintaining that catalog! 😫  
-I then set out to create a single script that builds a 3 page simple site (nojQuery, no DBs, no dependencies, etc.) that can catalog and present those patterns with their available details and allow them to be downloaded as untrimmed [NHSE](https://github.com/kwsch/NHSE) compatible files. ✌
-
-Is it the most elegant thing ever? ❌  
-Is it the most efficient site ever? ❌  
-Does it do it's job? ✔️  
-Is it available to everyone to edit and easily contributed to? ✔️
-
-It's a batch file that creates a html file with self contained js and css that presents the files and their info.  
-Like a Turducken, but for a ACNH design file catalog website builder. A... <i><strong>bathyperjavheetesign</strong></i>?
+I then set out to create a single script that builds a simple site that can catalog and present those patterns with their available details and allow them to be searched/filtered and downloaded as untrimmed [NHSE](https://github.com/kwsch/NHSE) compatible files. ✌
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -83,32 +75,35 @@ Like a Turducken, but for a ACNH design file catalog website builder. A... <i><s
 <!-- FEATURES -->
 ## Features:
 
+### Generic:
+* Use the pages buttons or dropdown to navigate further.  
+* Use the filter fields to search by name of creator, name of pattern, tags, and by pattern type.  
+* Hover over an image to enlarge and view it in a larger size (for seeing pattern details or for scanning a QR).  
+* Click the download links to get the files.
+
 ### Normal Pattern Dump
-The directory ``pat`` contains a living dump of normal pattern files in ``.nhd`` format along with a ``.png`` of the pattern a ``.txt`` with its details, a ``.png`` QR Code for the pattern (or a placeholder) and a ``.acnl`` file for any interoperable patterns.  
+The directory ``files/pat`` contains a living dump of normal pattern files in ``.nhd`` format along with a ``.png`` of the pattern a ``.txt`` with its details, a ``.QR.png`` QR Code for the pattern (or a placeholder) and a ``.acnl`` file for any interoperable patterns.  
 They're browsable from your OS on their own (obviously) due to this.  
-Simply download the ``.nhd`` by clicking the pattern image, then load into your save with NHSE - or if you're running OFW you can scan the QR into NookLink for those that are supported.
+Simply download the ``.nhd`` by clicking the download link, then load into your save with NHSE - or if you're running OFW you can scan the QR into NookLink for those that are supported.
 
 ### PRO Pattern Dump
-The directory ``pro`` contains a living dump of normal pattern files in ``.nhpd`` format along with a ``.png`` of the pattern a ``.txt`` with its details, a ``.png`` QR Code for the pattern (or a placeholder) and a ``.acnl`` file for any interoperable patterns. 
+The directory ``files/pro`` contains a living dump of normal pattern files in ``.nhpd`` format along with a ``.png`` of the pattern a ``.txt`` with its details, a ``.QR.png`` QR Code for the pattern (or a placeholder) and a ``.acnl`` file for any interoperable patterns. 
 They're browsable from your OS on their own (obviously) due to this.  
-Simply download the ``.nhpd`` by clicking the pattern image, then load into your save with NHSE - or if you're running OFW you can scan the QR into NookLink for those that are supported.
+Simply download the ``.nhpd`` by clicking the download link, then load into your save with NHSE - or if you're running OFW you can scan the QR into NookLink for those that are supported.
 
 ### Website
-It's made up of 3 parts: ``index.html``, ``pattern.html`` and ``pro.html``.  
+It's made up of 3 parts: ``files/table.html`` (generated), ``files/top.html`` (static) and ``files/bot.html`` (static) that are combined into a single ``index.html``.
 Load up the index and browse away.
 It's also available online here: [ACNH Pattern Dump Index (GitHub Pages)](https://lottehime.github.io/ACNH-Pattern-Dump-Index/)
 
-Use the Villager faces as a button to go back to index from the other pages.  
-Pagination is done through hiding divs, so each load of the ``pattern.html`` and ``pro.html`` pages causes the load animation while it loads up the thousands of patterns. It's a little slow because it's a janky way to do it, but it means no DBs etc.
-
 ### Windows Batch File Page Creator/Updater
 The batch file ``live_makehtml.bat`` can be run to generate a new version of the index and pattern pages.  
-Consider that it will take time! Especially on a slow drive, or a network drive. It's gathering up <strong>a lot</strong> of files!
+Consider that it will take time! Especially on a slow drive, or a network drive. It's gathering up <strong>a lot</strong> of files into the ``table.html`` file!
 
 ### Source
 To build your own customised version, refer to the ``_src`` folder.  
-Place your normal patterns in ``_src/pat`` and your PRO patterns in ``_src/pro``.  
-Then run ``makehtml.bat`` as is, or modified to your liking.
+Place your normal patterns in ``_src/files/pat`` and your PRO patterns in ``_src/files/pro``.  
+Then run ``_src/makehtml.bat`` as is, or modified to your liking.
 
 The file formats are as follows:
 
@@ -116,24 +111,24 @@ The file formats are as follows:
 Each design patterns 4 files need to have the same name (minus extensions).
 * ``.nhd``: Normal Design Pattern Data, ``0x2A8`` (680 bytes) in size. Untrimmed. NHSE compatible.
 * ``.png``: 32x32px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
-* ``.png``: QR Code PNG of the for the pattern, or a placeholder "no qr" image. 
+* ``.QR.png``: QR Code PNG of the for the pattern, or a placeholder "no qr" image. 
 * ``.txt``: 4 line file.
-  * Line 1 starts with: "Type: " + design pattern type.
-  * Line 2 starts with: "Name: " + design pattern name.
-  * Line 3 starts with: "Creator: " + creator name.
-  * Line 4 starts with: "Tags: " + tags separated by commas.
+  * Line 1: design pattern type.
+  * Line 2: design pattern name.
+  * Line 3: creator name.
+  * Line 4: tags separated by commas.
 Optionally, for ACNL interoperable pattern types a ``.acnl`` file with the same name can be included as well.
 
 <strong>PRO Design Pattern Files:</strong>  
 Each design patterns 3 files need to have the same name (minus extensions).
 * ``.nhpd``: PRO Design Pattern Data, ``0x8A8`` (2216 bytes) in size. Untrimmed. NHSE compatible.
 * ``.png``: 64x64px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
-* ``.png``: QR Code PNG of the for the pattern, or a placeholder "no qr" image. 
+* ``.QR.png``: QR Code PNG of the for the pattern, or a placeholder "no qr" image. 
 * ``.txt``: 4 line file.
-  * Line 1 starts with: "Type: " + design pattern type.
-  * Line 2 starts with: "Name: " + design pattern name.
-  * Line 3 starts with: "Creator: " + creator name.
-  * Line 4 starts with: "Tags: " + tags separated by commas.
+  * Line 1: design pattern type.
+  * Line 2: design pattern name.
+  * Line 3: creator name.
+  * Line 4: tags separated by commas.
   Optionally, for ACNL interoperable pattern types a ``.acnl`` file with the same name can be included as well.
 
 ### Tools
@@ -147,10 +142,11 @@ WIP. See roadmap below.
 
 - [x] Host on GitHub Pages.
 - [X] Integrate QR codes into the website script side (probably QR as ``.png``, show QR.png either below pattern image or as mouseover).
+- [X] Cleanup the batch file and combine some iterating for efficieny of file size and build time.
+- [X] Better, faster, responsive site to replace the basic one.
 - [ ] (WIP) Add tool for creating needed image and text files from ``.nhd`` and ``.nhpd`` files.
 - [ ] (WIP) Add tool for producing QR codes from the files (needs some reversing).
-- [ ] Cleanup the batch file and combine some iterating for efficieny of file size and build time.
-- [ ] Better, faster, responsive site to replace the basic one.
+
 
 See the [open issues](https://github.com/lottehime/ACNH-Pattern-Dump-Index/issues) for any additional community proposed features (and known issues).
 
@@ -175,10 +171,10 @@ _To build your own:_
    ```sh
    git clone https://github.com/lottehime/ACNH-Pattern-Dump-Index.git
    ```
-3. Either move or copy the ``_src`` folder to where you intend to run it and modify the contents of ``_src/pat`` and ``_src/pro``; <strong>or</strong>
-4. Modify the contents of ``pat`` and ``pro`` in the root directory (those containing the current dump).
+3. Either move or copy the ``_src`` folder to where you intend to run it and modify the contents of ``_src/files/pat`` and ``_src/files/pro``; <strong>or</strong>
+4. Modify the contents of ``files/pat`` and ``files/pro`` in the root directory (those containing the current dump).
 5. Then run ``_src/makehtml.bat`` if modifying from the ``_src`` folder, or ``live_makehtml.bat`` if operating in the root.
-6. Wait for it to build the ``.html`` files.
+6. Wait for it to build the ``index.html`` file.
 7. Host as desired.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -203,6 +199,9 @@ _To build your own:_
 <a href="#">
 <img src="https://img.shields.io/static/v1?message=C Sharp&logo=csharp&label=&color=239120&logoColor=white&labelColor=&style=for-the-badge" height="35"/></a>
 -->
+
+<a href="#">
+<img src="https://custom-icon-badges.demolab.com/badge/-Datatable-blue?style=for-the-badge&logo=pivot-column&logoColor=white" height="35"/></a>
 
 <a href="#">
 <img src="https://custom-icon-badges.demolab.com/badge/-animal_crossing-68ba9f?style=for-the-badge&logoSource=feather&logo=compass&logoColor=white" height="35"/></a>
@@ -264,6 +263,8 @@ Distributed under the GNU General Public License v3.0 License. See `LICENSE.txt`
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+
+Uses [datatable by Holt59](https://github.com/Holt59/datatable) as a base for managing tables.
 
 Thanks to all the people who created the designs in the dump and uploaded them to different places. I've done my best to make sure the data available to me to credit you is here. Please feel free to reach out for corrections! 💜  
 

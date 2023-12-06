@@ -1,4 +1,0 @@
-Type:TShirt
-Name: GamzeeShirt
-Creator: gug
-Tags: clown, gamzee, homestuck, shirt, 

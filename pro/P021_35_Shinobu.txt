@@ -1,4 +1,0 @@
-Type:LongSleeveDress3DS
-Name: Shinobu
-Creator: Berdine
-Tags: 

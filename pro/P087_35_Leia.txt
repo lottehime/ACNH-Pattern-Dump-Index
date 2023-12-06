@@ -1,4 +1,0 @@
-Type:SleevelessDress
-Name: Leia
-Creator: Boshi
-Tags: 832351882142, starwars, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: calle11
-Creator: EdicionGamerYT
-Tags: 

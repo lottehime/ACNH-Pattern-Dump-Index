@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PrismaLunar01
-Creator: DaveRedwolf
-Tags: moon, prism, prisma, sailor, sailormoon, 

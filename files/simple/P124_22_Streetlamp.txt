@@ -1,0 +1,4 @@
+SimplePattern
+Streetlamp
+TMS
+SimplePattern, circle, stone, 

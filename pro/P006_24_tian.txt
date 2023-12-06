@@ -1,4 +1,0 @@
-Type:SleevelessDress
-Name: tian
-Creator: san
-Tags: 

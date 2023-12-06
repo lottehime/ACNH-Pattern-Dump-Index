@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WhiteFlowerRug
-Creator: M
-Tags: 

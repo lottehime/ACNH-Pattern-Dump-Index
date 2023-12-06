@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StarryNight
-Creator: Mae
-Tags: 

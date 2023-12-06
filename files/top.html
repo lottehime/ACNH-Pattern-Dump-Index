@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en-us" id="top">
+
+    <head>
+        <meta charset="UTF-8">
+        <title>ACNH Pattern Dump Index</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="css/datatable-bootstrap.min.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="css/index-utils.css">
+        <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
+
+        <script src="js/jquery.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/datatable.min.js"></script>
+
+        <!-- Image Lazy Loading -->
+        <script>
+            document.addEventListener("DOMContentLoaded", function () { 
+                document.addEventListener('scroll', loadImagesLazily); 
+                window.addEventListener('resize', loadImagesLazily); 
+            }); 
+            
+            function loadImagesLazily() { 
+              let images = document.querySelectorAll("img[data-src]");
+              for (let i = 0; i < images.length; i++) { 
+                let rect = images[i].getBoundingClientRect(); 
+                if (images[i].hasAttribute("data-src") 
+                  && rect.bottom > 0 && rect.top < window.innerHeight 
+                  && rect.right > 0 && rect.left < window.innerWidth) { 
+                  images[i].setAttribute("src", images[i].getAttribute("data-src")); 
+                  images[i].removeAttribute("data-src"); 
+                } 
+              } 
+            };
+        </script>
+        <!-- /Image Lazy Loading -->
+
+    </head>
+
+    <body>
+        <!-- Title -->
+        <div>
+            <h1><img src="img/favicon.png" width="38" height="38" class="logo">AC:NH Pattern Dump Index</h1>
+            <h3>Simple & PRO Patterns</h3>
+            <br>
+        </div>
+        <div id="load"> 
+          <br>
+          <p>Loading patterns database.<br>Please give Orville a moment...</p>
+          <img src="img/orville.png">
+        </div>
+        <!-- /Title -->
+        <!-- Content Panel -->
+        <div class="tab-content" id="contents">
+
+            <!-- Villager -->
+            <img src="img/villagers/Audie.png" width="96" height="96" title="A cutie!" class="villager-shake"> 
+            <!-- /Villager -->
+
+            <!-- Rendered Table -->
+            <div role="tabpanel" class="tab-pane active" id="patterns-datatable-output"></div>
+            <!-- /Rendered Table -->
+            
+            <!-- Table Data -->
+            <div role="tabpanel" class="tab-pane" id="patterns-datatable">
+                <table class="table table-bordered" id="table-load">
+                    <thead>
+                        <tr>
+                            <th>Preview</th>
+                            <th>QR Code</th>
+                            <th>Download</th>
+                            <th>Pattern Type</th>
+                            <th>Pattern Name</th>
+                            <th>Creator</th>
+                            <th>Tags</th>
+                        </tr>
+                    </thead>
+                    <tbody>

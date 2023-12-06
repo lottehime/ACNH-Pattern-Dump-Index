@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SariRoad13
-Creator: Boshi
-Tags: 568801889094, road, street, 

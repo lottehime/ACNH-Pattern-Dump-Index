@@ -1,0 +1,4 @@
+SimplePattern
+stonebrickwhite
+meyling
+SimplePattern, path, stone, 

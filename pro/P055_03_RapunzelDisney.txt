@@ -1,4 +1,0 @@
-Type:LongSleeveDress3DS
-Name: RapunzelDisney
-Creator: Star
-Tags: disney, princess, rapunzel, 

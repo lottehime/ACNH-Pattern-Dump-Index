@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BrightCobblestone
-Creator: Boshi
-Tags: 818897712442, path, 

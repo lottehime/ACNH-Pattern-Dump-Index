@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodenstall
-Creator: meyling
-Tags: stall, wood, 

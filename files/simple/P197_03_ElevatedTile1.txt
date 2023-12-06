@@ -1,0 +1,4 @@
+SimplePattern
+ElevatedTile1
+Boshi
+SimplePattern, 194436070570, elevated, wood, 

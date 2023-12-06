@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: alfonso1
-Creator: flay
-Tags: 

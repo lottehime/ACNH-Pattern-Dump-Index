@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Ghoul
-Creator: Doe
-Tags: dress, ghost, japanese, spooky, yokai, 

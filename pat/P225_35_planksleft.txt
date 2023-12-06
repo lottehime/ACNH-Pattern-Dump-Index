@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: planksleft
-Creator: meyling
-Tags: path, planks, wood, 

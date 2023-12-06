@@ -1,0 +1,4 @@
+SimplePattern
+Potions
+Boshi
+SimplePattern, 037059421503, magic, 

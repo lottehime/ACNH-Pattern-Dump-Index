@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rugr
-Creator: froggylad
-Tags: 

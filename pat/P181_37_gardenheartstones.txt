@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: gardenheartstones
-Creator: Boshi
-Tags: 042652198183, 

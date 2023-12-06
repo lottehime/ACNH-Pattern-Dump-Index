@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Eyebrowsbandaids
-Creator: Catucchi
-Tags: bandaid, eyebrow, face, sticker, 

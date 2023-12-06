@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: pinkrainjacket
-Creator: naisi
-Tags: 

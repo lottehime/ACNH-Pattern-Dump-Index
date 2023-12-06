@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: lilgrasspath4
-Creator: path
-Tags: 

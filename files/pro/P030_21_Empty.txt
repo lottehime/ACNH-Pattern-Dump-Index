@@ -1,0 +1,4 @@
+Flag
+Empty
+Unknown
+Flag, 

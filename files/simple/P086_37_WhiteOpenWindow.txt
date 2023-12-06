@@ -1,0 +1,4 @@
+SimplePattern
+WhiteOpenWindow
+Wumi
+SimplePattern, citycore, cottagecore, forestcore, idkcore, 

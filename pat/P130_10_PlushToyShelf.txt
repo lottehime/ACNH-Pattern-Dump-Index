@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PlushToyShelf
-Creator: Koid
-Tags: 

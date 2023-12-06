@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Summer
-Creator: Berdine
-Tags: 

@@ -1,4 +1,0 @@
-Type:Umbrella
-Name: ShiekahChest
-Creator: Moogie
-Tags: chest, loz, shiekah, umbrella, zelda, 

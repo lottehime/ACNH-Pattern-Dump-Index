@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Coffee
-Creator: MH
-Tags: cafe, coffee, 

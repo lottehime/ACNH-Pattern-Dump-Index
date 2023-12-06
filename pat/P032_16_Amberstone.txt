@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Amberstone
-Creator: leaf
-Tags: 

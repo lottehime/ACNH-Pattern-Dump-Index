@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: innercorner4
-Creator: flay
-Tags: 

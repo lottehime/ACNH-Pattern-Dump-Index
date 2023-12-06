@@ -1,4 +1,0 @@
-Type:Coat
-Name: bluecoat
-Creator: noname
-Tags: 

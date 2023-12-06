@@ -1,4 +1,0 @@
-Type:Robe
-Name: FancyKimono
-Creator: Jenna
-Tags: blue, flowers, gradient, kimono, stars, 

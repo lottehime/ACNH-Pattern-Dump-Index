@@ -1,0 +1,4 @@
+SimplePattern
+barberwindow1
+flay
+SimplePattern, 

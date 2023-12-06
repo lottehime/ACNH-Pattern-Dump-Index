@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: popsiclestand
-Creator: Boshi
-Tags: 750508940096, 

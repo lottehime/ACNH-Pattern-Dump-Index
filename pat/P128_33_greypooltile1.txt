@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: greypooltile1
-Creator: Moogie
-Tags: grey, pool, tiles, 

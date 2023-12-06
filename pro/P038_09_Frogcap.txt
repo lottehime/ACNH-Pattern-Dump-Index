@@ -1,4 +1,0 @@
-Type:KnitCap
-Name: Frogcap
-Creator: maryviolin
-Tags: frog, green, 

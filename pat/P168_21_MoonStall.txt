@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MoonStall
-Creator: Ribbajack
-Tags: 

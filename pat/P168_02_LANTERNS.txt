@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LANTERNS
-Creator: Fasil
-Tags: 921748871370, 

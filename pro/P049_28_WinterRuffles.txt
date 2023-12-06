@@ -1,4 +1,0 @@
-Type:Coat
-Name: WinterRuffles
-Creator: fiona
-Tags: 

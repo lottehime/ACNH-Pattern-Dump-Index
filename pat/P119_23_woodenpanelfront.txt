@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodenpanelfront
-Creator: LOLITA
-Tags: panel, wood, 

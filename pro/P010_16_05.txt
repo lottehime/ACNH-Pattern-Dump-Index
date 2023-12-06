@@ -1,4 +1,0 @@
-Type:Robe
-Name: 05
-Creator: M
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Crystalspattern
-Creator: Lavender
-Tags: crystal, crystals, geometric, purple, tiling, 

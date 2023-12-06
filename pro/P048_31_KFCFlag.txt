@@ -1,4 +1,0 @@
-Type:Flag
-Name: KFCFlag
-Creator: Vinnie
-Tags: flag, kfc, 

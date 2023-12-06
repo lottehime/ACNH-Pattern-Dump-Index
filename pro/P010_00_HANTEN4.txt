@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: HANTEN4
-Creator: M
-Tags: 

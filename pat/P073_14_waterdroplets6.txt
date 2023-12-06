@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: waterdroplets6
-Creator: lee
-Tags: 

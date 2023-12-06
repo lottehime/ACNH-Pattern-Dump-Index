@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: petalstep
-Creator: EdicionGamerYT
-Tags: 

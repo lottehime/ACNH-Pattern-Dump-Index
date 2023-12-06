@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodBorder3
-Creator: Boshi
-Tags: 609846388629, border, flower, wood, 

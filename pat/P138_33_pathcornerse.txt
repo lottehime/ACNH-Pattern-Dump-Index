@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pathcornerse
-Creator: flyingfish
-Tags: 

@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: DenimLove
-Creator: TheNessaGamer
-Tags: 

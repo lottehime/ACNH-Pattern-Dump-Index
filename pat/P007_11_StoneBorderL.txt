@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StoneBorderL
-Creator: Honey
-Tags: border, path, stone, trim, white, 

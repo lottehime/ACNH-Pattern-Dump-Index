@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: topplank
-Creator: Udderchan
-Tags: plank, wood, woodenplank, 

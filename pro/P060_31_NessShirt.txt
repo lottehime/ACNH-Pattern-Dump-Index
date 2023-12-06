@@ -1,4 +1,0 @@
-Type:TShirt
-Name: NessShirt
-Creator: Fasil
-Tags: 387282769170, 

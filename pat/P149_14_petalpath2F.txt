@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: petalpath2F
-Creator: EdicionGamerYT
-Tags: 

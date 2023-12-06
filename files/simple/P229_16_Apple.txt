@@ -1,0 +1,4 @@
+SimplePattern
+Apple
+BMT
+SimplePattern, apple, fruit, 

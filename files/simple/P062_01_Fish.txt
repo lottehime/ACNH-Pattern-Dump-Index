@@ -1,0 +1,4 @@
+SimplePattern
+Fish
+Strike
+SimplePattern, decorate, fish, fishmarket, food, sea, 

@@ -1,4 +1,0 @@
-Type:ShortSleeveDress3DS
-Name: OverallDress
-Creator: Elle
-Tags: denim, dress, yellow, 

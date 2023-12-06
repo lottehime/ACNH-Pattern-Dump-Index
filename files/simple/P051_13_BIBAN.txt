@@ -1,0 +1,4 @@
+SimplePattern
+BIBAN
+DA123445677890
+SimplePattern, 

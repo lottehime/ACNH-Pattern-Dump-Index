@@ -1,0 +1,4 @@
+SimplePattern
+traintrack
+kuroneko
+SimplePattern, station, track, train, 

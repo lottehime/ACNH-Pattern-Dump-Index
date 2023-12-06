@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: shed1
-Creator: Kai
-Tags: 

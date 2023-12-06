@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Bell
-Creator: BMT
-Tags: bell, money, 

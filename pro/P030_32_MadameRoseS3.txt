@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: MadameRoseS3
-Creator: dingleberry
-Tags: 

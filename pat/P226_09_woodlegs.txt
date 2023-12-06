@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodlegs
-Creator: meyling
-Tags: wood, 

@@ -1,4 +1,0 @@
-Type:TShirt
-Name: TommyNookShirt
-Creator: Jonny
-Tags: 

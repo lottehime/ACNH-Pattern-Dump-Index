@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Alicemadnessreturn
-Creator: Greenie
-Tags: alice, game, 

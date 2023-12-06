@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: BeetleJuiceStripe
-Creator: Moogie
-Tags: black, dress, red, stripe, white, 

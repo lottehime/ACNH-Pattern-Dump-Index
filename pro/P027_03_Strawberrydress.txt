@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Strawberrydress
-Creator: reishiki
-Tags: 527202196290, 

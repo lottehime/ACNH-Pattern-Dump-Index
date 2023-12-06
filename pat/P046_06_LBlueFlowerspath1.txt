@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LBlueFlowerspath1
-Creator: Berdine
-Tags: 

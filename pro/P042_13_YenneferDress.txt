@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: YenneferDress
-Creator: Moogie
-Tags: dress, formal, witcher, yennefer, 

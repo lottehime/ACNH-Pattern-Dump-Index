@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: FroggyDress
-Creator: Eeden
-Tags: dress, frog, green, yellow, 

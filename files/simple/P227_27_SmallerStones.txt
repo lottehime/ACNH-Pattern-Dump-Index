@@ -1,0 +1,4 @@
+SimplePattern
+SmallerStones
+DiscordServer
+SimplePattern, path, stone, 

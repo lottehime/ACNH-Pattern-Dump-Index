@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: KILLER
-Creator: Anjesse
-Tags: 

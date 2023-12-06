@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: cafestall
-Creator: meyling
-Tags: cafe, stall, 

@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: PolkaDotDress
-Creator: maryviolin
-Tags: bw, cute, dress, polkadot, 

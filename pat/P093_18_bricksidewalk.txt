@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bricksidewalk
-Creator: kuroneko
-Tags: brick, cottagecore, medieval, sidewalk, 

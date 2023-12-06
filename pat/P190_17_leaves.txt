@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: leaves
-Creator: meyling
-Tags: floordecor, leaves, 

@@ -1,0 +1,4 @@
+TShirt
+PowerUP
+Amek
+TShirt, mario, mushroom, powerup, tshirt, 

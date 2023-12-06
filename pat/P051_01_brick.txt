@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: brick
-Creator: Lopu01
-Tags: 

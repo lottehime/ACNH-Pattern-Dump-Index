@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: GreatBall
-Creator: Akay
-Tags: cap, hat, pokeball, pokemon, ulteaball, 

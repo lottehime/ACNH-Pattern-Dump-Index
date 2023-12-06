@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: GoofyHat
-Creator: Walnut
-Tags: disney, goofy, mickeymouse, 

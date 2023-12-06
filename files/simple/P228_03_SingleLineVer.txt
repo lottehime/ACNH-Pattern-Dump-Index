@@ -1,0 +1,4 @@
+SimplePattern
+SingleLineVer
+DiscordServer
+SimplePattern, japanese, roads, stripe, 

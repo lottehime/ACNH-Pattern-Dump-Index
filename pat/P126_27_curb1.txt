@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: curb1
-Creator: flay
-Tags: 

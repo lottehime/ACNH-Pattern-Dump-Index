@@ -1,0 +1,4 @@
+SimplePattern
+FlowerCombosA
+LemonCat
+SimplePattern, breed, chart, farm, flower, lemoncat, 

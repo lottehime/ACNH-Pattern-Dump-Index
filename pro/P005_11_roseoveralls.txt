@@ -1,4 +1,0 @@
-Type:Coat
-Name: roseoveralls
-Creator: Honey
-Tags: 

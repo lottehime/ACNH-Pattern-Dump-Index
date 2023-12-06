@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: hangingbasket
-Creator: ren04at
-Tags: 194436070570, 

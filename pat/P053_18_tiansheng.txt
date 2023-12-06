@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tiansheng
-Creator: villager
-Tags: 

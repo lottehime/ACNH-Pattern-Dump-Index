@@ -1,4 +1,0 @@
-Type:ShortSleeveDress3DS
-Name: flowerdress
-Creator: angel
-Tags: 3ds, default, dress, flower, newleaf, 

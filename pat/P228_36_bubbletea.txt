@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bubbletea
-Creator: DiscordServer
-Tags: bubbletea, drink, poster, signs, 

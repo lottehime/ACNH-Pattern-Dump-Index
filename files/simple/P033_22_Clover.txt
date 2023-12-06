@@ -1,0 +1,4 @@
+SimplePattern
+Clover
+dingleberry
+SimplePattern, 

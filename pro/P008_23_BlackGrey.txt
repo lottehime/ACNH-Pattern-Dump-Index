@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: BlackGrey
-Creator: M
-Tags: 

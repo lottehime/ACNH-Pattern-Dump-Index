@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: BlackHat
-Creator: Lie
-Tags: cap, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rooftile
-Creator: Dani
-Tags: japanese, roof, stall, 

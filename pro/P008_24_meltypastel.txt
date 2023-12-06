@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: meltypastel
-Creator: M
-Tags: 

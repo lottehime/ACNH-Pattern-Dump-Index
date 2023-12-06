@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Fang
-Creator: Jebbi
-Tags: 

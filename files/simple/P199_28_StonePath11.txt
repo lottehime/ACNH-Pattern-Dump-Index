@@ -1,0 +1,4 @@
+SimplePattern
+StonePath11
+Boshi
+SimplePattern, 053096509120, cobblestone, path, rocks, 

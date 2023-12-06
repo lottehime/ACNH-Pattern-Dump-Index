@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: kitty4
-Creator: PigSheriff
-Tags: 

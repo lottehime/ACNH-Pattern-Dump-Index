@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: alicityroad52
-Creator: ali
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: JapaneseTile25
-Creator: Miray
-Tags: 108829519808, japanese, tile, 

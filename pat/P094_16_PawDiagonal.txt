@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PawDiagonal
-Creator: froggylad
-Tags: 

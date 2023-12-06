@@ -1,4 +1,0 @@
-Type:Flag
-Name: Pokemon
-Creator: Berdine
-Tags: 

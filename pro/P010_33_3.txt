@@ -1,4 +1,0 @@
-Type:Standee
-Name: 3
-Creator: M
-Tags: 

@@ -1,4 +1,0 @@
-Type:ShortSleeveDress3DS
-Name: Chidori
-Creator: Berdine
-Tags: 

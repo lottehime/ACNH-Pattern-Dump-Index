@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Nibblesportrait
-Creator: Mithos
-Tags: nibbles, portrait, squirrel, villager, villagers, 

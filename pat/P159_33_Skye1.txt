@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Skye1
-Creator: alt
-Tags: 

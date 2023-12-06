@@ -1,0 +1,4 @@
+SimplePattern
+minihopscotch2
+ling
+SimplePattern, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: coffeemenu
-Creator: Skandu
-Tags: coffee, menu, 

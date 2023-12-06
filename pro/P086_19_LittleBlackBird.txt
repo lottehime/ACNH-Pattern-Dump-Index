@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: LittleBlackBird
-Creator: Boshi
-Tags: 381508418309, bird, black, dress, 

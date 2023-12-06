@@ -1,0 +1,4 @@
+SimplePattern
+DesignPattern
+MegilAr
+SimplePattern, path, 

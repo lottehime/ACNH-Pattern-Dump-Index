@@ -1,4 +1,0 @@
-Type:TShirt
-Name: Beartee
-Creator: froggylad
-Tags: 

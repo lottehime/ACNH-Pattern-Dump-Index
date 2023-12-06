@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SeaTurtle
-Creator: Boshi
-Tags: 271456934378, 

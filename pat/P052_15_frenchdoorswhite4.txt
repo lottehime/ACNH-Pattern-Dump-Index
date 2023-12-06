@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: frenchdoorswhite4
-Creator: rei
-Tags: 

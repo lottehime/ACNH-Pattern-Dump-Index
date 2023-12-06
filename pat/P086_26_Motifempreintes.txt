@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Motifempreintes
-Creator: kibi
-Tags: 

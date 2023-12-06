@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GreenSquid
-Creator: EdicionGamerYT
-Tags: 

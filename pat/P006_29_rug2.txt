@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rug2
-Creator: Kai
-Tags: 

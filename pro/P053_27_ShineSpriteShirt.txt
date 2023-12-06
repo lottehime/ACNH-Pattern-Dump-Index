@@ -1,4 +1,0 @@
-Type:ShortSleeveShirt3DS
-Name: ShineSpriteShirt
-Creator: EdicionGamerYT
-Tags: 

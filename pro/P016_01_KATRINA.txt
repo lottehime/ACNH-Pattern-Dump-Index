@@ -1,4 +1,0 @@
-Type:SleevelessDress
-Name: KATRINA
-Creator: Jhez
-Tags: katrina, 

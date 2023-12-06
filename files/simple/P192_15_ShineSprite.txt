@@ -1,0 +1,4 @@
+SimplePattern
+ShineSprite
+Boshi
+SimplePattern, 616418361043, mario, nintendo, 

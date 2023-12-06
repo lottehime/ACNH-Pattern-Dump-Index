@@ -1,0 +1,4 @@
+SimplePattern
+Fertilizer
+Boshi
+SimplePattern, 867418950346, crop, farm, 

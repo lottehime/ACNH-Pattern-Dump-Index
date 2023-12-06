@@ -1,4 +1,0 @@
-Type:Coat
-Name: greenjacket
-Creator: julie
-Tags: green, greenjacket, greenskirt, jacket, skirt, 

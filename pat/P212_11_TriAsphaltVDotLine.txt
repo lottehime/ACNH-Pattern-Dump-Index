@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TriAsphaltVDotLine
-Creator: Kyek
-Tags: path, road, street, urban, 

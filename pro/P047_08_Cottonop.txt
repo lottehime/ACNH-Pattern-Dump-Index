@@ -1,4 +1,0 @@
-Type:Robe
-Name: Cottonop
-Creator: fiona
-Tags: 

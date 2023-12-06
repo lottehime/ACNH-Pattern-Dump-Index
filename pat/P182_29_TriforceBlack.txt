@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TriforceBlack
-Creator: ThatAnarchyDude
-Tags: legendof, link, loz, triforce, zelda, 

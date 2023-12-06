@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: notredame
-Creator: Boshi
-Tags: 635368039586, 

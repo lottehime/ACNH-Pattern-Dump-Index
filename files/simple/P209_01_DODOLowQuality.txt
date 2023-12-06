@@ -1,0 +1,4 @@
+SimplePattern
+DODOLowQuality
+Miray
+SimplePattern, dodosign, low, lowquality, quality, 

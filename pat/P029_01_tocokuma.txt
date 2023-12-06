@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tocokuma
-Creator: ling
-Tags: 

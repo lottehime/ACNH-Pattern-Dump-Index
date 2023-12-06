@@ -1,4 +1,0 @@
-Type:Coat
-Name: Gintana
-Creator: Berdine
-Tags: 

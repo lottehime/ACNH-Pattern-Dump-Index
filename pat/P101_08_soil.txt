@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: soil
-Creator: tinaverse
-Tags: dirt, garden, soil, 

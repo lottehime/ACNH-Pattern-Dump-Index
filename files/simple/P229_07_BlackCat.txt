@@ -1,0 +1,4 @@
+SimplePattern
+BlackCat
+Katz
+SimplePattern, black, cat, meow, sitting, 

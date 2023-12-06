@@ -1,0 +1,4 @@
+SimplePattern
+SquaredStones
+Giuliastro
+SimplePattern, floor, squared, stones, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 
-Creator: 12
-Tags: 

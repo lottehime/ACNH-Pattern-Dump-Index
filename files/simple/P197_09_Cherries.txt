@@ -1,0 +1,4 @@
+SimplePattern
+Cherries
+Amek
+SimplePattern, cherry, fruit, sign, 

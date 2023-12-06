@@ -1,0 +1,4 @@
+SimplePattern
+Money
+NOnoS
+SimplePattern, background, bells, money, 

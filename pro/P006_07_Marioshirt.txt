@@ -1,4 +1,0 @@
-Type:TShirt
-Name: Marioshirt
-Creator: Nooknight
-Tags: itsame, mario, nintendo, shirts, supermario, 

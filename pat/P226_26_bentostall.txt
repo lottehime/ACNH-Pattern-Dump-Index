@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bentostall
-Creator: meyling
-Tags: bamboo, stall, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: jars
-Creator: meyling
-Tags: food, kitchen, walldecor, 

@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Froggydress
-Creator: Catucchi
-Tags: dress, frog, green, 

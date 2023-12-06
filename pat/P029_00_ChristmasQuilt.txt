@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ChristmasQuilt
-Creator: ling
-Tags: 

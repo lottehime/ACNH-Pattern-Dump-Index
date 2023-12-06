@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: moonstone
-Creator: Berdine
-Tags: 

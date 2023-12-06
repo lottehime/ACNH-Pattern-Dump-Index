@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Road5CW
-Creator: Samie323
-Tags: 

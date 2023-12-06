@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: BlackGradient
-Creator: Moogie
-Tags: black, brimmed, gradient, hat, 

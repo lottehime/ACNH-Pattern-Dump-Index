@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: TripleMoonHat
-Creator: Moogie
-Tags: hat, moon, triple, 

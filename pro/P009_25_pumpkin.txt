@@ -1,4 +1,0 @@
-Type:KnitCap
-Name: pumpkin
-Creator: M
-Tags: 

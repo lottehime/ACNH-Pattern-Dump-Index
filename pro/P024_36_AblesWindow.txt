@@ -1,4 +1,0 @@
-Type:Standee
-Name: AblesWindow
-Creator: Moogie
-Tags: able, standee, window, 

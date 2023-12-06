@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BoardwalkB
-Creator: Boshi
-Tags: 699816390247, boardwalk, 

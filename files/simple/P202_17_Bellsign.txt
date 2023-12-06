@@ -1,0 +1,4 @@
+SimplePattern
+Bellsign
+Boshi
+SimplePattern, 479165882751, bell, marker, money, sign, 

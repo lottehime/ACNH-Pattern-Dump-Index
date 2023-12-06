@@ -1,0 +1,4 @@
+BrimmedCap
+Monster
+Wijolt
+BrimmedCap, black, cap, energy, green, monster, 

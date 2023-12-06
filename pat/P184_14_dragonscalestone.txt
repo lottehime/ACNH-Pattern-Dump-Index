@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: dragonscalestone
-Creator: Boshi
-Tags: 511696445826, 

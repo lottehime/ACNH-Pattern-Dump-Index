@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: nobits
-Creator: Kat
-Tags: 

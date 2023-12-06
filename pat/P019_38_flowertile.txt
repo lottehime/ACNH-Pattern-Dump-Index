@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: flowertile
-Creator: PigSheriff
-Tags: 

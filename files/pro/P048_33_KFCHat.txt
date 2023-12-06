@@ -1,0 +1,4 @@
+BrimmedHat
+KFCHat
+Vinnie
+BrimmedHat, food, hat, kfc, 

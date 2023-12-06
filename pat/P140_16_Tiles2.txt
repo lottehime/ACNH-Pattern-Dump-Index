@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Tiles2
-Creator: Koid
-Tags: 

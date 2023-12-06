@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GrassBorder7
-Creator: Boshi
-Tags: 256899144979, 

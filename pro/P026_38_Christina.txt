@@ -1,4 +1,0 @@
-Type:Coat
-Name: Christina
-Creator: Masto
-Tags: 340808600398, 

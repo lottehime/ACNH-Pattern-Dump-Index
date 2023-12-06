@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TerracottaTiles
-Creator: lyria
-Tags: path, terracotta, tiles, 

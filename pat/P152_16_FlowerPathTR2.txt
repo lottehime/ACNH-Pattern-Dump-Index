@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FlowerPathTR2
-Creator: Eeden
-Tags: 

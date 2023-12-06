@@ -1,0 +1,4 @@
+SimplePattern
+grasspathC
+mmanic
+SimplePattern, grass, path, 

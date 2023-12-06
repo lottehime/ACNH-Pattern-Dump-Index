@@ -1,0 +1,4 @@
+SimplePattern
+PrideHeart
+LemonCat
+SimplePattern, 8bit, 8bit, heart, lemoncat, pride, 

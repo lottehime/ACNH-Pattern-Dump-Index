@@ -1,4 +1,0 @@
-Type:TShirt
-Name: PineappleShirt
-Creator: Cassidie
-Tags: b99, pineapple, tshirt, 

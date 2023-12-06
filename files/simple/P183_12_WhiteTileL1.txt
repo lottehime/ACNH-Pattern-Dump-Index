@@ -1,0 +1,4 @@
+SimplePattern
+WhiteTileL1
+Boshi
+SimplePattern, 232523935432, 

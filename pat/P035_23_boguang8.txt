@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: boguang8
-Creator: yidawan13
-Tags: 

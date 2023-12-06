@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: fruitdrinkmenu
-Creator: Moogie
-Tags: drink, fruit, menu, sign, 

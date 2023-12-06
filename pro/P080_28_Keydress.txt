@@ -1,4 +1,0 @@
-Type:NoSleeveDress3DS
-Name: Keydress
-Creator: Greenie
-Tags: 

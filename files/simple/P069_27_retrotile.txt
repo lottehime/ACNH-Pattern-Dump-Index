@@ -1,0 +1,4 @@
+SimplePattern
+retrotile
+gyomori8
+SimplePattern, 728098467257, 

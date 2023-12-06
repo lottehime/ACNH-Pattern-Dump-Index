@@ -1,0 +1,4 @@
+SimplePattern
+Magus
+Amek
+SimplePattern, chrono, ct, magus, pixelart, trigger, 

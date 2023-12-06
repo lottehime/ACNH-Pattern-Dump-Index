@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Graybricks2
-Creator: Willuks
-Tags: brick, bricks, gray, sidewalk, willuks, 

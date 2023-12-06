@@ -1,0 +1,4 @@
+SimplePattern
+palmleavesstall
+Honey
+SimplePattern, 

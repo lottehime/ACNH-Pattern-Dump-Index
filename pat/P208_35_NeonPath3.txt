@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: NeonPath3
-Creator: Boshi
-Tags: 057337537016, neon, path, 

@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: TrissDLCOutfit
-Creator: Moogie
-Tags: dlcoutfit, triss, tw3, witcher, 

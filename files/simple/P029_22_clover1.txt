@@ -1,0 +1,4 @@
+SimplePattern
+clover1
+ling
+SimplePattern, 

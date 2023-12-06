@@ -1,4 +1,0 @@
-Type:Robe
-Name: BunnyPinkyBun
-Creator: M
-Tags: 

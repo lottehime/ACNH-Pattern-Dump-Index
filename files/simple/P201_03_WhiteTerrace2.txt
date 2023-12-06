@@ -1,0 +1,4 @@
+SimplePattern
+WhiteTerrace2
+Boshi
+SimplePattern, 828588255686, elevated, plank, white, wood, 

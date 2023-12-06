@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: StrawberryMousse
-Creator: Boshi
-Tags: food, mousse, strawberry, 

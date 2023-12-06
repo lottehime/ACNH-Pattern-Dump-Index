@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: mineshaft
-Creator: MA569852601603
-Tags: lantern, mineshaft, stone, wall, 

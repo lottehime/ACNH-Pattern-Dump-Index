@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tile2
-Creator: Kai
-Tags: 

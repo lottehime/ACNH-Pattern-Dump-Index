@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: flowers
-Creator: meyling
-Tags: decor, floral, flowers, 

@@ -1,0 +1,4 @@
+SimplePattern
+stone1
+Airi
+SimplePattern, path, stone, 

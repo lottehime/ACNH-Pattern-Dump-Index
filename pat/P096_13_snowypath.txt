@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: snowypath
-Creator: steff
-Tags: 

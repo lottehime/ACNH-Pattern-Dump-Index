@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Callisto
-Creator: ling
-Tags: 

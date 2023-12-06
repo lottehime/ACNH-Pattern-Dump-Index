@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Zen3x3TopRight
-Creator: Fasil
-Tags: 656814940629, 

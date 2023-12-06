@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Road8
-Creator: Aaron
-Tags: road, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: shopdoor
-Creator: Boshi
-Tags: 772739769058, 

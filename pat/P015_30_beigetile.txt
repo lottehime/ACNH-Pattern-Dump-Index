@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: beigetile
-Creator: M
-Tags: 

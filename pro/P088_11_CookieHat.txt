@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: CookieHat
-Creator: Boshi
-Tags: 927874435692, cookie, food, 

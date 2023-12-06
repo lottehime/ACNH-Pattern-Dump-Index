@@ -1,4 +1,0 @@
-Type:Coat
-Name: 1
-Creator: huadu
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+RoundedStone
+Giuliastro
+SimplePattern, floor, rounded, stone, 

@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: 4
-Creator: huadu
-Tags: 

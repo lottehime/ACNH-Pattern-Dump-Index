@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: lateraltopo2
-Creator: Loly
-Tags: 

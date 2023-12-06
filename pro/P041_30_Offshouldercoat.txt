@@ -1,4 +1,0 @@
-Type:Coat
-Name: Offshouldercoat
-Creator: Lie
-Tags: dress, 

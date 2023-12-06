@@ -1,4 +1,0 @@
-Type:Pullover
-Name: 80spullover
-Creator: meyling
-Tags: sweater, 

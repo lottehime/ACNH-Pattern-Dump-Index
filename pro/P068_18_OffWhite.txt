@@ -1,4 +1,0 @@
-Type:Coat
-Name: OffWhite
-Creator: TEREM
-Tags: black, offwhite, virgil, 

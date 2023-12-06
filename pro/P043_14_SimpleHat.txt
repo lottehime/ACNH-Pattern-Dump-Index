@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: SimpleHat
-Creator: Moogie
-Tags: casual, hat, simple, stripe, 

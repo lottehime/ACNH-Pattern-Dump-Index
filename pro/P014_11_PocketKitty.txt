@@ -1,4 +1,0 @@
-Type:Pullover
-Name: PocketKitty
-Creator: PisiPisi
-Tags: 

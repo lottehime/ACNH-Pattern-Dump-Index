@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: coladera2
-Creator: EdicionGamerYT
-Tags: 

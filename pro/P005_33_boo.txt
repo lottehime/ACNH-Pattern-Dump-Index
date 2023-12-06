@@ -1,4 +1,0 @@
-Type:Pullover
-Name: boo
-Creator: Honey
-Tags: boo, ghost, halloween, 

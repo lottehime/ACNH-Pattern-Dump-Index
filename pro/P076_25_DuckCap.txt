@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: DuckCap
-Creator: gug
-Tags: cap, duck, quack, 

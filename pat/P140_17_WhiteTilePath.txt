@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WhiteTilePath
-Creator: Koid
-Tags: 

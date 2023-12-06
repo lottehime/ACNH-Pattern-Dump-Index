@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: deadbody
-Creator: dingzhen
-Tags: 

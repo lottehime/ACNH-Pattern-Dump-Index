@@ -1,0 +1,4 @@
+SimplePattern
+TeaSet1
+Boshi
+SimplePattern, 927874435692, tea, 

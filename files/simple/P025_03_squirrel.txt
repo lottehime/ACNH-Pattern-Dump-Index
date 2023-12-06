@@ -1,0 +1,4 @@
+SimplePattern
+squirrel
+ling
+SimplePattern, 

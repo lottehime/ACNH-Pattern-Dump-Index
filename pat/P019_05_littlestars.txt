@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: littlestars
-Creator: aforestlife
-Tags: grass, stars, 

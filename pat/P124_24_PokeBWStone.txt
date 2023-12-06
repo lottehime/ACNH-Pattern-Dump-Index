@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PokeBWStone
-Creator: Crystel
-Tags: 

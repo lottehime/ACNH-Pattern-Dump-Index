@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: brickcentre
-Creator: angel
-Tags: brick, path, set, 

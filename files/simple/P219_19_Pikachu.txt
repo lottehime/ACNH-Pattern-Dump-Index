@@ -1,0 +1,4 @@
+SimplePattern
+Pikachu
+Boshi
+SimplePattern, 431172755548, pikachu, pokemon, 

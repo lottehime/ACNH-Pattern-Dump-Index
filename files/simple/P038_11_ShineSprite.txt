@@ -1,0 +1,4 @@
+SimplePattern
+ShineSprite
+Scarlett
+SimplePattern, ecard, gc, shine, shinesprite, sunshine, 

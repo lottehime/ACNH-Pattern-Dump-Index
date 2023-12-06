@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: orange
-Creator: Moogie
-Tags: fruit, orange, sign, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Wood
-Creator: JuninChan
-Tags: stairs, wall, wood, 

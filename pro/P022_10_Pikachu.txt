@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: Pikachu
-Creator: Berdine
-Tags: 

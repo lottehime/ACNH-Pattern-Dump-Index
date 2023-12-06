@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: beau
-Creator: meyling
-Tags: villager, 

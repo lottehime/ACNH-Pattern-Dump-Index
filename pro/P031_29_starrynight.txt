@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: starrynight
-Creator: Celestial
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Track1
-Creator: Boshi
-Tags: 044471750295, 

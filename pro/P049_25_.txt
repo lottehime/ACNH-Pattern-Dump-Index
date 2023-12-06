@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: 
-Creator: fiona
-Tags: 

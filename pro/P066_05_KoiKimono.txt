@@ -1,4 +1,0 @@
-Type:Robe
-Name: KoiKimono
-Creator: Greenie
-Tags: 

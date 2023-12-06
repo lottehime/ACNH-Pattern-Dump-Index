@@ -1,0 +1,4 @@
+SimplePattern
+BlackTile15
+Boshi
+SimplePattern, 664792304716, path, 

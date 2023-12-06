@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: darkdirt7
-Creator: techlovin
-Tags: 

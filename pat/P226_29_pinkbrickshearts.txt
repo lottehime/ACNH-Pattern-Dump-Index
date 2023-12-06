@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pinkbrickshearts
-Creator: meyling
-Tags: bricks, path, 

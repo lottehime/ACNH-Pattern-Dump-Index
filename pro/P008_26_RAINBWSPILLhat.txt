@@ -1,4 +1,0 @@
-Type:KnitCap
-Name: RAINBWSPILLhat
-Creator: M
-Tags: 

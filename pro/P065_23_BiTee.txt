@@ -1,4 +1,0 @@
-Type:TShirt
-Name: BiTee
-Creator: GalaxyCats
-Tags: bi, flag, pride, simple, tee, 

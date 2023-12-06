@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FlowerCombosA
-Creator: LemonCat
-Tags: breed, chart, farm, flower, lemoncat, 

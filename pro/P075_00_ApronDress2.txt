@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: ApronDress2
-Creator: Boshi
-Tags: 266624458950, 

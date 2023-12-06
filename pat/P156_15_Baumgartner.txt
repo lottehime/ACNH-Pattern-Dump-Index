@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Baumgartner
-Creator: Madison
-Tags: baumgartner, 

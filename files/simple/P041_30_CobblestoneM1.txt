@@ -1,0 +1,4 @@
+SimplePattern
+CobblestoneM1
+LucyArden
+SimplePattern, cobble, cobblestone, path, rock, stone, 

@@ -1,4 +1,0 @@
-Type:Coat
-Name: GreenCoat
-Creator: maryviolin
-Tags: coat, green, 

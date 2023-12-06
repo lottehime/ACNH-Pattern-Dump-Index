@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FaceBlood
-Creator: Nayeon1012
-Tags: blood, face, 

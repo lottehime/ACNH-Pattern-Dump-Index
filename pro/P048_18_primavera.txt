@@ -1,4 +1,0 @@
-Type:ShortSleeveDress3DS
-Name: primavera
-Creator: cinzia
-Tags: 

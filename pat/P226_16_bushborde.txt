@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bushborde
-Creator: meyling
-Tags: border, brick, bush, 

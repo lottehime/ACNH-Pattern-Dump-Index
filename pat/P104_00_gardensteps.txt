@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: gardensteps
-Creator: flay
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+BikeParking
+Unknown
+SimplePattern, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: plazabricksup
-Creator: Boshi
-Tags: 483339093486, bricks, brown, plaza, residential, 

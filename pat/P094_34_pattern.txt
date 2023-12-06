@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pattern
-Creator: froggylad
-Tags: pattern, 

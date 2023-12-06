@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: KawaiiCommunism
-Creator: Alex
-Tags: communism, flag, kawaii, 

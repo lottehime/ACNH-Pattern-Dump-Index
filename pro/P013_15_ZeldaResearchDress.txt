@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: ZeldaResearchDress
-Creator: Moogie
-Tags: botw, dress, loz, research, zelda, 

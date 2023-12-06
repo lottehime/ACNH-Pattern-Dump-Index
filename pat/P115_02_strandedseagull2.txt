@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: strandedseagull2
-Creator: flay
-Tags: 

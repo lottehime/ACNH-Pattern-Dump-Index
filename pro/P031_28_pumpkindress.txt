@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: pumpkindress
-Creator: Celestial
-Tags: 

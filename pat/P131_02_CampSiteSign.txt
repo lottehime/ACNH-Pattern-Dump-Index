@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CampSiteSign
-Creator: Moogie
-Tags: camp, sign, 

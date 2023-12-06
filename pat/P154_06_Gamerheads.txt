@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Gamerheads
-Creator: Zimbba
-Tags: poster, sign, 

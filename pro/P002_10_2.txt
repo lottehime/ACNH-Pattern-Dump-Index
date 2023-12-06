@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: 2
-Creator: huadu
-Tags: 

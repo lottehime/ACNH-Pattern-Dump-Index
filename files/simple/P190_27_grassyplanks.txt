@@ -1,0 +1,4 @@
+SimplePattern
+grassyplanks
+meyling
+SimplePattern, path, planks, wood, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: grating
-Creator: leaf
-Tags: 

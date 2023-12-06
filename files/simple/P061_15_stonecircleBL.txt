@@ -1,0 +1,4 @@
+SimplePattern
+stonecircleBL
+mmanic
+SimplePattern, circle, stone, 

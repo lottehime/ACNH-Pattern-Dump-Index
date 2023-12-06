@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Lysithea
-Creator: DiscordServer
-Tags: casual, fireemblem, lysithea, outfit, purple, 

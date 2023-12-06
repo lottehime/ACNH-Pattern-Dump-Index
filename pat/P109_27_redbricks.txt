@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: redbricks
-Creator: flay
-Tags: 

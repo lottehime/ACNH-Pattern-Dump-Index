@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: StarryDress
-Creator: Sandra
-Tags: blue, cute, night, star, starry, 

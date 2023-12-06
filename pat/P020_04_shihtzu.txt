@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: shihtzu
-Creator: PigSheriff
-Tags: 

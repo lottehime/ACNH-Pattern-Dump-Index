@@ -1,0 +1,4 @@
+SimplePattern
+centerhorizontaly
+flay
+SimplePattern, 

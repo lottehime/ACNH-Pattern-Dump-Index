@@ -1,4 +1,0 @@
-Type:Coat
-Name: hatsunemiku
-Creator: meyling
-Tags: coat, miku, vocaloid, 

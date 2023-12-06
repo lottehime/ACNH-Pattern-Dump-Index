@@ -1,4 +1,0 @@
-Type:Standee
-Name: sakurawall
-Creator: Berdine
-Tags: 

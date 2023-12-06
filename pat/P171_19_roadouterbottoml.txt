@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: roadouterbottoml
-Creator: Boshi
-Tags: 772739769058, 

@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: devilhat
-Creator: PigSheriff
-Tags: 

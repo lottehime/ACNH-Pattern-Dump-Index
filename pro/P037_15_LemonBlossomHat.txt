@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: LemonBlossomHat
-Creator: Lisbelle
-Tags: 

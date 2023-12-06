@@ -1,4 +1,0 @@
-Type:Standee
-Name: WALL
-Creator: 1
-Tags: 

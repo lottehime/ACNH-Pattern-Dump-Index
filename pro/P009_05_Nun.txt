@@ -1,4 +1,0 @@
-Type:Robe
-Name: Nun
-Creator: M
-Tags: 

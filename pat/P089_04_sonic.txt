@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: sonic
-Creator: potato
-Tags: game, sonic, 

@@ -1,0 +1,4 @@
+BrimmedCap
+DuckCap
+gug
+BrimmedCap, cap, duck, quack, 

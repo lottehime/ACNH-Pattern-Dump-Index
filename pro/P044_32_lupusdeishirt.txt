@@ -1,4 +1,0 @@
-Type:TShirt
-Name: lupusdeishirt
-Creator: steff
-Tags: 

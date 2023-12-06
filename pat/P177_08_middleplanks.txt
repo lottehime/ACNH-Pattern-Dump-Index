@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: middleplanks
-Creator: Boshi
-Tags: 417091833024, 

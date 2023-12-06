@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Maruchan
-Creator: Boshi
-Tags: 584858763233, 

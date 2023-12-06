@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Starstall
-Creator: Greenie
-Tags: pattern, stall, star, 

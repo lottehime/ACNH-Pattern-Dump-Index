@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: silobrick
-Creator: Boshi
-Tags: 865310604330, brick, path, 

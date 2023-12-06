@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LGBTQPride
-Creator: LemonCat
-Tags: flag, lemoncat, lgbtq, pride, 

@@ -1,4 +1,0 @@
-Type:Coat
-Name: SchoolUniform1
-Creator: Boshi
-Tags: 714904684456, school, uniform, 

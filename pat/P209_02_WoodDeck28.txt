@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodDeck28
-Creator: Boshi
-Tags: 057337537016, path, wood, 

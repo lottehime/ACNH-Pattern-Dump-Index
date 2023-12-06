@@ -1,4 +1,0 @@
-Type:Coat
-Name: hanbok1
-Creator: Berdine
-Tags: 

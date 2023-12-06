@@ -1,0 +1,4 @@
+SimplePattern
+Dirt3rdMiddle
+RNabuco
+SimplePattern, dirt, garden, path, 

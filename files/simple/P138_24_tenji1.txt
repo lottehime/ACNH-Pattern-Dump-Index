@@ -1,0 +1,4 @@
+SimplePattern
+tenji1
+Koid
+SimplePattern, 

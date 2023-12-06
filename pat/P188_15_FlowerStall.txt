@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FlowerStall
-Creator: Boshi
-Tags: 419877787479, nature, 

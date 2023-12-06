@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: AmazonDelivery
-Creator: Boshi
-Tags: fx62ldxxb4wx, mail, package, 

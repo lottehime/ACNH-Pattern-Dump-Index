@@ -1,0 +1,4 @@
+SimplePattern
+BrickBorder3
+Boshi
+SimplePattern, 157475086849, border, brick, grey, 

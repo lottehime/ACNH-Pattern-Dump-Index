@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: design01
-Creator: hetou
-Tags: good, 

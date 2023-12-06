@@ -1,4 +1,0 @@
-Type:TShirt
-Name: PSGCedric10
-Creator: maveced23
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+StonePathBorderRight
+cc
+SimplePattern, 

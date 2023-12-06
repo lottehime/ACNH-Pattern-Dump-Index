@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MusedesBlathers
-Creator: L3O
-Tags: 

@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: GothPrincess
-Creator: Kyuchi
-Tags: 

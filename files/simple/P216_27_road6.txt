@@ -1,0 +1,4 @@
+SimplePattern
+road6
+Boshi
+SimplePattern, 843690872945, road, street, 

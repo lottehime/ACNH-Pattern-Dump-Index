@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: catpocketoverall
-Creator: M
-Tags: 

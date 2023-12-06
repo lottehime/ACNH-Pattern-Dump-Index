@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 7
-Creator: huadu
-Tags: 

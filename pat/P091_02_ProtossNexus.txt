@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ProtossNexus
-Creator: Caustice
-Tags: nexus, protoss, starcraft, 

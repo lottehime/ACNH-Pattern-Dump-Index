@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stonebrickhearts
-Creator: ectopi
-Tags: 762263913364, 

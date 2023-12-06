@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: cherryblossomflag
-Creator: zimbabwe
-Tags: flag, flower, 

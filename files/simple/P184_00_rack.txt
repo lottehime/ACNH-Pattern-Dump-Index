@@ -1,0 +1,4 @@
+SimplePattern
+rack
+Boshi
+SimplePattern, 785621859198, 

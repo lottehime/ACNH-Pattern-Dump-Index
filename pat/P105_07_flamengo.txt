@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: flamengo
-Creator: mega
-Tags: bandeira, flamengo, mengao, 

@@ -1,0 +1,4 @@
+SimplePattern
+RyoFlag
+Ryo
+SimplePattern, city, flag, hunter, ryo, saeba, 

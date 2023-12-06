@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: 
-Creator: flay
-Tags: 

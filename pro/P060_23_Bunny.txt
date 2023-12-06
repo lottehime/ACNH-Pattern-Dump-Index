@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: Bunny
-Creator: Ann
-Tags: 

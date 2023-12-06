@@ -1,4 +1,0 @@
-Type:TShirt
-Name: Patronmotifpro
-Creator: kibi
-Tags: 

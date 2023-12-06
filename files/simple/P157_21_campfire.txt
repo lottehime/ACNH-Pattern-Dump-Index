@@ -1,0 +1,4 @@
+SimplePattern
+campfire
+Anjesse
+SimplePattern, base, camp, campfire, campfirebase, fire, 

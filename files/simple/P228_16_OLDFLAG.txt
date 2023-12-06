@@ -1,0 +1,4 @@
+SimplePattern
+OLDFLAG
+Miray
+SimplePattern, flag, initial, initialflag, old, oldflag, 

@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: LeifHat
-Creator: Boshi
-Tags: 900658590206, 

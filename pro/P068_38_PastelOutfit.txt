@@ -1,4 +1,0 @@
-Type:Coat
-Name: PastelOutfit
-Creator: Boshi
-Tags: 603059418568, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: nemophilarag1
-Creator: ling
-Tags: 

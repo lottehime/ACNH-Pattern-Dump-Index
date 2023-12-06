@@ -1,0 +1,4 @@
+SimplePattern
+SpecterKnight
+Miray
+SimplePattern, knight, specter, 

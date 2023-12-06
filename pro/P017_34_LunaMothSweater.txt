@@ -1,4 +1,0 @@
-Type:Pullover
-Name: LunaMothSweater
-Creator: Lavender
-Tags: bug, insect, moth, sweater, 

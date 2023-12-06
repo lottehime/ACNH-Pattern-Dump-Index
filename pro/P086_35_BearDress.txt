@@ -1,4 +1,0 @@
-Type:ShortSleeveDress3DS
-Name: BearDress
-Creator: Miray
-Tags: bear, beardress, dress, 

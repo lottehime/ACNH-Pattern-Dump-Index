@@ -1,0 +1,4 @@
+SimplePattern
+KeepOut
+Doe
+SimplePattern, authorized, danger, keepout, sign, warning, 

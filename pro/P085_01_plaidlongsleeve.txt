@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: plaidlongsleeve
-Creator: meyling
-Tags: dress, longsleeve, plaid, 

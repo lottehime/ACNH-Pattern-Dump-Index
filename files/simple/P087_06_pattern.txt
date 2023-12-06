@@ -1,0 +1,4 @@
+SimplePattern
+pattern
+ss
+SimplePattern, art, pattern, 

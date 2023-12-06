@@ -1,0 +1,4 @@
+SimplePattern
+PineappleSign
+Boshi
+SimplePattern, 299868118314, fruit, pineapple, sign, stall, 

@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: BeigeVest
-Creator: maryviolin
-Tags: beige, vest, 

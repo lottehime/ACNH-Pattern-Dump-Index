@@ -1,0 +1,4 @@
+SimplePattern
+pizza1
+flay
+SimplePattern, 

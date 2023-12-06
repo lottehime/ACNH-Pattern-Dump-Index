@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LeftPond
-Creator: Fasil
-Tags: 666593535318, 

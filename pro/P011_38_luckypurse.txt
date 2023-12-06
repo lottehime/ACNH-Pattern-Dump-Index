@@ -1,4 +1,0 @@
-Type:Coat
-Name: luckypurse
-Creator: M
-Tags: 

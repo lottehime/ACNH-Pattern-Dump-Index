@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CrosswalkVer
-Creator: DiscordServer
-Tags: crosswalk, japanese, roads, 

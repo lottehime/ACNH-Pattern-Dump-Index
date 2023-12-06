@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: yamucha8
-Creator: alt
-Tags: 

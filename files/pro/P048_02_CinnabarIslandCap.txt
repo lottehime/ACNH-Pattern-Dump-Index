@@ -1,0 +1,4 @@
+BrimmedCap
+CinnabarIslandCap
+DoctorPokemon
+BrimmedCap, cap, cinnabar, hat, pokemon, 

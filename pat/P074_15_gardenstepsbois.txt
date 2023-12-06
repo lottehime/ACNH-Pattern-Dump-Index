@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: gardenstepsbois
-Creator: boiscrossing
-Tags: 893574841673, 

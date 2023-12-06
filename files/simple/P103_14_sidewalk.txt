@@ -1,0 +1,4 @@
+SimplePattern
+sidewalk
+a
+SimplePattern, 

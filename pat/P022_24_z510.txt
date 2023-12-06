@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: z510
-Creator: NORTH
-Tags: 

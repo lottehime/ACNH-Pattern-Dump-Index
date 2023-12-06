@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: fruits
-Creator: meyling
-Tags: decor, fruit, sign, 

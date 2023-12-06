@@ -1,4 +1,0 @@
-Type:KnitCap
-Name: redbeanie
-Creator: Lie
-Tags: 

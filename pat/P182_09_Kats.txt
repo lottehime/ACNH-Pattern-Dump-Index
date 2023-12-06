@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Kats
-Creator: LilacCove
-Tags: 

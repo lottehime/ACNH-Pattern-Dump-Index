@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WitchBanner
-Creator: Scarlet
-Tags: 

@@ -1,0 +1,4 @@
+SimplePattern
+gravel
+Hanoka
+SimplePattern, asphalt, gravel, path, rocks, street, 

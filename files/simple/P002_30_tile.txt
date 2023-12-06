@@ -1,0 +1,4 @@
+SimplePattern
+tile
+Lily
+SimplePattern, path, stone, tile, 

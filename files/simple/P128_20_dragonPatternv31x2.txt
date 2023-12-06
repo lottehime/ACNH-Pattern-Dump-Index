@@ -1,0 +1,4 @@
+SimplePattern
+dragonPatternv31x2
+1
+SimplePattern, 

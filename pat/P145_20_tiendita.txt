@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tiendita
-Creator: EdicionGamerYT
-Tags: 

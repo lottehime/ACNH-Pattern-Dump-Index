@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: strawberryblanket
-Creator: dingleberry
-Tags: 

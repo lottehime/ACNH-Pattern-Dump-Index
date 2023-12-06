@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DumpSign
-Creator: Jasmine
-Tags: ac, dump, sign, 

@@ -1,4 +1,0 @@
-Type:TShirt
-Name: KawaiiRamen
-Creator: Fasil
-Tags: 130207565665, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: isabelle
-Creator: Boshi
-Tags: 548390934023, mat, residential, town, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: sandart1
-Creator: Ribbajack
-Tags: 876543242373, 

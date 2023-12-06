@@ -1,0 +1,4 @@
+SimplePattern
+ChineseWindow
+Strike
+SimplePattern, asian, chinese, window, 

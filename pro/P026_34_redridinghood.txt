@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: redridinghood
-Creator: reishiki
-Tags: 

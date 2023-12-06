@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: GladionShirt
-Creator: Alex
-Tags: 

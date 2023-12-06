@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: WildPinkRoseApron
-Creator: dingleberry
-Tags: 

@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: VintageDotty
-Creator: Moogie
-Tags: black, dots, dress, red, vintage, 

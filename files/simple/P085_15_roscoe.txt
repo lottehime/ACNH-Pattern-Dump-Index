@@ -1,0 +1,4 @@
+SimplePattern
+roscoe
+mimy
+SimplePattern, portrait, roscoe, 

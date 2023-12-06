@@ -1,4 +1,0 @@
-Type:Robe
-Name: sailormoon
-Creator: Riky
-Tags: 

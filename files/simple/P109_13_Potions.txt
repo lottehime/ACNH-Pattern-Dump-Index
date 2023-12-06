@@ -1,0 +1,4 @@
+SimplePattern
+Potions
+Soap
+SimplePattern, magic, potion, witch, 

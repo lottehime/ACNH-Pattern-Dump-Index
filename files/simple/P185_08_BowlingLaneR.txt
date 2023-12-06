@@ -1,0 +1,4 @@
+SimplePattern
+BowlingLaneR
+Boshi
+SimplePattern, 224033705348, 

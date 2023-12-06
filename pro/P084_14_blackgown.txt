@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: blackgown
-Creator: Boshi
-Tags: 831596970184, black, dress, 

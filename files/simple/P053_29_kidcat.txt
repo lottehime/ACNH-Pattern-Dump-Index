@@ -1,0 +1,4 @@
+SimplePattern
+kidcat
+villager
+SimplePattern, 

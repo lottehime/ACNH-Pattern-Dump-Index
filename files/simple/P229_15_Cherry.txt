@@ -1,0 +1,4 @@
+SimplePattern
+Cherry
+BMT
+SimplePattern, cherry, fruit, 

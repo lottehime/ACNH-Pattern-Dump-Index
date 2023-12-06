@@ -1,4 +1,0 @@
-Type:Coat
-Name: NavyCoat
-Creator: Amek
-Tags: coat, navy, navycoat, 

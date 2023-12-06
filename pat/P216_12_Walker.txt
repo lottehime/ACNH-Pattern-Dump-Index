@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Walker
-Creator: Miray
-Tags: 627141402287, walker, 

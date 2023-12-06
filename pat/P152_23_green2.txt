@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: green2
-Creator: 
-Tags: 

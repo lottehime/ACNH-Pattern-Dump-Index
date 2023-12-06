@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: TheFlowersKeeper
-Creator: xiau
-Tags: 

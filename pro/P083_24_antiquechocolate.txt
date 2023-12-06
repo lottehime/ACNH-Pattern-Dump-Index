@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: antiquechocolate
-Creator: meyling
-Tags: dress, longsleeve, 

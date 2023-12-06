@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: beyonce4
-Creator: luigi
-Tags: 

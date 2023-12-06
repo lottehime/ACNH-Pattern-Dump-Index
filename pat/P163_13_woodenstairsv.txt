@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: woodenstairsv
-Creator: kat
-Tags: stairs, wooden, 

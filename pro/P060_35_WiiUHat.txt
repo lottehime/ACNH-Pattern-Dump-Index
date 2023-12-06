@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: WiiUHat
-Creator: Fasil
-Tags: 752301269144, 

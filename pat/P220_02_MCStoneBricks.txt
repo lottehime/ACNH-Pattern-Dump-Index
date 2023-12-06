@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MCStoneBricks
-Creator: meyling
-Tags: minecraft, 

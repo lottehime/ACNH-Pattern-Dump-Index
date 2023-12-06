@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PinkGrateH
-Creator: Fasil
-Tags: 003065278306, 

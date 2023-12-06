@@ -1,0 +1,4 @@
+SimplePattern
+WumpusPhone
+DISCORD
+SimplePattern, discord, wumpus, 

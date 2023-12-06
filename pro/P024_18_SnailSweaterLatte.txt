@@ -1,4 +1,0 @@
-Type:Pullover
-Name: SnailSweaterLatte
-Creator: rei
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: JPPathTop
-Creator: angel
-Tags: dirt, grass, path, thepath, 

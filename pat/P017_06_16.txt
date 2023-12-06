@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: 16
-Creator: M
-Tags: 

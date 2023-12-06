@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tenji1
-Creator: Koid
-Tags: 

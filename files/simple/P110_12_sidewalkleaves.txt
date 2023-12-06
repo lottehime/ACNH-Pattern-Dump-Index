@@ -1,0 +1,4 @@
+SimplePattern
+sidewalkleaves
+flay
+SimplePattern, 

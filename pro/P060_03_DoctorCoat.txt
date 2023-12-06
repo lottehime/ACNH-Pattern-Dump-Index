@@ -1,4 +1,0 @@
-Type:Coat
-Name: DoctorCoat
-Creator: Baru
-Tags: 

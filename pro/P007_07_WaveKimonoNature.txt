@@ -1,4 +1,0 @@
-Type:Robe
-Name: WaveKimonoNature
-Creator: M
-Tags: 

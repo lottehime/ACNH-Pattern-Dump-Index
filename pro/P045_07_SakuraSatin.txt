@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: SakuraSatin
-Creator: pickle
-Tags: 

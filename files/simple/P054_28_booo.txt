@@ -1,0 +1,4 @@
+SimplePattern
+booo
+zzZ
+SimplePattern, boo, fantasma, ghost, mario, 

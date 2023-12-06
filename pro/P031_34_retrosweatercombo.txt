@@ -1,4 +1,0 @@
-Type:Coat
-Name: retrosweatercombo
-Creator: bingsu
-Tags: retro, sweater, 

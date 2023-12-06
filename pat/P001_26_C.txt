@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: C
-Creator: huadu
-Tags: 

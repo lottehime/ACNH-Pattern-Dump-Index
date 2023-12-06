@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: PrizeFish
-Creator: Yawnty
-Tags: fish, prizewheel, sign, 

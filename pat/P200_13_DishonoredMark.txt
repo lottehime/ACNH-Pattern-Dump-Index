@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DishonoredMark
-Creator: MarcoZARP
-Tags: corvo, dishonored, mark, outsider, 

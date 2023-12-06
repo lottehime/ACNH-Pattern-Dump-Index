@@ -1,0 +1,4 @@
+SimplePattern
+cityroad
+kuroneko
+SimplePattern, citycore, road, 

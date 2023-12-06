@@ -1,0 +1,4 @@
+SimplePattern
+handicapparking
+sacha
+SimplePattern, city, disabled, handicap, parking, road, 

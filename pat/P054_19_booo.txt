@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: booo
-Creator: zzZ
-Tags: boo, fantasma, ghost, mario, 

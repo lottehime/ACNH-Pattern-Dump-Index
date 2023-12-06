@@ -1,0 +1,4 @@
+SimplePattern
+SchoolWindow
+EveK
+SimplePattern, japanese, school, window, 

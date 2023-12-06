@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LaceR
-Creator: Greenie
-Tags: 

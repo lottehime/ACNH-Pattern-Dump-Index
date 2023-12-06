@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: NostalgicSummer
-Creator: rei
-Tags: 

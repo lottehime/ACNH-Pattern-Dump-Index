@@ -1,4 +1,0 @@
-Type:LongSleeveDress3DS
-Name: Outfit
-Creator: Star
-Tags: 

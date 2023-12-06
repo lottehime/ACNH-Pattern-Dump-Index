@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stonewinter1
-Creator: lee
-Tags: 

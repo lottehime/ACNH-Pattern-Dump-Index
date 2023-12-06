@@ -1,4 +1,0 @@
-Type:Coat
-Name: Starry
-Creator: Greenie
-Tags: 

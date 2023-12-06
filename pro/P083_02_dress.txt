@@ -1,4 +1,0 @@
-Type:LongSleeveDress3DS
-Name: dress
-Creator: meyling
-Tags: acnlqr, dress, 

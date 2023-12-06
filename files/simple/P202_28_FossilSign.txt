@@ -1,0 +1,4 @@
+SimplePattern
+FossilSign
+Ellu
+SimplePattern, fossil, sign, 

@@ -1,0 +1,4 @@
+SimplePattern
+orange
+Moogie
+SimplePattern, fruit, orange, sign, 

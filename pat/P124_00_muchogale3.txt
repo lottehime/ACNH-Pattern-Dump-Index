@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: muchogale3
-Creator: Harii
-Tags: 

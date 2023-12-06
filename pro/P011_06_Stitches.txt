@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Stitches
-Creator: M
-Tags: 

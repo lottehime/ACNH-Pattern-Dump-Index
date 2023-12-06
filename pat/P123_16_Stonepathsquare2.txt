@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Stonepathsquare2
-Creator: Lisbelle
-Tags: 

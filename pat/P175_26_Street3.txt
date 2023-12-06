@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Street3
-Creator: Boshi
-Tags: 968364213107, 

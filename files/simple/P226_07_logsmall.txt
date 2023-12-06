@@ -1,0 +1,4 @@
+SimplePattern
+logsmall
+meyling
+SimplePattern, log, path, steps, wood, 

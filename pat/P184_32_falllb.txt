@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: falllb
-Creator: Boshi
-Tags: 277160294943, border, 

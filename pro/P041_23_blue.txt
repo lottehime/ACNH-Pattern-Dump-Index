@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: blue
-Creator: flay
-Tags: 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FairyRing2
-Creator: Fasil
-Tags: 484792715341, 

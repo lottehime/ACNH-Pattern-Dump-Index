@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: TrissFormal
-Creator: Moogie
-Tags: dress, triss, tw3, witcher, 

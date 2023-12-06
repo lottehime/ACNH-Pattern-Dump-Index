@@ -1,4 +1,0 @@
-Type:Robe
-Name: Aquasakurakimono
-Creator: M
-Tags: 

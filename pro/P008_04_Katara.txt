@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: Katara
-Creator: M
-Tags: 

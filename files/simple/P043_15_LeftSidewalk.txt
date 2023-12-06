@@ -1,0 +1,4 @@
+SimplePattern
+LeftSidewalk
+Jewben
+SimplePattern, angie, citycore, crossingkoki, path, road, 

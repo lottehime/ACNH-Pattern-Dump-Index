@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: sans
-Creator: Miray
-Tags: flag, sans, undertale, 

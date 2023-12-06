@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Stall
-Creator: Boshi
-Tags: dlm573254jwv, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rattan
-Creator: meyling
-Tags: rattan, 

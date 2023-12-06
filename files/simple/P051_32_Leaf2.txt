@@ -1,0 +1,4 @@
+SimplePattern
+Leaf2
+marie
+SimplePattern, green, ground, leaf, leaves, 

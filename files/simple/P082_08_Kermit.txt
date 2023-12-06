@@ -1,0 +1,4 @@
+SimplePattern
+Kermit
+Ghosty
+SimplePattern, frog, hat, kermit, 

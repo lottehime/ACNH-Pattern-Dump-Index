@@ -1,4 +1,0 @@
-Type:Coat
-Name: PickingDaisies
-Creator: Berdine
-Tags: 

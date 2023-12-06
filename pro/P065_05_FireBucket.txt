@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: FireBucket
-Creator: DungeonH321X
-Tags: 

@@ -1,4 +1,0 @@
-Type:Coat
-Name: sailorunihaori
-Creator: M
-Tags: 

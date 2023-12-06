@@ -1,0 +1,4 @@
+SimplePattern
+whitecat
+olima
+SimplePattern, cat, pet, 

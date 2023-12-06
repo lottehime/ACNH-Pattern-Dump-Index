@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: IllyrianStoneR
-Creator: M
-Tags: 

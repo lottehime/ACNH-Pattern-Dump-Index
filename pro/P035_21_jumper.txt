@@ -1,4 +1,0 @@
-Type:Pullover
-Name: jumper
-Creator: froggylad
-Tags: 

@@ -1,4 +1,0 @@
-Type:Coat
-Name: Vestidoabotonado
-Creator: lolo
-Tags: pro, 

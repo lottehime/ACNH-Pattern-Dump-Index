@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FFXIV503
-Creator: YUKIKAZI
-Tags: 

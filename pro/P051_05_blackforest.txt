@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: blackforest
-Creator: faeze
-Tags: cake, hat, 

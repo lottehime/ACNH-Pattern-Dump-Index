@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: GreenKingflipMesh
-Creator: NEO
-Tags: flip, green, king, splatoon, splatoon2, 

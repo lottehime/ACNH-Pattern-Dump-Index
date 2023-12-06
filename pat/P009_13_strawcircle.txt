@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: strawcircle
-Creator: dingleberry
-Tags: 

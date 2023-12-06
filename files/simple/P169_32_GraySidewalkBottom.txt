@@ -1,0 +1,4 @@
+SimplePattern
+GraySidewalkBottom
+Fasil
+SimplePattern, 108829519808, 

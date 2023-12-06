@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Chucky
-Creator: M
-Tags: 

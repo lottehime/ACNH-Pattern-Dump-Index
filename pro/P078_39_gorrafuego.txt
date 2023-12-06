@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: gorrafuego
-Creator: Juanjooo87
-Tags: 

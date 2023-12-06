@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: Sloth
-Creator: M
-Tags: 

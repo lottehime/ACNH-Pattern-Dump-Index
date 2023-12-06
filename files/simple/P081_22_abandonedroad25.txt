@@ -1,0 +1,4 @@
+SimplePattern
+abandonedroad25
+ali
+SimplePattern, path, road, 

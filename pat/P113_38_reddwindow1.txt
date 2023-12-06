@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: reddwindow1
-Creator: flay
-Tags: 

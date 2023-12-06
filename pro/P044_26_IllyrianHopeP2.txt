@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: IllyrianHopeP2
-Creator: 1
-Tags: 

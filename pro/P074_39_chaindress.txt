@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: chaindress
-Creator: Boshi
-Tags: 720093294782, black, white, 

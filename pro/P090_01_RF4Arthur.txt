@@ -1,4 +1,0 @@
-Type:LongSleeveDress3DS
-Name: RF4Arthur
-Creator: Potato
-Tags: 

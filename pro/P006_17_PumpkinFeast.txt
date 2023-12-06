@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: PumpkinFeast
-Creator: PisiPisi
-Tags: 

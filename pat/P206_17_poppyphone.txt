@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: poppyphone
-Creator: Boshi
-Tags: case, flowers, green, phone, 

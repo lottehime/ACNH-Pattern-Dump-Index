@@ -1,0 +1,4 @@
+SimplePattern
+Drain
+Boshi
+SimplePattern, 776949961568, grate, sewer, 

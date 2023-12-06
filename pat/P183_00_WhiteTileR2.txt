@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WhiteTileR2
-Creator: Boshi
-Tags: 232523935432, 

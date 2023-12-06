@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: whitefloraldress2
-Creator: M
-Tags: 

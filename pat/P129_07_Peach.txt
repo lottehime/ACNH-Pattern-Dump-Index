@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Peach
-Creator: Moogie
-Tags: fruit, peach, sign, 

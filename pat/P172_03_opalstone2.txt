@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: opalstone2
-Creator: Boshi
-Tags: 871549200702, 

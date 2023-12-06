@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: TheGreatPapyrus
-Creator: EdicionGamerYT
-Tags: 

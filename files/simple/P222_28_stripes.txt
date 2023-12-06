@@ -1,0 +1,4 @@
+SimplePattern
+stripes
+meyling
+SimplePattern, cloth, fabric, stripes, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pebbles
-Creator: Boshi
-Tags: 605189070938, 

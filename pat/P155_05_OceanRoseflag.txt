@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: OceanRoseflag
-Creator: Eeden
-Tags: flag, ocean, rose, 

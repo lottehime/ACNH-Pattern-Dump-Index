@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BellMarker
-Creator: EdicionGamerYT
-Tags: 

@@ -1,4 +1,0 @@
-Type:TShirt
-Name: TottenhamKit
-Creator: Ribbajack
-Tags: football, soccer, sports, 

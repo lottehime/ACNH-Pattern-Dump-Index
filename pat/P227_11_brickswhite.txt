@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: brickswhite
-Creator: meyling
-Tags: bricks, path, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: potatosign
-Creator: michelle
-Tags: crop, farm, potato, produce, sign, 

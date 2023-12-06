@@ -1,4 +1,0 @@
-Type:LongSleeveDress
-Name: RedQueen
-Creator: Greenie
-Tags: alice, card, 

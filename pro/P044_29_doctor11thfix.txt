@@ -1,4 +1,0 @@
-Type:LongSleeveShirt
-Name: doctor11thfix
-Creator: afg
-Tags: 

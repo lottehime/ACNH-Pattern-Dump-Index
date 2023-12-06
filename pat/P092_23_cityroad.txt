@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: cityroad
-Creator: kuroneko
-Tags: citycore, road, 

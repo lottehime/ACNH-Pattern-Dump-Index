@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tile
-Creator: Lily
-Tags: path, stone, tile, 

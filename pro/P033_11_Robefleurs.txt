@@ -1,4 +1,0 @@
-Type:SleevelessDress
-Name: Robefleurs
-Creator: kibi
-Tags: 

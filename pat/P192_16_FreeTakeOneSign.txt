@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: FreeTakeOneSign
-Creator: LemonCat
-Tags: free, lemoncat, one, sign, take, 

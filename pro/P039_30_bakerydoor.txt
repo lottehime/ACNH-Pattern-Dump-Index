@@ -1,4 +1,0 @@
-Type:Standee
-Name: bakerydoor
-Creator: julia
-Tags: bakery, blue, door, standee, 

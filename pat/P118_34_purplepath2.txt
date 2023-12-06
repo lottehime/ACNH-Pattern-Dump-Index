@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: purplepath2
-Creator: pepito
-Tags: path, 

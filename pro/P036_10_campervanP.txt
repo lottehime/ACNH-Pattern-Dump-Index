@@ -1,4 +1,0 @@
-Type:Standee
-Name: campervanP
-Creator: Lisbelle
-Tags: 

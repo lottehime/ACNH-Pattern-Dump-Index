@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: LeafRoad
-Creator: PlankEdu
-Tags: abandoned, city, leaf, road, street, 

@@ -1,0 +1,4 @@
+SimplePattern
+portrait
+olima
+SimplePattern, 

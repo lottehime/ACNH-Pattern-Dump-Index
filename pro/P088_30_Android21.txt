@@ -1,4 +1,0 @@
-Type:Coat
-Name: Android21
-Creator: DrRover
-Tags: dbg, android21, dbkakarot, dragonball, fighterz, 

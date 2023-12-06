@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: DarkWoodPlank
-Creator: W0sT
-Tags: 

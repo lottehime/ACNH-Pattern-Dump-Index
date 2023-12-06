@@ -1,0 +1,4 @@
+SimplePattern
+LouisVuitton
+Moogie
+SimplePattern, brand, louisvuitton, pattern, 

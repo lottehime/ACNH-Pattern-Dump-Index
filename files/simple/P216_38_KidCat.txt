@@ -1,0 +1,4 @@
+SimplePattern
+KidCat
+Miray
+SimplePattern, 627141402287, cat, kid, kidcat, 

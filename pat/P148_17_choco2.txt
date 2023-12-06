@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: choco2
-Creator: EdicionGamerYT
-Tags: 

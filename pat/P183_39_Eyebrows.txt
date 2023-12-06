@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Eyebrows
-Creator: Elimare
-Tags: eyebrow, face, 

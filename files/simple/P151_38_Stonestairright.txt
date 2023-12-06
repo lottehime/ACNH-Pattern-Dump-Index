@@ -1,0 +1,4 @@
+SimplePattern
+Stonestairright
+Cam
+SimplePattern, stair, staircase, stairs, stone, stonestairs, 

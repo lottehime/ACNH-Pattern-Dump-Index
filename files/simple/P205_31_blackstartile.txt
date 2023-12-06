@@ -1,0 +1,4 @@
+SimplePattern
+blackstartile
+Boshi
+SimplePattern, 511696445826, black, gold, star, 

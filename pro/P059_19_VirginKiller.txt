@@ -1,4 +1,0 @@
-Type:RoundDress
-Name: VirginKiller
-Creator: Sukurudo
-Tags: sweater, 

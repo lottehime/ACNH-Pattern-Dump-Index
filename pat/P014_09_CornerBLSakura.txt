@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: CornerBLSakura
-Creator: M
-Tags: 

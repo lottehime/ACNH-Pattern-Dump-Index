@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: ichigobordervert
-Creator: Boshi
-Tags: 750508940096, 

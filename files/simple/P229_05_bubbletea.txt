@@ -1,0 +1,4 @@
+SimplePattern
+bubbletea
+DiscordServer
+SimplePattern, bubbletea, drink, poster, signs, 

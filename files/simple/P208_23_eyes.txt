@@ -1,0 +1,4 @@
+SimplePattern
+eyes
+Boshi
+SimplePattern, 501106004800, eyes, magic, purple, 

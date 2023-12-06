@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StoneTile
-Creator: flyingfish
-Tags: 

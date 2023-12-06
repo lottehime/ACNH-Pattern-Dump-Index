@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: McDonalds
-Creator: Steph9009
-Tags: food, logo, mcdonald, mcdonalds, restaurant, 

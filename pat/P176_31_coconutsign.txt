@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: coconutsign
-Creator: Boshi
-Tags: 652288873621, 

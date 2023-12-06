@@ -1,0 +1,4 @@
+BrimmedHat
+DesignerHat
+Moogie
+BrimmedHat, designer, hat, 

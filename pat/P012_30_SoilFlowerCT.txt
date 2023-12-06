@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: SoilFlowerCT
-Creator: M
-Tags: 

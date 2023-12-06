@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Bloque
-Creator: Miray
-Tags: block, block, mario, supermario, supermario, 

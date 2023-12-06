@@ -1,0 +1,4 @@
+SimplePattern
+Pineapple
+Elle
+SimplePattern, fruit, pineapple, 

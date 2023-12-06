@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: StationPavement
-Creator: EveK
-Tags: pavement, station, 

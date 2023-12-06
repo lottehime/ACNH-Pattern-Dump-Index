@@ -1,4 +1,0 @@
-Type:Coat
-Name: pinksweater
-Creator: EVA
-Tags: 

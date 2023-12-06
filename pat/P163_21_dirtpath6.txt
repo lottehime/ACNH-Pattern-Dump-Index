@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: dirtpath6
-Creator: kat
-Tags: dirt, path, 

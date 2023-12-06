@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Zen3x3BottomLeft
-Creator: Fasil
-Tags: 656814940629, 

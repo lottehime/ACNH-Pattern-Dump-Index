@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: pizza2
-Creator: flay
-Tags: 

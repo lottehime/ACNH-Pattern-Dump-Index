@@ -1,4 +1,0 @@
-Type:ShortSleeveDress
-Name: lacedress
-Creator: Greenie
-Tags: 

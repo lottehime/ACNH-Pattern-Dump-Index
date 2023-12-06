@@ -1,0 +1,4 @@
+SimplePattern
+hi
+kim
+SimplePattern, red, swiffer, swifty, taylor, 

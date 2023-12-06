@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BrickRoad9
-Creator: roriz
-Tags: brick, road, 

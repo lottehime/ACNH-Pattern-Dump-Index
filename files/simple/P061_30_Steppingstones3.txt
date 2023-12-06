@@ -1,0 +1,4 @@
+SimplePattern
+Steppingstones3
+Strike
+SimplePattern, 

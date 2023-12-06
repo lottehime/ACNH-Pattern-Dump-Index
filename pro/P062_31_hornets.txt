@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: hornets
-Creator: Boshi
-Tags: 635368039586, 

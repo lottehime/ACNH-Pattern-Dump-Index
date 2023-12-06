@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: NebulaPurpleTeal
-Creator: Boshi
-Tags: 504700011952, 

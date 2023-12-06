@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: ZeldaBOTWGown
-Creator: Moogie
-Tags: botw, dress, gown, loz, zelda, 

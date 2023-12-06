@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: PinkPumaHoodie
-Creator: Mao
-Tags: hoodie, pink, puma, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Test
-Creator: Tay
-Tags: 

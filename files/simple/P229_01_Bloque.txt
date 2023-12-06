@@ -1,0 +1,4 @@
+SimplePattern
+Bloque
+Miray
+SimplePattern, block, block, mario, supermario, supermario, 

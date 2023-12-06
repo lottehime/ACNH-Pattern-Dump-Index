@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Cucco
-Creator: ling
-Tags: 

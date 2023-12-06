@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: BABYDOLL
-Creator: huadu
-Tags: 

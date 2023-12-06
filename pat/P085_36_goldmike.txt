@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: goldmike
-Creator: TheMike
-Tags: 

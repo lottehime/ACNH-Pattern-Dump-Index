@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: wood8
-Creator: tj
-Tags: 

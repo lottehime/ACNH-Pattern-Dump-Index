@@ -1,0 +1,4 @@
+SimplePattern
+train1
+flyingfish
+SimplePattern, japanese, 

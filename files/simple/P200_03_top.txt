@@ -1,0 +1,4 @@
+SimplePattern
+top
+Boshi
+SimplePattern, 832136943130, bricks, path, stone, 

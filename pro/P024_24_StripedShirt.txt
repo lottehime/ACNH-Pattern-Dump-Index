@@ -1,4 +1,0 @@
-Type:Coat
-Name: StripedShirt
-Creator: rei
-Tags: 

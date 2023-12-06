@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: AnkahZONE
-Creator: HungryHoncho
-Tags: ankah, minus8, zone, 

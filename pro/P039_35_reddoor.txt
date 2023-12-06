@@ -1,4 +1,0 @@
-Type:Standee
-Name: reddoor
-Creator: julia
-Tags: door, red, standee, 

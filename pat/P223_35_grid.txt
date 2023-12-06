@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: grid
-Creator: meyling
-Tags: grid, vaporwave, 

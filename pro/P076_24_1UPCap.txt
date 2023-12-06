@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: 1UPCap
-Creator: Alex
-Tags: 1up, hat, nintendo, 

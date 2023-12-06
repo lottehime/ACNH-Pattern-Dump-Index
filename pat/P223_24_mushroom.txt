@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: mushroom
-Creator: meyling
-Tags: decor, mushroom, walldecor, 

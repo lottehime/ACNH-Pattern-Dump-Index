@@ -1,0 +1,4 @@
+SimplePattern
+stone
+Boshi
+SimplePattern, 834282251306, path, rock, stone, 

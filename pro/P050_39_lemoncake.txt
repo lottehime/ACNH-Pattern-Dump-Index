@@ -1,4 +1,0 @@
-Type:BrimmedHat
-Name: lemoncake
-Creator: faeze
-Tags: cake, hat, lemon, 

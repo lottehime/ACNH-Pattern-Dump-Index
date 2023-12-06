@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: todomatsu
-Creator: sad
-Tags: todomatsu, 

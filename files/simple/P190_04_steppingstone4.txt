@@ -1,0 +1,4 @@
+SimplePattern
+steppingstone4
+Unknown
+SimplePattern, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MurakamiFlowersv1
-Creator: Boshi
-Tags: 589574651843, 

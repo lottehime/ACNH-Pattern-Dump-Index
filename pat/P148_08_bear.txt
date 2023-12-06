@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: bear
-Creator: Sakura
-Tags: animal, bear, 

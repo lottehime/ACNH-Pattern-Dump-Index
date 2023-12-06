@@ -1,0 +1,4 @@
+SimplePattern
+murphy
+grape
+SimplePattern, bear, grape, villager, 

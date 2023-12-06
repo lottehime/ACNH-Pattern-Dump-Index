@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: MonokumaCap
-Creator: gug
-Tags: cap, danganronpa, despair, monokuma, 

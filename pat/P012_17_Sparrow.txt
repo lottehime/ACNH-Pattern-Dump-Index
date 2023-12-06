@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Sparrow
-Creator: M
-Tags: 

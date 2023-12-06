@@ -1,4 +1,0 @@
-Type:LongSleeveDress3DS
-Name: greencoat
-Creator: meyling
-Tags: acnlqr, dress, 

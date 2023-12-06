@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Path
-Creator: Potato
-Tags: 

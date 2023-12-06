@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: BearDress
-Creator: Eeden
-Tags: bear, brown, dress, 

@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: rainbowphone
-Creator: Boshi
-Tags: case, phone, rainbow, 

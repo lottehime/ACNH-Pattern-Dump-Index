@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: PoolOpenRecolour
-Creator: Moogie
-Tags: pool, recolour, sign, 

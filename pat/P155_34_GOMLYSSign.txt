@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: GOMLYSSign
-Creator: Fab
-Tags: sign, 

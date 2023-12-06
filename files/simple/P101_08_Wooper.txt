@@ -1,0 +1,4 @@
+SimplePattern
+Wooper
+Dreski
+SimplePattern, pokemon, wooper, 

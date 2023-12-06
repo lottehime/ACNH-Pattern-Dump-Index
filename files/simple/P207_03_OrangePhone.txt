@@ -1,0 +1,4 @@
+SimplePattern
+OrangePhone
+Boshi
+SimplePattern, case, fruit, orange, phone, 

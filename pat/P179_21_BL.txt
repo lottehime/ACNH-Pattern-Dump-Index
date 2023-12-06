@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BL
-Creator: Boshi
-Tags: 001838824571, 

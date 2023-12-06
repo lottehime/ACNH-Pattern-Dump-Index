@@ -1,4 +1,0 @@
-Type:Standee
-Name: Torrance
-Creator: callmerob
-Tags: 

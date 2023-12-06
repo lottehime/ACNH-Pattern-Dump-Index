@@ -1,4 +1,0 @@
-Type:BalloonDress
-Name: Fairy
-Creator: pickle
-Tags: 

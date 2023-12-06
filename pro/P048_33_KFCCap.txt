@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: KFCCap
-Creator: Vinnie
-Tags: employee, food, kfc, 

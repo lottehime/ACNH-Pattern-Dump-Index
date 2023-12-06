@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WarmExtra7
-Creator: Boshi
-Tags: 858468843996, 

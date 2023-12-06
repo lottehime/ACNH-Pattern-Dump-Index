@@ -1,0 +1,4 @@
+SimplePattern
+Border1
+Boshi
+SimplePattern, 343855359458, garden, terracotta, 

@@ -1,0 +1,4 @@
+SimplePattern
+StonesLowerRight
+Fasil
+SimplePattern, 740411960223, 

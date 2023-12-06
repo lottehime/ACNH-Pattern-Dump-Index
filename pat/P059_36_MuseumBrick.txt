@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: MuseumBrick
-Creator: Lora
-Tags: 946958078965, 

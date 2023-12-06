@@ -1,4 +1,0 @@
-Type:Coat
-Name: moss
-Creator: froggylad
-Tags: 

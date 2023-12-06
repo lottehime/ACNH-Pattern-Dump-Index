@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: JinjerFlag1
-Creator: MtFister
-Tags: jinjer, 

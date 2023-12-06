@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: tomatoes
-Creator: meyling
-Tags: floordecor, garden, 

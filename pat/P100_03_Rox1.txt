@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Rox1
-Creator: dingleberry
-Tags: 

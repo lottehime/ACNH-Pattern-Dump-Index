@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Mariopath5
-Creator: Crystel
-Tags: 

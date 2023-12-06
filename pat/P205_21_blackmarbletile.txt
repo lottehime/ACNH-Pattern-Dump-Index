@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: blackmarbletile
-Creator: Boshi
-Tags: 511696445826, black, gold, 

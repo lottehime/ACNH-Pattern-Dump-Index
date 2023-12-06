@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: cafe2
-Creator: EdicionGamerYT
-Tags: 

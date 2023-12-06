@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BrickBorder13
-Creator: Boshi
-Tags: 488473011388, border, brick, brown, 

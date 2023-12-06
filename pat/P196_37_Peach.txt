@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Peach
-Creator: Amek
-Tags: fruit, peach, sign, 

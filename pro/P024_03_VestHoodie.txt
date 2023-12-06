@@ -1,4 +1,0 @@
-Type:Hoodie
-Name: VestHoodie
-Creator: rei
-Tags: 

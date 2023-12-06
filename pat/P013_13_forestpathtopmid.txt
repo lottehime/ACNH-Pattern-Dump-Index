@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: forestpathtopmid
-Creator: M
-Tags: 

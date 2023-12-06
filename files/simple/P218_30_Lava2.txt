@@ -1,0 +1,4 @@
+SimplePattern
+Lava2
+TGFbSMAD
+SimplePattern, fire, lava, rock, volcano, 

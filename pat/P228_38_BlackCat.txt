@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BlackCat
-Creator: Katz
-Tags: black, cat, meow, sitting, 

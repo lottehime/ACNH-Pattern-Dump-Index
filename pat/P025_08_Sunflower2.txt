@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Sunflower2
-Creator: PigSheriff
-Tags: 

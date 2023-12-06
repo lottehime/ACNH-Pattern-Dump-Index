@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: mushring2
-Creator: Ribbajack
-Tags: fairyring, mushroom, 

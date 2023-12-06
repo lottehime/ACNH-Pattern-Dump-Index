@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: flamedwoodendeck6
-Creator: flay
-Tags: 

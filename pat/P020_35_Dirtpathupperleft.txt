@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: Dirtpathupperleft
-Creator: eilla
-Tags: darkbrown, dirt, dirtpath, natural, path, 

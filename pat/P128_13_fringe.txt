@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: fringe
-Creator: Lie
-Tags: 

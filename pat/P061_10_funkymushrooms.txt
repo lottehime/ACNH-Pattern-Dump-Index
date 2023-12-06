@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: funkymushrooms
-Creator: Lavender
-Tags: 80s, mushroom, neon, snail, tiling, 

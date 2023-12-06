@@ -1,0 +1,4 @@
+SimplePattern
+StoneCircleTopLeft
+Oracle
+SimplePattern, circle, path, stone, 

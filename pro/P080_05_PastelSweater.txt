@@ -1,4 +1,0 @@
-Type:LongSleeveShirt3DS
-Name: PastelSweater
-Creator: meyling
-Tags: sweater, 

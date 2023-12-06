@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: WoodChips
-Creator: JakeH
-Tags: dirt, path, playground, woodchips, 

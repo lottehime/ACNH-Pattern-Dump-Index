@@ -1,0 +1,4 @@
+SimplePattern
+RoadCrossingHor
+Oracle
+SimplePattern, path, road, street, 

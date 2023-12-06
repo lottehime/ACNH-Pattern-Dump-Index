@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: stone2
-Creator: ling
-Tags: 

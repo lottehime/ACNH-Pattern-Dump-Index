@@ -1,4 +1,0 @@
-Type:SimplePattern
-Name: BeachRight
-Creator: Fasil
-Tags: 

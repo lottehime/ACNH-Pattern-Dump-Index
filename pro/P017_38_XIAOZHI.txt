@@ -1,4 +1,0 @@
-Type:BrimmedCap
-Name: XIAOZHI
-Creator: LDK
-Tags: hat, 
