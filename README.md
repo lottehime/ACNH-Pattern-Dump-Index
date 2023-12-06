@@ -120,7 +120,7 @@ Each design patterns 4 files need to have the same name (minus extensions).
 Optionally, for ACNL interoperable pattern types a ``.acnl`` file with the same name can be included as well.
 
 <strong>PRO Design Pattern Files:</strong>  
-Each design patterns 3 files need to have the same name (minus extensions).
+Each design patterns 4 files need to have the same name (minus extensions).
 * ``.nhpd``: PRO Design Pattern Data, ``0x8A8`` (2216 bytes) in size. Untrimmed. NHSE compatible.
 * ``.png``: 64x64px PNG of the pattern, transparency included. Preference is a 1:1 data to PNG encode, limit post-processing.
 * ``.QR.png``: QR Code PNG of the for the pattern, or a placeholder "no qr" image. 
@@ -281,6 +281,6 @@ _Animal crossing characters, trademarks, logos, names, etc. are the property of 
 _This is a fan project undertaken with fair use in mind and in good faith towards the rights holders.
 Neither the project, nor I have any relation or affiliation to the above owners and/or rights holders._
 
-_Any issues, please kindly let me know_
+_Any issues, please kindly let me know._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
