@@ -22,7 +22,7 @@
                 document.querySelector('#patterns-datatable-output').innerHTML = document.querySelector('#patterns-datatable').innerHTML;
                 var tableRenderer = document.querySelector('#patterns-datatable-output table');
                 var datatable = new DataTable(tableRenderer, {
-                    pageSize: 10,
+                    pageSize: 30,
                     pagingDivSelector: '#patterns-datatable_paginate',
                     counterDivSelector: '#pagination-info',
                     counterText: function (t, e, i, s, a, n) {
