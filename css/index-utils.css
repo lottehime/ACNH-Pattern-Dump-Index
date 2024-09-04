@@ -2,20 +2,53 @@
 
 /* Utilities */
 :root {
-  --ACNHcolFontDarkBrown : #5b2322;
-  --ACNHcolCreamDark     : #f2e6cc;
-  --ACNHcolCreamLight    : #f4eed6;
-  --ACNHcolPinkDark      : #f8a5b0;
-  --ACNHcolPinkMid       : #fca9b1;
-  --ACNHcolPinkLight     : #f9aeb5;
-  --ACNHcolPinkLightest  : #ffe6e3;
-  --ACNHcolGreenDark     : #02a79f;
-  --ACNHcolGreenMid      : #0ac9b9;
-  --ACNHcolGreenLight    : #61e0d8;
-  --ACNHcolGreenLightest : #affffa;
-  --ACNHcolYellowDark    : #d8c27f;
-  --ACNHcolYellowLight   : #f0de5d;
-  cursor: url('../img/Hand.png'), auto;
+    /*Senzai Color Scheme*/
+    --wisteria-light:   #C5B4F8;
+    --wisteria-dark:    #9A7CF3;
+    --sky-light:        #80DFEF;
+    --sky-dark:         #49D1E9;
+    --surf-light:       #A5F2E3;
+    --surf-dark:        #6FEBD3;
+    --ginkgo-light:     #B9E48B;
+    --ginkgo-dark:      #9BD85A;
+    --yuzu-light:       #F9E18B;
+    --yuzu-dark:        #F6D251;
+    --mikan-light:      #FDAC72;
+    --mikan-dark:       #FC8936;
+    --hydrangea-light:  #FF6D8F;
+    --hydrangea-dark:   #FF2D5E;
+    --azalea-light:     #FF93FA;
+    --azalea-dark:      #FF5DE1;
+    --pebble:           #F5F5EF;
+    --mackerel:         #908E8F;
+    --basalt:           #2A262C;
+    --slate:            #111114;
+    --anko-light:       #4A3F32;
+    --anko-dark:        #251F18;
+    --karinto-light:    #876D58;
+    --karinto-dark:     #564638;
+    --dango-light:      #F4EED6;
+    --dango-dark:       #E6D79E;
+    --sakura-light:     #F7B8BA;
+    --sakura-dark:      #F17E82;
+    --marblesoda-light: #59C2E6;
+    --marblesoda-dark:  #20A8D5;
+    --matcha-light:     #79D993;
+    --matcha-dark:      #40C965;
+
+    --ACNHcolFontDarkBrown : var(--anko-dark);
+    --ACNHcolCreamDark     : var(--dango-dark);
+    --ACNHcolCreamLight    : var(--dango-light);
+    --ACNHcolPinkMid       : var(--sakura-light);
+    --ACNHcolGreenDark     : var(--matcha-dark);
+    --ACNHcolGreenMid      : var(--matcha-light);
+    --ACNHcolGreenLight    : var(--matcha-light);
+    --ACNHcolGreenLightest : var(--pebble);
+    cursor: url('../img/Hand.png'), auto;
+}
+
+* {
+  -webkit-text-size-adjust:100%;
 }
 
 .tooltip-item img {
@@ -35,7 +68,7 @@
 
 .villager-shake {
     z-index: 1001; 
-    position: absolute; 
+    position: relative; 
     top: 10px; 
     left: 10px;
 }
